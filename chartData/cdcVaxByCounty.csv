@@ -1,0 +1,3194 @@
+Date,FIPS-Code,StateName,StateAbbr,County,Series_Complete_Pop_Pct,Administered_Dose1_Pop_Pct
+2022-01-20,01001,Alabama,AL,Autauga County,41.9,53.1
+2022-01-20,01003,Alabama,AL,Baldwin County,48.9,62.2
+2022-01-20,01005,Alabama,AL,Barbour County,43.2,53.6
+2022-01-20,01007,Alabama,AL,Bibb County,33.5,41.4
+2022-01-20,01009,Alabama,AL,Blount County,30.6,37.3
+2022-01-20,01011,Alabama,AL,Bullock County,50.4,63.9
+2022-01-20,01013,Alabama,AL,Butler County,38,48.2
+2022-01-20,01015,Alabama,AL,Calhoun County,45.3,55.6
+2022-01-20,01017,Alabama,AL,Chambers County,30.1,36.5
+2022-01-20,01019,Alabama,AL,Cherokee County,29.9,36.9
+2022-01-20,01021,Alabama,AL,Chilton County,35,43.1
+2022-01-20,01023,Alabama,AL,Choctaw County,63.7,79.7
+2022-01-20,01025,Alabama,AL,Clarke County,49.4,61.7
+2022-01-20,01027,Alabama,AL,Clay County,40.6,49.2
+2022-01-20,01029,Alabama,AL,Cleburne County,27.8,33.5
+2022-01-20,01031,Alabama,AL,Coffee County,45.1,55.9
+2022-01-20,01033,Alabama,AL,Colbert County,46.5,55.7
+2022-01-20,01035,Alabama,AL,Conecuh County,42.2,55.4
+2022-01-20,01037,Alabama,AL,Coosa County,39.5,47.7
+2022-01-20,01039,Alabama,AL,Covington County,37,45.4
+2022-01-20,01041,Alabama,AL,Crenshaw County,33.3,40.7
+2022-01-20,01043,Alabama,AL,Cullman County,37.2,44.1
+2022-01-20,01045,Alabama,AL,Dale County,45.8,55
+2022-01-20,01047,Alabama,AL,Dallas County,43.3,57.2
+2022-01-20,01049,Alabama,AL,DeKalb County,32.6,40.4
+2022-01-20,01051,Alabama,AL,Elmore County,44.2,55.4
+2022-01-20,01053,Alabama,AL,Escambia County,35.1,45.5
+2022-01-20,01055,Alabama,AL,Etowah County,39.8,48.3
+2022-01-20,01057,Alabama,AL,Fayette County,34,39.9
+2022-01-20,01059,Alabama,AL,Franklin County,42.2,51.9
+2022-01-20,01061,Alabama,AL,Geneva County,39,47.3
+2022-01-20,01063,Alabama,AL,Greene County,48.9,62.1
+2022-01-20,01065,Alabama,AL,Hale County,59.2,70.7
+2022-01-20,01067,Alabama,AL,Henry County,43.9,53.4
+2022-01-20,01069,Alabama,AL,Houston County,41.6,50
+2022-01-20,01071,Alabama,AL,Jackson County,47.3,57.9
+2022-01-20,01073,Alabama,AL,Jefferson County,55.4,69
+2022-01-20,01075,Alabama,AL,Lamar County,42.5,49.5
+2022-01-20,01077,Alabama,AL,Lauderdale County,44.6,55.9
+2022-01-20,01079,Alabama,AL,Lawrence County,45.9,53.9
+2022-01-20,01081,Alabama,AL,Lee County,38.5,46.4
+2022-01-20,01083,Alabama,AL,Limestone County,37.4,44.6
+2022-01-20,01085,Alabama,AL,Lowndes County,47.8,62.7
+2022-01-20,01087,Alabama,AL,Macon County,45.7,58.1
+2022-01-20,01089,Alabama,AL,Madison County,59.1,73.1
+2022-01-20,01091,Alabama,AL,Marengo County,52.6,65.4
+2022-01-20,01093,Alabama,AL,Marion County,35.3,41.6
+2022-01-20,01095,Alabama,AL,Marshall County,44,53.9
+2022-01-20,01097,Alabama,AL,Mobile County,47.6,58.3
+2022-01-20,01099,Alabama,AL,Monroe County,42.3,53.6
+2022-01-20,01101,Alabama,AL,Montgomery County,49.3,63.2
+2022-01-20,01103,Alabama,AL,Morgan County,42.1,50.1
+2022-01-20,01105,Alabama,AL,Perry County,46.5,56.8
+2022-01-20,01107,Alabama,AL,Pickens County,47.4,58.6
+2022-01-20,01109,Alabama,AL,Pike County,40.1,48.8
+2022-01-20,01111,Alabama,AL,Randolph County,31.7,39.1
+2022-01-20,01113,Alabama,AL,Russell County,38.3,51.7
+2022-01-20,01117,Alabama,AL,Shelby County,34.8,43.4
+2022-01-20,01115,Alabama,AL,St. Clair County,37.7,45.4
+2022-01-20,01119,Alabama,AL,Sumter County,48.6,65.8
+2022-01-20,01121,Alabama,AL,Talladega County,35.4,43.4
+2022-01-20,01123,Alabama,AL,Tallapoosa County,37.5,44.7
+2022-01-20,01125,Alabama,AL,Tuscaloosa County,42.1,51.2
+2022-01-20,01127,Alabama,AL,Walker County,45.8,55.2
+2022-01-20,01129,Alabama,AL,Washington County,44.5,54.6
+2022-01-20,01131,Alabama,AL,Wilcox County,51.3,65.5
+2022-01-20,01133,Alabama,AL,Winston County,21.4,25.8
+2022-01-20,02013,Alaska,AK,Aleutians East Borough,71.4,81.5
+2022-01-20,02016,Alaska,AK,Aleutians West CA,59.6,70.2
+2022-01-20,02020,Alaska,AK,Anchorage Muny,61.6,72.1
+2022-01-20,02050,Alaska,AK,Bethel CA,64.8,71.7
+2022-01-20,02060,Alaska,AK,Bristol Bay Borough,95,95
+2022-01-20,02068,Alaska,AK,Denali Borough,50.6,60.7
+2022-01-20,02070,Alaska,AK,Dillingham CA,48.9,55.4
+2022-01-20,02090,Alaska,AK,Fairbanks North Star Borough,55,65.3
+2022-01-20,02100,Alaska,AK,Haines Borough,67.6,72.6
+2022-01-20,02105,Alaska,AK,Hoonah-Angoon CA,70.3,75.1
+2022-01-20,02110,Alaska,AK,Juneau Cty&Bor,71.6,80.2
+2022-01-20,02122,Alaska,AK,Kenai Peninsula Borough,44.9,51.1
+2022-01-20,02130,Alaska,AK,Ketchikan Gateway Borough,61.9,68.8
+2022-01-20,02150,Alaska,AK,Kodiak Island Borough,62.4,69.9
+2022-01-20,02158,Alaska,AK,Kusilvak Census Area,65.4,71.9
+2022-01-20,02164,Alaska,AK,Lake and Peninsula Borough,57.2,64.6
+2022-01-20,02170,Alaska,AK,Matanuska-Susitna Borough,37.1,42.9
+2022-01-20,02180,Alaska,AK,Nome CA,67.1,72.3
+2022-01-20,02185,Alaska,AK,North Slope Borough,37.7,41.8
+2022-01-20,02188,Alaska,AK,Northwest Arctic Borough,57.1,62.3
+2022-01-20,02195,Alaska,AK,Petersburg CA,72.7,79
+2022-01-20,02198,Alaska,AK,Prince of Wales-Hyder CA,52.8,58.4
+2022-01-20,02220,Alaska,AK,Sitka Cty&Bor,73.8,78.8
+2022-01-20,02230,Alaska,AK,Skagway Muny,71.3,77.2
+2022-01-20,02240,Alaska,AK,Southeast Fairbanks CA,36.4,43
+2022-01-20,02261,Alaska,AK,Valdez-Cordova Census Area,57.6,64.2
+2022-01-20,02275,Alaska,AK,Wrangell Cty&Bor,57.2,59.5
+2022-01-20,02282,Alaska,AK,Yakutat Cty&Bor,74.8,77.4
+2022-01-20,02290,Alaska,AK,Yukon-Koyukuk CA,67.8,79.4
+2022-01-20,04001,Arizona,AZ,Apache County,91.4,95
+2022-01-20,04003,Arizona,AZ,Cochise County,61.1,75.4
+2022-01-20,04005,Arizona,AZ,Coconino County,74.4,88.1
+2022-01-20,04007,Arizona,AZ,Gila County,56.7,66.7
+2022-01-20,04009,Arizona,AZ,Graham County,60.4,70
+2022-01-20,04011,Arizona,AZ,Greenlee County,42.4,48.1
+2022-01-20,04012,Arizona,AZ,La Paz County,46.9,58.1
+2022-01-20,04013,Arizona,AZ,Maricopa County,54.6,64.3
+2022-01-20,04015,Arizona,AZ,Mohave County,39.9,49.1
+2022-01-20,04017,Arizona,AZ,Navajo County,70.2,85
+2022-01-20,04019,Arizona,AZ,Pima County,65.5,77.7
+2022-01-20,04021,Arizona,AZ,Pinal County,51,59.7
+2022-01-20,04023,Arizona,AZ,Santa Cruz County,95,95
+2022-01-20,04025,Arizona,AZ,Yavapai County,45.2,55.5
+2022-01-20,04027,Arizona,AZ,Yuma County,65.8,81.6
+2022-01-20,05001,Arkansas,AR,Arkansas County,53.9,63.2
+2022-01-20,05003,Arkansas,AR,Ashley County,48.2,56.9
+2022-01-20,05005,Arkansas,AR,Baxter County,45.8,53.6
+2022-01-20,05007,Arkansas,AR,Benton County,51.3,63
+2022-01-20,05009,Arkansas,AR,Boone County,36.3,43.1
+2022-01-20,05011,Arkansas,AR,Bradley County,54.9,65
+2022-01-20,05013,Arkansas,AR,Calhoun County,36.1,41.9
+2022-01-20,05015,Arkansas,AR,Carroll County,46.2,55.4
+2022-01-20,05017,Arkansas,AR,Chicot County,53.1,64.4
+2022-01-20,05019,Arkansas,AR,Clark County,47.2,55.4
+2022-01-20,05021,Arkansas,AR,Clay County,44.2,50.5
+2022-01-20,05023,Arkansas,AR,Cleburne County,43.1,50.6
+2022-01-20,05025,Arkansas,AR,Cleveland County,50.9,59.1
+2022-01-20,05027,Arkansas,AR,Columbia County,47.3,56.9
+2022-01-20,05029,Arkansas,AR,Conway County,52.3,60.3
+2022-01-20,05031,Arkansas,AR,Craighead County,43.7,52.2
+2022-01-20,05033,Arkansas,AR,Crawford County,44.2,52.2
+2022-01-20,05035,Arkansas,AR,Crittenden County,42.7,52.7
+2022-01-20,05037,Arkansas,AR,Cross County,49.7,57.8
+2022-01-20,05039,Arkansas,AR,Dallas County,54.8,63
+2022-01-20,05041,Arkansas,AR,Desha County,57.4,69.9
+2022-01-20,05043,Arkansas,AR,Drew County,46.2,54.8
+2022-01-20,05045,Arkansas,AR,Faulkner County,49.5,58
+2022-01-20,05047,Arkansas,AR,Franklin County,47.3,53.2
+2022-01-20,05049,Arkansas,AR,Fulton County,31.6,36.9
+2022-01-20,05051,Arkansas,AR,Garland County,44.2,52.8
+2022-01-20,05053,Arkansas,AR,Grant County,44.5,52.1
+2022-01-20,05055,Arkansas,AR,Greene County,41.6,48.2
+2022-01-20,05057,Arkansas,AR,Hempstead County,37.9,47.7
+2022-01-20,05059,Arkansas,AR,Hot Spring County,41.4,47.7
+2022-01-20,05061,Arkansas,AR,Howard County,52.7,62.1
+2022-01-20,05063,Arkansas,AR,Independence County,39.6,46.6
+2022-01-20,05065,Arkansas,AR,Izard County,36.7,43
+2022-01-20,05067,Arkansas,AR,Jackson County,37.2,44.3
+2022-01-20,05069,Arkansas,AR,Jefferson County,42.6,54.4
+2022-01-20,05071,Arkansas,AR,Johnson County,47.6,56.4
+2022-01-20,05073,Arkansas,AR,Lafayette County,40.2,47.7
+2022-01-20,05075,Arkansas,AR,Lawrence County,45.3,53.5
+2022-01-20,05077,Arkansas,AR,Lee County,32.2,40.7
+2022-01-20,05079,Arkansas,AR,Lincoln County,33.9,40.7
+2022-01-20,05081,Arkansas,AR,Little River County,38.1,47.7
+2022-01-20,05083,Arkansas,AR,Logan County,45.7,52.5
+2022-01-20,05085,Arkansas,AR,Lonoke County,46.2,54.3
+2022-01-20,05087,Arkansas,AR,Madison County,41.8,49.1
+2022-01-20,05089,Arkansas,AR,Marion County,35,41.4
+2022-01-20,05091,Arkansas,AR,Miller County,30,39.7
+2022-01-20,05093,Arkansas,AR,Mississippi County,39.2,47
+2022-01-20,05095,Arkansas,AR,Monroe County,53.8,66.7
+2022-01-20,05097,Arkansas,AR,Montgomery County,35.4,41.7
+2022-01-20,05099,Arkansas,AR,Nevada County,42.2,55
+2022-01-20,05101,Arkansas,AR,Newton County,33.1,39.7
+2022-01-20,05103,Arkansas,AR,Ouachita County,52.6,61.2
+2022-01-20,05105,Arkansas,AR,Perry County,50.4,58.7
+2022-01-20,05107,Arkansas,AR,Phillips County,47.4,56.6
+2022-01-20,05109,Arkansas,AR,Pike County,40.8,50.6
+2022-01-20,05111,Arkansas,AR,Poinsett County,43.3,51.7
+2022-01-20,05113,Arkansas,AR,Polk County,33.9,41.9
+2022-01-20,05115,Arkansas,AR,Pope County,48,56.2
+2022-01-20,05117,Arkansas,AR,Prairie County,41.8,50.6
+2022-01-20,05119,Arkansas,AR,Pulaski County,55.8,66.3
+2022-01-20,05121,Arkansas,AR,Randolph County,39.2,47.6
+2022-01-20,05125,Arkansas,AR,Saline County,48.6,57
+2022-01-20,05127,Arkansas,AR,Scott County,46.6,55.4
+2022-01-20,05129,Arkansas,AR,Searcy County,37.8,44.1
+2022-01-20,05131,Arkansas,AR,Sebastian County,47.8,58
+2022-01-20,05133,Arkansas,AR,Sevier County,43.6,51.4
+2022-01-20,05135,Arkansas,AR,Sharp County,37.7,44.8
+2022-01-20,05123,Arkansas,AR,St. Francis County,48.1,56.7
+2022-01-20,05137,Arkansas,AR,Stone County,35.5,41.3
+2022-01-20,05139,Arkansas,AR,Union County,46.9,59.6
+2022-01-20,05141,Arkansas,AR,Van Buren County,40.7,46.6
+2022-01-20,05143,Arkansas,AR,Washington County,53.4,64.7
+2022-01-20,05145,Arkansas,AR,White County,43,50.6
+2022-01-20,05147,Arkansas,AR,Woodruff County,54.9,63.2
+2022-01-20,05149,Arkansas,AR,Yell County,47.3,53.9
+2022-01-20,06001,California,CA,Alameda County,79,90.6
+2022-01-20,06005,California,CA,Amador County,54.6,80.6
+2022-01-20,06007,California,CA,Butte County,51.5,58.5
+2022-01-20,06009,California,CA,Calaveras County,62.3,87.4
+2022-01-20,06011,California,CA,Colusa County,57.2,66.5
+2022-01-20,06013,California,CA,Contra Costa County,78.7,87.1
+2022-01-20,06015,California,CA,Del Norte County,41.2,48.7
+2022-01-20,06017,California,CA,El Dorado County,60.8,69
+2022-01-20,06019,California,CA,Fresno County,58.2,68.2
+2022-01-20,06021,California,CA,Glenn County,52.5,61.1
+2022-01-20,06023,California,CA,Humboldt County,63.6,72.3
+2022-01-20,06025,California,CA,Imperial County,81.6,95
+2022-01-20,06029,California,CA,Kern County,50.2,58.9
+2022-01-20,06031,California,CA,Kings County,46.9,56.1
+2022-01-20,06033,California,CA,Lake County,56.7,65
+2022-01-20,06035,California,CA,Lassen County,36.6,41.2
+2022-01-20,06037,California,CA,Los Angeles County,68.8,80
+2022-01-20,06039,California,CA,Madera County,50.9,61.8
+2022-01-20,06041,California,CA,Marin County,86.4,95
+2022-01-20,06045,California,CA,Mendocino County,64.9,74.8
+2022-01-20,06047,California,CA,Merced County,50,68.8
+2022-01-20,06053,California,CA,Monterey County,67.6,80
+2022-01-20,06055,California,CA,Napa County,73.9,86.1
+2022-01-20,06057,California,CA,Nevada County,61.8,71.2
+2022-01-20,06059,California,CA,Orange County,69,79.5
+2022-01-20,06061,California,CA,Placer County,65,72.3
+2022-01-20,06065,California,CA,Riverside County,56,65.4
+2022-01-20,06067,California,CA,Sacramento County,64.4,73.1
+2022-01-20,06069,California,CA,San Benito County,62.6,72.5
+2022-01-20,06071,California,CA,San Bernardino County,54.6,62.9
+2022-01-20,06073,California,CA,San Diego County,63,95
+2022-01-20,06075,California,CA,San Francisco County,81.5,93.8
+2022-01-20,06077,California,CA,San Joaquin County,61,85.1
+2022-01-20,06079,California,CA,San Luis Obispo County,58.3,67.4
+2022-01-20,06081,California,CA,San Mateo County,80.8,92.5
+2022-01-20,06083,California,CA,Santa Barbara County,67.4,77.9
+2022-01-20,06085,California,CA,Santa Clara County,83.3,94.2
+2022-01-20,06087,California,CA,Santa Cruz County,75.6,86.2
+2022-01-20,06089,California,CA,Shasta County,48.1,56.4
+2022-01-20,06093,California,CA,Siskiyou County,51.8,59.3
+2022-01-20,06095,California,CA,Solano County,63.8,77.1
+2022-01-20,06097,California,CA,Sonoma County,75,86
+2022-01-20,06099,California,CA,Stanislaus County,58.1,81.9
+2022-01-20,06101,California,CA,Sutter County,57.4,66.8
+2022-01-20,06103,California,CA,Tehama County,40.2,46.9
+2022-01-20,06107,California,CA,Tulare County,50.3,59.6
+2022-01-20,06109,California,CA,Tuolumne County,58.9,80.9
+2022-01-20,06111,California,CA,Ventura County,69.1,78.9
+2022-01-20,06113,California,CA,Yolo County,67.2,77.1
+2022-01-20,06115,California,CA,Yuba County,50.1,59.4
+2022-01-20,08001,Colorado,CO,Adams County,65.2,71
+2022-01-20,08003,Colorado,CO,Alamosa County,54.6,61.1
+2022-01-20,08005,Colorado,CO,Arapahoe County,65.7,71.6
+2022-01-20,08007,Colorado,CO,Archuleta County,56.1,62.7
+2022-01-20,08009,Colorado,CO,Baca County,38.5,40
+2022-01-20,08011,Colorado,CO,Bent County,25.8,27.1
+2022-01-20,08013,Colorado,CO,Boulder County,76.6,83.5
+2022-01-20,08014,Colorado,CO,Broomfield County,78.5,83.7
+2022-01-20,08015,Colorado,CO,Chaffee County,62.6,68.2
+2022-01-20,08017,Colorado,CO,Cheyenne County,32.2,33
+2022-01-20,08019,Colorado,CO,Clear Creek County,48.2,53.6
+2022-01-20,08021,Colorado,CO,Conejos County,47.3,52.3
+2022-01-20,08023,Colorado,CO,Costilla County,58.9,60.7
+2022-01-20,08025,Colorado,CO,Crowley County,21.1,22.6
+2022-01-20,08027,Colorado,CO,Custer County,47,52
+2022-01-20,08029,Colorado,CO,Delta County,46.4,51.3
+2022-01-20,08031,Colorado,CO,Denver County,73.4,80.8
+2022-01-20,08033,Colorado,CO,Dolores County,40.3,45.9
+2022-01-20,08035,Colorado,CO,Douglas County,71.4,78.3
+2022-01-20,08037,Colorado,CO,Eagle County,80,95
+2022-01-20,08041,Colorado,CO,El Paso County,61.8,71.7
+2022-01-20,08039,Colorado,CO,Elbert County,36.5,39.9
+2022-01-20,08043,Colorado,CO,Fremont County,42.6,48.2
+2022-01-20,08045,Colorado,CO,Garfield County,62.4,69
+2022-01-20,08047,Colorado,CO,Gilpin County,56.8,62.7
+2022-01-20,08049,Colorado,CO,Grand County,61.5,70.9
+2022-01-20,08051,Colorado,CO,Gunnison County,67.8,75
+2022-01-20,08053,Colorado,CO,Hinsdale County,62.4,65.1
+2022-01-20,08055,Colorado,CO,Huerfano County,52.6,57.5
+2022-01-20,08057,Colorado,CO,Jackson County,44,46.1
+2022-01-20,08059,Colorado,CO,Jefferson County,75.7,82.5
+2022-01-20,08061,Colorado,CO,Kiowa County,36.7,37.9
+2022-01-20,08063,Colorado,CO,Kit Carson County,37.3,40.3
+2022-01-20,08067,Colorado,CO,La Plata County,68.9,76.9
+2022-01-20,08065,Colorado,CO,Lake County,58.1,66.7
+2022-01-20,08069,Colorado,CO,Larimer County,66.2,73.4
+2022-01-20,08071,Colorado,CO,Las Animas County,59.9,65.3
+2022-01-20,08073,Colorado,CO,Lincoln County,35,36.4
+2022-01-20,08075,Colorado,CO,Logan County,36.9,39.5
+2022-01-20,08077,Colorado,CO,Mesa County,48.2,53.3
+2022-01-20,08079,Colorado,CO,Mineral County,81,85.3
+2022-01-20,08081,Colorado,CO,Moffat County,41.9,47
+2022-01-20,08083,Colorado,CO,Montezuma County,60.4,73.1
+2022-01-20,08085,Colorado,CO,Montrose County,46.8,52.8
+2022-01-20,08087,Colorado,CO,Morgan County,46,51.5
+2022-01-20,08089,Colorado,CO,Otero County,47.6,51.4
+2022-01-20,08091,Colorado,CO,Ouray County,63.6,70.9
+2022-01-20,08093,Colorado,CO,Park County,46.2,50.4
+2022-01-20,08095,Colorado,CO,Phillips County,50.2,56.2
+2022-01-20,08097,Colorado,CO,Pitkin County,80.9,95
+2022-01-20,08099,Colorado,CO,Prowers County,41.3,45.8
+2022-01-20,08101,Colorado,CO,Pueblo County,54.8,60.8
+2022-01-20,08103,Colorado,CO,Rio Blanco County,37.4,42.9
+2022-01-20,08105,Colorado,CO,Rio Grande County,61.1,67.8
+2022-01-20,08107,Colorado,CO,Routt County,74.2,83.1
+2022-01-20,08109,Colorado,CO,Saguache County,34.5,37.5
+2022-01-20,08111,Colorado,CO,San Juan County,90,95
+2022-01-20,08113,Colorado,CO,San Miguel County,81,93.8
+2022-01-20,08115,Colorado,CO,Sedgwick County,50.5,55.2
+2022-01-20,08117,Colorado,CO,Summit County,82.4,95
+2022-01-20,08119,Colorado,CO,Teller County,52.7,55.8
+2022-01-20,08121,Colorado,CO,Washington County,30,33.4
+2022-01-20,08123,Colorado,CO,Weld County,58.5,63.5
+2022-01-20,08125,Colorado,CO,Yuma County,42.4,47.5
+2022-01-20,09001,Connecticut,CT,Fairfield County,78.4,95
+2022-01-20,09003,Connecticut,CT,Hartford County,72.9,84.8
+2022-01-20,09005,Connecticut,CT,Litchfield County,73.6,85.1
+2022-01-20,09007,Connecticut,CT,Middlesex County,81.1,94.2
+2022-01-20,09009,Connecticut,CT,New Haven County,74.5,90.9
+2022-01-20,09011,Connecticut,CT,New London County,76.7,90.4
+2022-01-20,09013,Connecticut,CT,Tolland County,65,74.4
+2022-01-20,09015,Connecticut,CT,Windham County,61.6,71.5
+2022-01-20,10001,Delaware,DE,Kent County,53.1,62.3
+2022-01-20,10003,Delaware,DE,New Castle County,65.6,79.9
+2022-01-20,10005,Delaware,DE,Sussex County,65,77.9
+2022-01-20,11001,District of Columbia,DC,District of Columbia,65.5,87.6
+2022-01-20,12001,Florida,FL,Alachua County,64.4,73.9
+2022-01-20,12003,Florida,FL,Baker County,35.1,42.9
+2022-01-20,12005,Florida,FL,Bay County,51.3,61.1
+2022-01-20,12007,Florida,FL,Bradford County,43,51.5
+2022-01-20,12009,Florida,FL,Brevard County,62.7,73.3
+2022-01-20,12011,Florida,FL,Broward County,68.8,82.9
+2022-01-20,12013,Florida,FL,Calhoun County,33.9,40.3
+2022-01-20,12015,Florida,FL,Charlotte County,63.8,77.5
+2022-01-20,12017,Florida,FL,Citrus County,55.1,62.9
+2022-01-20,12019,Florida,FL,Clay County,52.1,62
+2022-01-20,12021,Florida,FL,Collier County,67.9,80.1
+2022-01-20,12023,Florida,FL,Columbia County,40.7,47.7
+2022-01-20,12027,Florida,FL,DeSoto County,44.1,55.7
+2022-01-20,12029,Florida,FL,Dixie County,33.5,43
+2022-01-20,12031,Florida,FL,Duval County,58.8,68.4
+2022-01-20,12033,Florida,FL,Escambia County,53.7,63.3
+2022-01-20,12035,Florida,FL,Flagler County,61.7,71
+2022-01-20,12037,Florida,FL,Franklin County,47,53.2
+2022-01-20,12039,Florida,FL,Gadsden County,56,64.1
+2022-01-20,12041,Florida,FL,Gilchrist County,35.6,41.5
+2022-01-20,12043,Florida,FL,Glades County,32.7,40
+2022-01-20,12045,Florida,FL,Gulf County,50.2,58.4
+2022-01-20,12047,Florida,FL,Hamilton County,33.6,39.7
+2022-01-20,12049,Florida,FL,Hardee County,40.7,46.8
+2022-01-20,12051,Florida,FL,Hendry County,46.6,56.6
+2022-01-20,12053,Florida,FL,Hernando County,53.3,60.6
+2022-01-20,12055,Florida,FL,Highlands County,50.6,62.8
+2022-01-20,12057,Florida,FL,Hillsborough County,60.3,72
+2022-01-20,12059,Florida,FL,Holmes County,28.7,34.6
+2022-01-20,12061,Florida,FL,Indian River County,65.1,78.5
+2022-01-20,12063,Florida,FL,Jackson County,42,50.3
+2022-01-20,12065,Florida,FL,Jefferson County,58.2,70.5
+2022-01-20,12067,Florida,FL,Lafayette County,38.2,42.9
+2022-01-20,12069,Florida,FL,Lake County,64,73.7
+2022-01-20,12071,Florida,FL,Lee County,59.9,70.5
+2022-01-20,12073,Florida,FL,Leon County,54.9,63.9
+2022-01-20,12075,Florida,FL,Levy County,45.8,53.7
+2022-01-20,12077,Florida,FL,Liberty County,33.5,38.4
+2022-01-20,12079,Florida,FL,Madison County,44.6,53.4
+2022-01-20,12081,Florida,FL,Manatee County,59.8,70.1
+2022-01-20,12083,Florida,FL,Marion County,55.1,62.8
+2022-01-20,12085,Florida,FL,Martin County,62.1,72.5
+2022-01-20,12086,Florida,FL,Miami-Dade County,81.6,95
+2022-01-20,12087,Florida,FL,Monroe County,75.9,91.9
+2022-01-20,12089,Florida,FL,Nassau County,56,64.7
+2022-01-20,12091,Florida,FL,Okaloosa County,61.4,73.5
+2022-01-20,12093,Florida,FL,Okeechobee County,44.8,52.4
+2022-01-20,12095,Florida,FL,Orange County,66.7,79.7
+2022-01-20,12097,Florida,FL,Osceola County,69.6,85.1
+2022-01-20,12099,Florida,FL,Palm Beach County,64.1,75
+2022-01-20,12101,Florida,FL,Pasco County,56.9,65.8
+2022-01-20,12103,Florida,FL,Pinellas County,62.9,72.1
+2022-01-20,12105,Florida,FL,Polk County,54.8,64.2
+2022-01-20,12107,Florida,FL,Putnam County,40.4,48.3
+2022-01-20,12113,Florida,FL,Santa Rosa County,52.2,62.9
+2022-01-20,12115,Florida,FL,Sarasota County,68.1,81.1
+2022-01-20,12117,Florida,FL,Seminole County,60,67.3
+2022-01-20,12109,Florida,FL,St. Johns County,68.4,76.8
+2022-01-20,12111,Florida,FL,St. Lucie County,56.3,66.1
+2022-01-20,12119,Florida,FL,Sumter County,78.5,88.8
+2022-01-20,12121,Florida,FL,Suwannee County,36.9,43.7
+2022-01-20,12123,Florida,FL,Taylor County,38.9,46.9
+2022-01-20,12125,Florida,FL,Union County,34.6,50.3
+2022-01-20,12127,Florida,FL,Volusia County,57.9,66.5
+2022-01-20,12129,Florida,FL,Wakulla County,43.5,52.9
+2022-01-20,12131,Florida,FL,Walton County,47.6,57.4
+2022-01-20,12133,Florida,FL,Washington County,31.6,38.6
+2022-01-20,13001,Georgia,GA,Appling County,34.7,40.1
+2022-01-20,13003,Georgia,GA,Atkinson County,38.2,46.1
+2022-01-20,13005,Georgia,GA,Bacon County,29.6,33.9
+2022-01-20,13007,Georgia,GA,Baker County,48.8,59.3
+2022-01-20,13009,Georgia,GA,Baldwin County,42.6,49
+2022-01-20,13011,Georgia,GA,Banks County,29.6,34.1
+2022-01-20,13013,Georgia,GA,Barrow County,38.4,44.3
+2022-01-20,13015,Georgia,GA,Bartow County,35.9,41.5
+2022-01-20,13017,Georgia,GA,Ben Hill County,37.2,43.2
+2022-01-20,13019,Georgia,GA,Berrien County,32.2,38.6
+2022-01-20,13021,Georgia,GA,Bibb County,44,52
+2022-01-20,13023,Georgia,GA,Bleckley County,35.4,41.5
+2022-01-20,13025,Georgia,GA,Brantley County,25.2,30
+2022-01-20,13027,Georgia,GA,Brooks County,46.5,54.7
+2022-01-20,13029,Georgia,GA,Bryan County,52,61.6
+2022-01-20,13031,Georgia,GA,Bulloch County,33.2,38.5
+2022-01-20,13033,Georgia,GA,Burke County,54.2,64.8
+2022-01-20,13035,Georgia,GA,Butts County,32.5,38.5
+2022-01-20,13037,Georgia,GA,Calhoun County,46.6,53
+2022-01-20,13039,Georgia,GA,Camden County,54.4,63.6
+2022-01-20,13043,Georgia,GA,Candler County,40.7,47.1
+2022-01-20,13045,Georgia,GA,Carroll County,36.6,42.5
+2022-01-20,13047,Georgia,GA,Catoosa County,42.4,49.9
+2022-01-20,13049,Georgia,GA,Charlton County,24.5,28.5
+2022-01-20,13051,Georgia,GA,Chatham County,54.3,63.3
+2022-01-20,13053,Georgia,GA,Chattahoochee County,95,95
+2022-01-20,13055,Georgia,GA,Chattooga County,36.9,42.2
+2022-01-20,13057,Georgia,GA,Cherokee County,48,54.7
+2022-01-20,13059,Georgia,GA,Clarke County,45.2,50.9
+2022-01-20,13061,Georgia,GA,Clay County,58.2,68.6
+2022-01-20,13063,Georgia,GA,Clayton County,41.3,49.5
+2022-01-20,13065,Georgia,GA,Clinch County,38.6,46
+2022-01-20,13067,Georgia,GA,Cobb County,56.3,65.5
+2022-01-20,13069,Georgia,GA,Coffee County,35.8,42.7
+2022-01-20,13071,Georgia,GA,Colquitt County,38.7,45.6
+2022-01-20,13073,Georgia,GA,Columbia County,48.8,58.9
+2022-01-20,13075,Georgia,GA,Cook County,39.4,46.6
+2022-01-20,13077,Georgia,GA,Coweta County,43.1,49.9
+2022-01-20,13079,Georgia,GA,Crawford County,39.5,47.5
+2022-01-20,13081,Georgia,GA,Crisp County,42.1,49.6
+2022-01-20,13083,Georgia,GA,Dade County,43.6,54.6
+2022-01-20,13085,Georgia,GA,Dawson County,38.8,43.8
+2022-01-20,13087,Georgia,GA,Decatur County,47.2,55.4
+2022-01-20,13089,Georgia,GA,DeKalb County,53.9,63.3
+2022-01-20,13091,Georgia,GA,Dodge County,34.2,40.1
+2022-01-20,13093,Georgia,GA,Dooly County,36.3,41.7
+2022-01-20,13095,Georgia,GA,Dougherty County,46.8,55.3
+2022-01-20,13097,Georgia,GA,Douglas County,44.4,52.2
+2022-01-20,13099,Georgia,GA,Early County,47.6,53.1
+2022-01-20,13101,Georgia,GA,Echols County,30.1,37.5
+2022-01-20,13103,Georgia,GA,Effingham County,37.3,43.2
+2022-01-20,13105,Georgia,GA,Elbert County,40.7,46.5
+2022-01-20,13107,Georgia,GA,Emanuel County,38.7,45.2
+2022-01-20,13109,Georgia,GA,Evans County,39.3,45.9
+2022-01-20,13111,Georgia,GA,Fannin County,40.9,46.7
+2022-01-20,13113,Georgia,GA,Fayette County,60.4,68.5
+2022-01-20,13115,Georgia,GA,Floyd County,40.8,46.7
+2022-01-20,13117,Georgia,GA,Forsyth County,51.4,58.1
+2022-01-20,13119,Georgia,GA,Franklin County,34.9,39.6
+2022-01-20,13121,Georgia,GA,Fulton County,54.4,63.3
+2022-01-20,13123,Georgia,GA,Gilmer County,39.9,45.1
+2022-01-20,13125,Georgia,GA,Glascock County,32.1,36.8
+2022-01-20,13127,Georgia,GA,Glynn County,49.8,57.5
+2022-01-20,13129,Georgia,GA,Gordon County,36.3,41.9
+2022-01-20,13131,Georgia,GA,Grady County,42.3,48.9
+2022-01-20,13133,Georgia,GA,Greene County,52.7,60.7
+2022-01-20,13135,Georgia,GA,Gwinnett County,53,61.3
+2022-01-20,13137,Georgia,GA,Habersham County,39,44.9
+2022-01-20,13139,Georgia,GA,Hall County,43.5,50.3
+2022-01-20,13141,Georgia,GA,Hancock County,46.5,53
+2022-01-20,13143,Georgia,GA,Haralson County,32.4,37
+2022-01-20,13145,Georgia,GA,Harris County,46.7,55.1
+2022-01-20,13147,Georgia,GA,Hart County,37.2,44.5
+2022-01-20,13149,Georgia,GA,Heard County,27.4,32.1
+2022-01-20,13151,Georgia,GA,Henry County,42.6,49.7
+2022-01-20,13153,Georgia,GA,Houston County,48.7,58.7
+2022-01-20,13155,Georgia,GA,Irwin County,35.6,40.7
+2022-01-20,13157,Georgia,GA,Jackson County,41,46.6
+2022-01-20,13159,Georgia,GA,Jasper County,33.8,39.2
+2022-01-20,13161,Georgia,GA,Jeff Davis County,30.1,35.1
+2022-01-20,13163,Georgia,GA,Jefferson County,52.2,59.8
+2022-01-20,13165,Georgia,GA,Jenkins County,36.1,42.1
+2022-01-20,13167,Georgia,GA,Johnson County,34.1,39.6
+2022-01-20,13169,Georgia,GA,Jones County,42.6,49
+2022-01-20,13171,Georgia,GA,Lamar County,33.7,38.7
+2022-01-20,13173,Georgia,GA,Lanier County,26.1,30.8
+2022-01-20,13175,Georgia,GA,Laurens County,44.9,53.1
+2022-01-20,13177,Georgia,GA,Lee County,44.5,51.6
+2022-01-20,13179,Georgia,GA,Liberty County,58.8,73.7
+2022-01-20,13181,Georgia,GA,Lincoln County,44.5,52
+2022-01-20,13183,Georgia,GA,Long County,20.4,24.6
+2022-01-20,13185,Georgia,GA,Lowndes County,38.4,45.1
+2022-01-20,13187,Georgia,GA,Lumpkin County,33.5,38.2
+2022-01-20,13193,Georgia,GA,Macon County,41.5,48.1
+2022-01-20,13195,Georgia,GA,Madison County,42,47.4
+2022-01-20,13197,Georgia,GA,Marion County,39.4,47.2
+2022-01-20,13189,Georgia,GA,McDuffie County,43.4,50.2
+2022-01-20,13191,Georgia,GA,McIntosh County,40.1,45.4
+2022-01-20,13199,Georgia,GA,Meriwether County,40.1,46.3
+2022-01-20,13201,Georgia,GA,Miller County,52.8,58.6
+2022-01-20,13205,Georgia,GA,Mitchell County,45.6,52.1
+2022-01-20,13207,Georgia,GA,Monroe County,41.1,47.5
+2022-01-20,13209,Georgia,GA,Montgomery County,34.9,39.8
+2022-01-20,13211,Georgia,GA,Morgan County,44.1,49.3
+2022-01-20,13213,Georgia,GA,Murray County,35.8,41.1
+2022-01-20,13215,Georgia,GA,Muscogee County,42.6,51.8
+2022-01-20,13217,Georgia,GA,Newton County,40.3,47.3
+2022-01-20,13219,Georgia,GA,Oconee County,55.8,61.8
+2022-01-20,13221,Georgia,GA,Oglethorpe County,41.2,46.2
+2022-01-20,13223,Georgia,GA,Paulding County,35.9,41.5
+2022-01-20,13225,Georgia,GA,Peach County,44,51.5
+2022-01-20,13227,Georgia,GA,Pickens County,40.7,46.1
+2022-01-20,13229,Georgia,GA,Pierce County,32.6,38.2
+2022-01-20,13231,Georgia,GA,Pike County,31.6,35.2
+2022-01-20,13233,Georgia,GA,Polk County,37.3,43.1
+2022-01-20,13235,Georgia,GA,Pulaski County,35.9,40.3
+2022-01-20,13237,Georgia,GA,Putnam County,41.6,47.9
+2022-01-20,13239,Georgia,GA,Quitman County,31.5,39
+2022-01-20,13241,Georgia,GA,Rabun County,45,51.5
+2022-01-20,13243,Georgia,GA,Randolph County,44.2,51.7
+2022-01-20,13245,Georgia,GA,Richmond County,47.5,56.3
+2022-01-20,13247,Georgia,GA,Rockdale County,48.4,56.3
+2022-01-20,13249,Georgia,GA,Schley County,33.8,38.7
+2022-01-20,13251,Georgia,GA,Screven County,46.9,53
+2022-01-20,13253,Georgia,GA,Seminole County,44.2,50.1
+2022-01-20,13255,Georgia,GA,Spalding County,39,44.5
+2022-01-20,13257,Georgia,GA,Stephens County,39.9,45.5
+2022-01-20,13259,Georgia,GA,Stewart County,31.4,36.1
+2022-01-20,13261,Georgia,GA,Sumter County,49.8,57.8
+2022-01-20,13263,Georgia,GA,Talbot County,46.7,53.9
+2022-01-20,13265,Georgia,GA,Taliaferro County,48.2,53.8
+2022-01-20,13267,Georgia,GA,Tattnall County,31.9,37
+2022-01-20,13269,Georgia,GA,Taylor County,44.2,51.5
+2022-01-20,13271,Georgia,GA,Telfair County,28.1,32.6
+2022-01-20,13273,Georgia,GA,Terrell County,56.1,64.3
+2022-01-20,13275,Georgia,GA,Thomas County,47.3,54.7
+2022-01-20,13277,Georgia,GA,Tift County,38.8,45.9
+2022-01-20,13279,Georgia,GA,Toombs County,40.7,46.5
+2022-01-20,13281,Georgia,GA,Towns County,47.7,55.1
+2022-01-20,13283,Georgia,GA,Treutlen County,33.5,39.7
+2022-01-20,13285,Georgia,GA,Troup County,35.5,42
+2022-01-20,13287,Georgia,GA,Turner County,47.5,55.6
+2022-01-20,13289,Georgia,GA,Twiggs County,52.2,62.7
+2022-01-20,13291,Georgia,GA,Union County,44.5,50.7
+2022-01-20,13293,Georgia,GA,Upson County,44.1,49.9
+2022-01-20,13295,Georgia,GA,Walker County,39.6,47.5
+2022-01-20,13297,Georgia,GA,Walton County,39.8,45.7
+2022-01-20,13299,Georgia,GA,Ware County,37.1,43.5
+2022-01-20,13301,Georgia,GA,Warren County,46.4,53.5
+2022-01-20,13303,Georgia,GA,Washington County,42.6,49
+2022-01-20,13305,Georgia,GA,Wayne County,40.8,46.7
+2022-01-20,13307,Georgia,GA,Webster County,43,48.5
+2022-01-20,13309,Georgia,GA,Wheeler County,25.5,29.2
+2022-01-20,13311,Georgia,GA,White County,34.8,38.8
+2022-01-20,13313,Georgia,GA,Whitfield County,41.7,47.6
+2022-01-20,13315,Georgia,GA,Wilcox County,35.4,41.1
+2022-01-20,13317,Georgia,GA,Wilkes County,46.5,51.7
+2022-01-20,13319,Georgia,GA,Wilkinson County,49.2,56.1
+2022-01-20,13321,Georgia,GA,Worth County,39.9,46.2
+2022-01-20,16001,Idaho,ID,Ada County,55.9,62.1
+2022-01-20,16003,Idaho,ID,Adams County,41.2,45.2
+2022-01-20,16005,Idaho,ID,Bannock County,46.3,52.3
+2022-01-20,16007,Idaho,ID,Bear Lake County,42.5,47.4
+2022-01-20,16009,Idaho,ID,Benewah County,47.1,55.5
+2022-01-20,16011,Idaho,ID,Bingham County,42.7,48
+2022-01-20,16013,Idaho,ID,Blaine County,72.1,82.3
+2022-01-20,16015,Idaho,ID,Boise County,31.9,37.4
+2022-01-20,16017,Idaho,ID,Bonner County,40,45.7
+2022-01-20,16019,Idaho,ID,Bonneville County,46,51.4
+2022-01-20,16021,Idaho,ID,Boundary County,32.4,35.6
+2022-01-20,16023,Idaho,ID,Butte County,44.6,49.6
+2022-01-20,16025,Idaho,ID,Camas County,40.3,43.5
+2022-01-20,16027,Idaho,ID,Canyon County,40.4,45.6
+2022-01-20,16029,Idaho,ID,Caribou County,36.6,39.2
+2022-01-20,16031,Idaho,ID,Cassia County,35.3,41.7
+2022-01-20,16033,Idaho,ID,Clark County,36.9,41.2
+2022-01-20,16035,Idaho,ID,Clearwater County,39.8,45.3
+2022-01-20,16037,Idaho,ID,Custer County,44,48.6
+2022-01-20,16039,Idaho,ID,Elmore County,44.4,60.3
+2022-01-20,16041,Idaho,ID,Franklin County,39.7,45.9
+2022-01-20,16043,Idaho,ID,Fremont County,40.7,46.7
+2022-01-20,16045,Idaho,ID,Gem County,36.9,42.3
+2022-01-20,16047,Idaho,ID,Gooding County,39.3,44.8
+2022-01-20,16049,Idaho,ID,Idaho County,28.7,32.1
+2022-01-20,16051,Idaho,ID,Jefferson County,36.6,41.2
+2022-01-20,16053,Idaho,ID,Jerome County,39.6,44.8
+2022-01-20,16055,Idaho,ID,Kootenai County,41.9,48.4
+2022-01-20,16057,Idaho,ID,Latah County,53.7,60.9
+2022-01-20,16059,Idaho,ID,Lemhi County,43.6,49.2
+2022-01-20,16061,Idaho,ID,Lewis County,47.9,55.7
+2022-01-20,16063,Idaho,ID,Lincoln County,37.1,41.6
+2022-01-20,16065,Idaho,ID,Madison County,48.5,57
+2022-01-20,16067,Idaho,ID,Minidoka County,36.8,42.3
+2022-01-20,16069,Idaho,ID,Nez Perce County,51.5,61.6
+2022-01-20,16071,Idaho,ID,Oneida County,40.3,45.8
+2022-01-20,16073,Idaho,ID,Owyhee County,31.5,36.3
+2022-01-20,16075,Idaho,ID,Payette County,29.8,34.3
+2022-01-20,16077,Idaho,ID,Power County,44.8,49.1
+2022-01-20,16079,Idaho,ID,Shoshone County,40.5,44.9
+2022-01-20,16081,Idaho,ID,Teton County,56.9,68.5
+2022-01-20,16083,Idaho,ID,Twin Falls County,43.7,48.2
+2022-01-20,16085,Idaho,ID,Valley County,55.6,62.8
+2022-01-20,16087,Idaho,ID,Washington County,37.7,42.1
+2022-01-20,17001,Illinois,IL,Adams County,51.4,56.2
+2022-01-20,17003,Illinois,IL,Alexander County,29.1,35.5
+2022-01-20,17005,Illinois,IL,Bond County,53.1,57.6
+2022-01-20,17007,Illinois,IL,Boone County,58.8,65.5
+2022-01-20,17009,Illinois,IL,Brown County,50.7,56.4
+2022-01-20,17011,Illinois,IL,Bureau County,55.1,62.6
+2022-01-20,17013,Illinois,IL,Calhoun County,44.4,49.6
+2022-01-20,17015,Illinois,IL,Carroll County,61,69.8
+2022-01-20,17017,Illinois,IL,Cass County,58.3,63.8
+2022-01-20,17019,Illinois,IL,Champaign County,63.2,71
+2022-01-20,17021,Illinois,IL,Christian County,46.3,52.3
+2022-01-20,17023,Illinois,IL,Clark County,46.8,54.8
+2022-01-20,17025,Illinois,IL,Clay County,37.4,40.3
+2022-01-20,17027,Illinois,IL,Clinton County,57.3,63.8
+2022-01-20,17029,Illinois,IL,Coles County,44.3,48.9
+2022-01-20,17031,Illinois,IL,Cook County,68.7,79.2
+2022-01-20,17033,Illinois,IL,Crawford County,47.6,53.7
+2022-01-20,17035,Illinois,IL,Cumberland County,38,41.7
+2022-01-20,17039,Illinois,IL,De Witt County,51.1,55.4
+2022-01-20,17037,Illinois,IL,DeKalb County,54.3,60
+2022-01-20,17041,Illinois,IL,Douglas County,46.5,51.5
+2022-01-20,17043,Illinois,IL,DuPage County,74.5,82.4
+2022-01-20,17045,Illinois,IL,Edgar County,46.7,52.7
+2022-01-20,17047,Illinois,IL,Edwards County,38,41.2
+2022-01-20,17049,Illinois,IL,Effingham County,47.2,52.2
+2022-01-20,17051,Illinois,IL,Fayette County,34.7,39.1
+2022-01-20,17053,Illinois,IL,Ford County,54.8,59.3
+2022-01-20,17055,Illinois,IL,Franklin County,43.5,48.4
+2022-01-20,17057,Illinois,IL,Fulton County,55.6,60.6
+2022-01-20,17059,Illinois,IL,Gallatin County,52.2,59
+2022-01-20,17061,Illinois,IL,Greene County,39.1,42
+2022-01-20,17063,Illinois,IL,Grundy County,55.2,61.8
+2022-01-20,17065,Illinois,IL,Hamilton County,35.6,39.6
+2022-01-20,17067,Illinois,IL,Hancock County,46.1,55.5
+2022-01-20,17069,Illinois,IL,Hardin County,38.7,42.4
+2022-01-20,17071,Illinois,IL,Henderson County,41.6,48.5
+2022-01-20,17073,Illinois,IL,Henry County,57.2,64
+2022-01-20,17075,Illinois,IL,Iroquois County,48.6,53
+2022-01-20,17077,Illinois,IL,Jackson County,50.4,56.6
+2022-01-20,17079,Illinois,IL,Jasper County,40.7,45.1
+2022-01-20,17081,Illinois,IL,Jefferson County,44.6,50.7
+2022-01-20,17083,Illinois,IL,Jersey County,53.9,58.6
+2022-01-20,17085,Illinois,IL,Jo Daviess County,75.4,87.3
+2022-01-20,17087,Illinois,IL,Johnson County,49.5,57.1
+2022-01-20,17089,Illinois,IL,Kane County,63.8,71.8
+2022-01-20,17091,Illinois,IL,Kankakee County,49.6,55.1
+2022-01-20,17093,Illinois,IL,Kendall County,65.3,73
+2022-01-20,17095,Illinois,IL,Knox County,56.8,62.9
+2022-01-20,17097,Illinois,IL,Lake County,74.1,85.8
+2022-01-20,17099,Illinois,IL,LaSalle County,56.2,62.5
+2022-01-20,17101,Illinois,IL,Lawrence County,40.4,47
+2022-01-20,17103,Illinois,IL,Lee County,58,63.9
+2022-01-20,17105,Illinois,IL,Livingston County,49.3,54.4
+2022-01-20,17107,Illinois,IL,Logan County,52.7,57.2
+2022-01-20,17115,Illinois,IL,Macon County,51.5,56.7
+2022-01-20,17117,Illinois,IL,Macoupin County,53.1,58.8
+2022-01-20,17119,Illinois,IL,Madison County,59.9,67.9
+2022-01-20,17121,Illinois,IL,Marion County,43.4,47.6
+2022-01-20,17123,Illinois,IL,Marshall County,55.4,60.9
+2022-01-20,17125,Illinois,IL,Mason County,51.7,55.5
+2022-01-20,17127,Illinois,IL,Massac County,38.5,44
+2022-01-20,17109,Illinois,IL,McDonough County,46.6,52.6
+2022-01-20,17111,Illinois,IL,McHenry County,64.4,71.9
+2022-01-20,17113,Illinois,IL,McLean County,61.6,68.2
+2022-01-20,17129,Illinois,IL,Menard County,54.9,59.6
+2022-01-20,17131,Illinois,IL,Mercer County,57.2,64.6
+2022-01-20,17133,Illinois,IL,Monroe County,59.6,66.6
+2022-01-20,17135,Illinois,IL,Montgomery County,49.5,55.1
+2022-01-20,17137,Illinois,IL,Morgan County,53.1,58.3
+2022-01-20,17139,Illinois,IL,Moultrie County,41.8,45.6
+2022-01-20,17141,Illinois,IL,Ogle County,56,61.6
+2022-01-20,17143,Illinois,IL,Peoria County,59.2,65.3
+2022-01-20,17145,Illinois,IL,Perry County,49.1,56.3
+2022-01-20,17147,Illinois,IL,Piatt County,59.1,64.6
+2022-01-20,17149,Illinois,IL,Pike County,39.4,43.1
+2022-01-20,17151,Illinois,IL,Pope County,32.5,36.5
+2022-01-20,17153,Illinois,IL,Pulaski County,38.8,46.3
+2022-01-20,17155,Illinois,IL,Putnam County,55.5,61.2
+2022-01-20,17157,Illinois,IL,Randolph County,50.2,55.7
+2022-01-20,17159,Illinois,IL,Richland County,45.6,49.1
+2022-01-20,17161,Illinois,IL,Rock Island County,56.2,68.8
+2022-01-20,17165,Illinois,IL,Saline County,46.4,52
+2022-01-20,17167,Illinois,IL,Sangamon County,62.7,69.4
+2022-01-20,17169,Illinois,IL,Schuyler County,49.2,52.3
+2022-01-20,17171,Illinois,IL,Scott County,40,42.9
+2022-01-20,17173,Illinois,IL,Shelby County,40.4,43.8
+2022-01-20,17163,Illinois,IL,St. Clair County,60.1,69
+2022-01-20,17175,Illinois,IL,Stark County,51.4,55.2
+2022-01-20,17177,Illinois,IL,Stephenson County,58.6,64.8
+2022-01-20,17179,Illinois,IL,Tazewell County,57.4,62.1
+2022-01-20,17181,Illinois,IL,Union County,54.2,60.4
+2022-01-20,17183,Illinois,IL,Vermilion County,44.2,49.3
+2022-01-20,17185,Illinois,IL,Wabash County,46,51.6
+2022-01-20,17187,Illinois,IL,Warren County,47.6,52.2
+2022-01-20,17189,Illinois,IL,Washington County,56,60.1
+2022-01-20,17191,Illinois,IL,Wayne County,38.2,41.8
+2022-01-20,17193,Illinois,IL,White County,48.3,54.7
+2022-01-20,17195,Illinois,IL,Whiteside County,56,62.9
+2022-01-20,17197,Illinois,IL,Will County,64.7,73.1
+2022-01-20,17199,Illinois,IL,Williamson County,53.6,59.6
+2022-01-20,17201,Illinois,IL,Winnebago County,55.7,62.6
+2022-01-20,17203,Illinois,IL,Woodford County,53.1,57
+2022-01-20,18001,Indiana,IN,Adams County,32.1,35.3
+2022-01-20,18003,Indiana,IN,Allen County,50.6,56.4
+2022-01-20,18005,Indiana,IN,Bartholomew County,57.7,64.6
+2022-01-20,18007,Indiana,IN,Benton County,40.6,43.8
+2022-01-20,18009,Indiana,IN,Blackford County,45.4,49.9
+2022-01-20,18011,Indiana,IN,Boone County,68.9,75.8
+2022-01-20,18013,Indiana,IN,Brown County,49.4,55.8
+2022-01-20,18015,Indiana,IN,Carroll County,34.4,38.9
+2022-01-20,18017,Indiana,IN,Cass County,43.8,49.4
+2022-01-20,18019,Indiana,IN,Clark County,58.4,67.4
+2022-01-20,18021,Indiana,IN,Clay County,54.5,60.8
+2022-01-20,18023,Indiana,IN,Clinton County,46.3,51.9
+2022-01-20,18025,Indiana,IN,Crawford County,36.2,40.5
+2022-01-20,18027,Indiana,IN,Daviess County,32.2,35.4
+2022-01-20,18029,Indiana,IN,Dearborn County,59.4,68
+2022-01-20,18031,Indiana,IN,Decatur County,46.6,51.4
+2022-01-20,18033,Indiana,IN,DeKalb County,41.3,45.3
+2022-01-20,18035,Indiana,IN,Delaware County,46.9,51.8
+2022-01-20,18037,Indiana,IN,Dubois County,55.7,60.6
+2022-01-20,18039,Indiana,IN,Elkhart County,41.1,46.6
+2022-01-20,18041,Indiana,IN,Fayette County,38.2,42.4
+2022-01-20,18043,Indiana,IN,Floyd County,55.2,62.3
+2022-01-20,18045,Indiana,IN,Fountain County,45.3,50.4
+2022-01-20,18047,Indiana,IN,Franklin County,36.4,41.9
+2022-01-20,18049,Indiana,IN,Fulton County,38.7,43.1
+2022-01-20,18051,Indiana,IN,Gibson County,45.2,50.6
+2022-01-20,18053,Indiana,IN,Grant County,40.5,45.3
+2022-01-20,18055,Indiana,IN,Greene County,40,44.6
+2022-01-20,18057,Indiana,IN,Hamilton County,69.3,76.5
+2022-01-20,18059,Indiana,IN,Hancock County,65.8,71.5
+2022-01-20,18061,Indiana,IN,Harrison County,49.2,55.5
+2022-01-20,18063,Indiana,IN,Hendricks County,69.6,77.2
+2022-01-20,18065,Indiana,IN,Henry County,50.6,55.3
+2022-01-20,18067,Indiana,IN,Howard County,45.9,50.9
+2022-01-20,18069,Indiana,IN,Huntington County,48.9,53.7
+2022-01-20,18071,Indiana,IN,Jackson County,51.2,57.3
+2022-01-20,18073,Indiana,IN,Jasper County,45.4,51.4
+2022-01-20,18075,Indiana,IN,Jay County,37.3,41.7
+2022-01-20,18077,Indiana,IN,Jefferson County,54.3,59.9
+2022-01-20,18079,Indiana,IN,Jennings County,38.9,43.8
+2022-01-20,18081,Indiana,IN,Johnson County,56.5,64.3
+2022-01-20,18083,Indiana,IN,Knox County,48.1,52.8
+2022-01-20,18085,Indiana,IN,Kosciusko County,39.4,43.9
+2022-01-20,18087,Indiana,IN,LaGrange County,22,24.3
+2022-01-20,18089,Indiana,IN,Lake County,53.9,61.5
+2022-01-20,18091,Indiana,IN,LaPorte County,54.1,60.5
+2022-01-20,18093,Indiana,IN,Lawrence County,48,53
+2022-01-20,18095,Indiana,IN,Madison County,50.6,55.9
+2022-01-20,18097,Indiana,IN,Marion County,53.5,61.1
+2022-01-20,18099,Indiana,IN,Marshall County,43.3,48.3
+2022-01-20,18101,Indiana,IN,Martin County,44.1,47.9
+2022-01-20,18103,Indiana,IN,Miami County,38.9,43
+2022-01-20,18105,Indiana,IN,Monroe County,57.4,63.6
+2022-01-20,18107,Indiana,IN,Montgomery County,44.3,49
+2022-01-20,18109,Indiana,IN,Morgan County,52,57.7
+2022-01-20,18111,Indiana,IN,Newton County,30.6,34.5
+2022-01-20,18113,Indiana,IN,Noble County,37.4,41.5
+2022-01-20,18115,Indiana,IN,Ohio County,73.4,80.4
+2022-01-20,18117,Indiana,IN,Orange County,54,60
+2022-01-20,18119,Indiana,IN,Owen County,41.3,45.2
+2022-01-20,18121,Indiana,IN,Parke County,38.7,42.6
+2022-01-20,18123,Indiana,IN,Perry County,55.1,60.9
+2022-01-20,18125,Indiana,IN,Pike County,55.9,61.8
+2022-01-20,18127,Indiana,IN,Porter County,54.8,60.9
+2022-01-20,18129,Indiana,IN,Posey County,46.1,50.5
+2022-01-20,18131,Indiana,IN,Pulaski County,43.6,48.4
+2022-01-20,18133,Indiana,IN,Putnam County,41.4,45.5
+2022-01-20,18135,Indiana,IN,Randolph County,43.9,49.7
+2022-01-20,18137,Indiana,IN,Ripley County,46.5,51.7
+2022-01-20,18139,Indiana,IN,Rush County,45.8,49.8
+2022-01-20,18143,Indiana,IN,Scott County,42.7,47.3
+2022-01-20,18145,Indiana,IN,Shelby County,55.8,62.5
+2022-01-20,18147,Indiana,IN,Spencer County,43.2,48.1
+2022-01-20,18141,Indiana,IN,St. Joseph County,56.5,63.4
+2022-01-20,18149,Indiana,IN,Starke County,35.6,39.9
+2022-01-20,18151,Indiana,IN,Steuben County,46.2,51
+2022-01-20,18153,Indiana,IN,Sullivan County,48.1,53.2
+2022-01-20,18155,Indiana,IN,Switzerland County,30,33.2
+2022-01-20,18157,Indiana,IN,Tippecanoe County,55.8,62.4
+2022-01-20,18159,Indiana,IN,Tipton County,43.9,48.2
+2022-01-20,18161,Indiana,IN,Union County,48.1,54.1
+2022-01-20,18163,Indiana,IN,Vanderburgh County,55.8,61.5
+2022-01-20,18165,Indiana,IN,Vermillion County,45.5,51.1
+2022-01-20,18167,Indiana,IN,Vigo County,48.3,53.5
+2022-01-20,18169,Indiana,IN,Wabash County,40.1,44.4
+2022-01-20,18171,Indiana,IN,Warren County,44.4,49.2
+2022-01-20,18173,Indiana,IN,Warrick County,60.9,67
+2022-01-20,18175,Indiana,IN,Washington County,39,43.5
+2022-01-20,18177,Indiana,IN,Wayne County,47.7,53.2
+2022-01-20,18179,Indiana,IN,Wells County,40.4,44.7
+2022-01-20,18181,Indiana,IN,White County,52.7,58
+2022-01-20,18183,Indiana,IN,Whitley County,46,49.9
+2022-01-20,19001,Iowa,IA,Adair County,48.1,52.3
+2022-01-20,19003,Iowa,IA,Adams County,54.9,59.1
+2022-01-20,19005,Iowa,IA,Allamakee County,51.7,57.8
+2022-01-20,19007,Iowa,IA,Appanoose County,46,50.3
+2022-01-20,19009,Iowa,IA,Audubon County,57.2,60
+2022-01-20,19011,Iowa,IA,Benton County,56.8,61.4
+2022-01-20,19013,Iowa,IA,Black Hawk County,58.4,63.7
+2022-01-20,19015,Iowa,IA,Boone County,63.1,67.9
+2022-01-20,19017,Iowa,IA,Bremer County,58.3,62.6
+2022-01-20,19019,Iowa,IA,Buchanan County,52.2,56.1
+2022-01-20,19021,Iowa,IA,Buena Vista County,65.4,71.1
+2022-01-20,19023,Iowa,IA,Butler County,56,59.7
+2022-01-20,19025,Iowa,IA,Calhoun County,57.7,61.5
+2022-01-20,19027,Iowa,IA,Carroll County,60.2,64.1
+2022-01-20,19029,Iowa,IA,Cass County,56.7,61
+2022-01-20,19031,Iowa,IA,Cedar County,58.6,62.9
+2022-01-20,19033,Iowa,IA,Cerro Gordo County,61.5,66.9
+2022-01-20,19035,Iowa,IA,Cherokee County,51.5,55.8
+2022-01-20,19037,Iowa,IA,Chickasaw County,53.5,57.2
+2022-01-20,19039,Iowa,IA,Clarke County,53.2,57.5
+2022-01-20,19041,Iowa,IA,Clay County,50.7,55.3
+2022-01-20,19043,Iowa,IA,Clayton County,46.8,50.9
+2022-01-20,19045,Iowa,IA,Clinton County,52.8,58.7
+2022-01-20,19047,Iowa,IA,Crawford County,52.3,56.6
+2022-01-20,19049,Iowa,IA,Dallas County,64.9,70.8
+2022-01-20,19051,Iowa,IA,Davis County,35.6,38
+2022-01-20,19053,Iowa,IA,Decatur County,39.5,44.1
+2022-01-20,19055,Iowa,IA,Delaware County,52.9,56.5
+2022-01-20,19057,Iowa,IA,Des Moines County,49.7,54.7
+2022-01-20,19059,Iowa,IA,Dickinson County,56.8,63.5
+2022-01-20,19061,Iowa,IA,Dubuque County,62.8,67.5
+2022-01-20,19063,Iowa,IA,Emmet County,50.5,55.3
+2022-01-20,19065,Iowa,IA,Fayette County,53,56.9
+2022-01-20,19067,Iowa,IA,Floyd County,51.7,55.6
+2022-01-20,19069,Iowa,IA,Franklin County,53,57.1
+2022-01-20,19071,Iowa,IA,Fremont County,50.5,56.6
+2022-01-20,19073,Iowa,IA,Greene County,56.8,61
+2022-01-20,19075,Iowa,IA,Grundy County,60,64.6
+2022-01-20,19077,Iowa,IA,Guthrie County,56.9,61.4
+2022-01-20,19079,Iowa,IA,Hamilton County,61.3,66
+2022-01-20,19081,Iowa,IA,Hancock County,48.4,51.7
+2022-01-20,19083,Iowa,IA,Hardin County,54.7,58.3
+2022-01-20,19085,Iowa,IA,Harrison County,50.6,57.5
+2022-01-20,19087,Iowa,IA,Henry County,52.2,56.5
+2022-01-20,19089,Iowa,IA,Howard County,50.2,54.5
+2022-01-20,19091,Iowa,IA,Humboldt County,48.7,52.3
+2022-01-20,19093,Iowa,IA,Ida County,47.9,51.7
+2022-01-20,19095,Iowa,IA,Iowa County,61.4,65.8
+2022-01-20,19097,Iowa,IA,Jackson County,51.7,55.1
+2022-01-20,19099,Iowa,IA,Jasper County,57,61.7
+2022-01-20,19101,Iowa,IA,Jefferson County,46.9,51.6
+2022-01-20,19103,Iowa,IA,Johnson County,70.8,78.5
+2022-01-20,19105,Iowa,IA,Jones County,57.2,61.2
+2022-01-20,19107,Iowa,IA,Keokuk County,45.4,48.9
+2022-01-20,19109,Iowa,IA,Kossuth County,50.7,54.6
+2022-01-20,19111,Iowa,IA,Lee County,49.3,54.8
+2022-01-20,19113,Iowa,IA,Linn County,64.8,70.8
+2022-01-20,19115,Iowa,IA,Louisa County,51.3,55.4
+2022-01-20,19117,Iowa,IA,Lucas County,44.3,47.3
+2022-01-20,19119,Iowa,IA,Lyon County,40,45.4
+2022-01-20,19121,Iowa,IA,Madison County,52.7,57.2
+2022-01-20,19123,Iowa,IA,Mahaska County,42.9,46.9
+2022-01-20,19125,Iowa,IA,Marion County,51.7,56.1
+2022-01-20,19127,Iowa,IA,Marshall County,63.6,69.6
+2022-01-20,19129,Iowa,IA,Mills County,53.7,62
+2022-01-20,19131,Iowa,IA,Mitchell County,47.6,50.6
+2022-01-20,19133,Iowa,IA,Monona County,52.6,56.2
+2022-01-20,19135,Iowa,IA,Monroe County,44.8,48.3
+2022-01-20,19137,Iowa,IA,Montgomery County,54.6,61.2
+2022-01-20,19139,Iowa,IA,Muscatine County,59.1,65
+2022-01-20,19141,Iowa,IA,O'Brien County,49.3,52.6
+2022-01-20,19143,Iowa,IA,Osceola County,44.1,47.2
+2022-01-20,19145,Iowa,IA,Page County,51.9,57.3
+2022-01-20,19147,Iowa,IA,Palo Alto County,49.6,53.4
+2022-01-20,19149,Iowa,IA,Plymouth County,51.1,55.2
+2022-01-20,19151,Iowa,IA,Pocahontas County,51,55.1
+2022-01-20,19153,Iowa,IA,Polk County,65.4,72.5
+2022-01-20,19155,Iowa,IA,Pottawattamie County,55.2,63.7
+2022-01-20,19157,Iowa,IA,Poweshiek County,57.3,63.9
+2022-01-20,19159,Iowa,IA,Ringgold County,51.1,54.8
+2022-01-20,19161,Iowa,IA,Sac County,51.5,54.9
+2022-01-20,19163,Iowa,IA,Scott County,58.5,69
+2022-01-20,19165,Iowa,IA,Shelby County,57.6,62.3
+2022-01-20,19167,Iowa,IA,Sioux County,40.5,44
+2022-01-20,19169,Iowa,IA,Story County,61.6,67
+2022-01-20,19171,Iowa,IA,Tama County,60.5,65.7
+2022-01-20,19173,Iowa,IA,Taylor County,46,49.3
+2022-01-20,19175,Iowa,IA,Union County,50,54.3
+2022-01-20,19177,Iowa,IA,Van Buren County,41,44.2
+2022-01-20,19179,Iowa,IA,Wapello County,48.1,52.1
+2022-01-20,19181,Iowa,IA,Warren County,58.3,63.6
+2022-01-20,19183,Iowa,IA,Washington County,55.3,60
+2022-01-20,19185,Iowa,IA,Wayne County,40.7,44
+2022-01-20,19187,Iowa,IA,Webster County,55.9,61.1
+2022-01-20,19189,Iowa,IA,Winnebago County,51.1,55.5
+2022-01-20,19191,Iowa,IA,Winneshiek County,60.7,65.9
+2022-01-20,19193,Iowa,IA,Woodbury County,54.3,61.3
+2022-01-20,19195,Iowa,IA,Worth County,50.7,54.2
+2022-01-20,19197,Iowa,IA,Wright County,55.8,60
+2022-01-20,20001,Kansas,KS,Allen County,44.6,50.8
+2022-01-20,20003,Kansas,KS,Anderson County,41.7,47.2
+2022-01-20,20005,Kansas,KS,Atchison County,44.4,52
+2022-01-20,20007,Kansas,KS,Barber County,45.4,51.2
+2022-01-20,20009,Kansas,KS,Barton County,41.7,46.7
+2022-01-20,20011,Kansas,KS,Bourbon County,35.7,40.3
+2022-01-20,20013,Kansas,KS,Brown County,58.1,65.8
+2022-01-20,20015,Kansas,KS,Butler County,46.7,54.8
+2022-01-20,20017,Kansas,KS,Chase County,44.4,49.8
+2022-01-20,20019,Kansas,KS,Chautauqua County,40.2,46.8
+2022-01-20,20021,Kansas,KS,Cherokee County,44.4,52.8
+2022-01-20,20023,Kansas,KS,Cheyenne County,44.2,49.8
+2022-01-20,20025,Kansas,KS,Clark County,45.1,49.5
+2022-01-20,20027,Kansas,KS,Clay County,58.4,65.4
+2022-01-20,20029,Kansas,KS,Cloud County,46.5,52.6
+2022-01-20,20031,Kansas,KS,Coffey County,51.5,57.7
+2022-01-20,20033,Kansas,KS,Comanche County,44.6,49.8
+2022-01-20,20035,Kansas,KS,Cowley County,46.4,53.5
+2022-01-20,20037,Kansas,KS,Crawford County,45.7,52.1
+2022-01-20,20039,Kansas,KS,Decatur County,39.4,42.3
+2022-01-20,20041,Kansas,KS,Dickinson County,53.8,63.3
+2022-01-20,20043,Kansas,KS,Doniphan County,46.6,53.6
+2022-01-20,20045,Kansas,KS,Douglas County,59.5,79.2
+2022-01-20,20047,Kansas,KS,Edwards County,46.8,51.4
+2022-01-20,20049,Kansas,KS,Elk County,32.5,36.8
+2022-01-20,20051,Kansas,KS,Ellis County,48.1,56.2
+2022-01-20,20053,Kansas,KS,Ellsworth County,53.3,57.7
+2022-01-20,20055,Kansas,KS,Finney County,44,59.6
+2022-01-20,20057,Kansas,KS,Ford County,41.9,49.7
+2022-01-20,20059,Kansas,KS,Franklin County,49.3,56.9
+2022-01-20,20061,Kansas,KS,Geary County,83.7,95
+2022-01-20,20063,Kansas,KS,Gove County,47.1,53
+2022-01-20,20065,Kansas,KS,Graham County,47.6,51.1
+2022-01-20,20067,Kansas,KS,Grant County,44.9,50.5
+2022-01-20,20069,Kansas,KS,Gray County,43.6,49.6
+2022-01-20,20071,Kansas,KS,Greeley County,50.5,54
+2022-01-20,20073,Kansas,KS,Greenwood County,47.9,52.2
+2022-01-20,20075,Kansas,KS,Hamilton County,39.6,45.8
+2022-01-20,20077,Kansas,KS,Harper County,45.2,50.5
+2022-01-20,20079,Kansas,KS,Harvey County,45,51.8
+2022-01-20,20081,Kansas,KS,Haskell County,37.3,42.7
+2022-01-20,20083,Kansas,KS,Hodgeman County,43.7,48.6
+2022-01-20,20085,Kansas,KS,Jackson County,62.2,68.9
+2022-01-20,20087,Kansas,KS,Jefferson County,52.9,60.4
+2022-01-20,20089,Kansas,KS,Jewell County,45.5,49.3
+2022-01-20,20091,Kansas,KS,Johnson County,72.4,91.8
+2022-01-20,20093,Kansas,KS,Kearny County,51.2,59.5
+2022-01-20,20095,Kansas,KS,Kingman County,45.9,51.4
+2022-01-20,20097,Kansas,KS,Kiowa County,49.3,55.2
+2022-01-20,20099,Kansas,KS,Labette County,48.1,54
+2022-01-20,20101,Kansas,KS,Lane County,41.3,45.5
+2022-01-20,20103,Kansas,KS,Leavenworth County,56.2,67.9
+2022-01-20,20105,Kansas,KS,Lincoln County,42.6,46.5
+2022-01-20,20107,Kansas,KS,Linn County,34.2,38.5
+2022-01-20,20109,Kansas,KS,Logan County,45.7,50.7
+2022-01-20,20111,Kansas,KS,Lyon County,55.3,62.1
+2022-01-20,20115,Kansas,KS,Marion County,47.6,54.1
+2022-01-20,20117,Kansas,KS,Marshall County,62.8,68.7
+2022-01-20,20113,Kansas,KS,McPherson County,54,60.2
+2022-01-20,20119,Kansas,KS,Meade County,39.1,51
+2022-01-20,20121,Kansas,KS,Miami County,46.2,52.9
+2022-01-20,20123,Kansas,KS,Mitchell County,52,55.2
+2022-01-20,20125,Kansas,KS,Montgomery County,44.2,51.7
+2022-01-20,20127,Kansas,KS,Morris County,54.5,60.5
+2022-01-20,20129,Kansas,KS,Morton County,40,46.1
+2022-01-20,20131,Kansas,KS,Nemaha County,52.2,56.8
+2022-01-20,20133,Kansas,KS,Neosho County,26.6,32.9
+2022-01-20,20135,Kansas,KS,Ness County,50.7,56.8
+2022-01-20,20137,Kansas,KS,Norton County,51.5,52.8
+2022-01-20,20139,Kansas,KS,Osage County,49.3,55.5
+2022-01-20,20141,Kansas,KS,Osborne County,41.2,45
+2022-01-20,20143,Kansas,KS,Ottawa County,42.5,49.3
+2022-01-20,20145,Kansas,KS,Pawnee County,51.7,56.1
+2022-01-20,20147,Kansas,KS,Phillips County,41.7,45.9
+2022-01-20,20149,Kansas,KS,Pottawatomie County,39.3,45.2
+2022-01-20,20151,Kansas,KS,Pratt County,47.3,54.5
+2022-01-20,20153,Kansas,KS,Rawlins County,41.8,45.6
+2022-01-20,20155,Kansas,KS,Reno County,48.1,53.7
+2022-01-20,20157,Kansas,KS,Republic County,49.9,53.8
+2022-01-20,20159,Kansas,KS,Rice County,42.2,48.1
+2022-01-20,20161,Kansas,KS,Riley County,37.9,43.2
+2022-01-20,20163,Kansas,KS,Rooks County,46.8,50.8
+2022-01-20,20165,Kansas,KS,Rush County,48.9,54.6
+2022-01-20,20167,Kansas,KS,Russell County,41.7,46.8
+2022-01-20,20169,Kansas,KS,Saline County,48.6,55.2
+2022-01-20,20171,Kansas,KS,Scott County,46.1,51.3
+2022-01-20,20173,Kansas,KS,Sedgwick County,50.8,63.8
+2022-01-20,20175,Kansas,KS,Seward County,43.7,60.4
+2022-01-20,20177,Kansas,KS,Shawnee County,59.3,68.3
+2022-01-20,20179,Kansas,KS,Sheridan County,34.5,38.7
+2022-01-20,20181,Kansas,KS,Sherman County,42.6,47.2
+2022-01-20,20183,Kansas,KS,Smith County,43.7,47.2
+2022-01-20,20185,Kansas,KS,Stafford County,44.9,50
+2022-01-20,20187,Kansas,KS,Stanton County,49.2,54.5
+2022-01-20,20189,Kansas,KS,Stevens County,36.2,42.3
+2022-01-20,20191,Kansas,KS,Sumner County,41.9,47.9
+2022-01-20,20193,Kansas,KS,Thomas County,40.3,45.3
+2022-01-20,20195,Kansas,KS,Trego County,38.6,40.9
+2022-01-20,20197,Kansas,KS,Wabaunsee County,46.1,50.8
+2022-01-20,20199,Kansas,KS,Wallace County,36.7,38.3
+2022-01-20,20201,Kansas,KS,Washington County,51.9,57.3
+2022-01-20,20203,Kansas,KS,Wichita County,49.1,52.9
+2022-01-20,20205,Kansas,KS,Wilson County,42.3,47.1
+2022-01-20,20207,Kansas,KS,Woodson County,41,46.6
+2022-01-20,20209,Kansas,KS,Wyandotte County,53.6,65.7
+2022-01-20,21001,Kentucky,KY,Adair County,37.9,43.1
+2022-01-20,21003,Kentucky,KY,Allen County,38.2,43.1
+2022-01-20,21005,Kentucky,KY,Anderson County,53.6,62.2
+2022-01-20,21007,Kentucky,KY,Ballard County,36.7,40.9
+2022-01-20,21009,Kentucky,KY,Barren County,44.3,50.2
+2022-01-20,21011,Kentucky,KY,Bath County,51.7,58.1
+2022-01-20,21013,Kentucky,KY,Bell County,44.4,51
+2022-01-20,21015,Kentucky,KY,Boone County,60.1,69
+2022-01-20,21017,Kentucky,KY,Bourbon County,55.9,64.8
+2022-01-20,21019,Kentucky,KY,Boyd County,47.6,55
+2022-01-20,21021,Kentucky,KY,Boyle County,55.1,63.6
+2022-01-20,21023,Kentucky,KY,Bracken County,45.6,50.3
+2022-01-20,21025,Kentucky,KY,Breathitt County,50.9,57.9
+2022-01-20,21027,Kentucky,KY,Breckinridge County,47.2,55.3
+2022-01-20,21029,Kentucky,KY,Bullitt County,43.9,50.1
+2022-01-20,21031,Kentucky,KY,Butler County,43.9,48.6
+2022-01-20,21033,Kentucky,KY,Caldwell County,50.6,57.2
+2022-01-20,21035,Kentucky,KY,Calloway County,44.1,51.5
+2022-01-20,21037,Kentucky,KY,Campbell County,61.1,71.6
+2022-01-20,21039,Kentucky,KY,Carlisle County,39.5,43.5
+2022-01-20,21041,Kentucky,KY,Carroll County,45.1,51.5
+2022-01-20,21043,Kentucky,KY,Carter County,47.4,54.3
+2022-01-20,21045,Kentucky,KY,Casey County,34.8,39.5
+2022-01-20,21047,Kentucky,KY,Christian County,34.3,39.7
+2022-01-20,21049,Kentucky,KY,Clark County,52.9,60.7
+2022-01-20,21051,Kentucky,KY,Clay County,42.8,48.5
+2022-01-20,21053,Kentucky,KY,Clinton County,39.2,45.5
+2022-01-20,21055,Kentucky,KY,Crittenden County,39.8,44.5
+2022-01-20,21057,Kentucky,KY,Cumberland County,43.1,47.4
+2022-01-20,21059,Kentucky,KY,Daviess County,52.5,58.6
+2022-01-20,21061,Kentucky,KY,Edmonson County,33.5,37.4
+2022-01-20,21063,Kentucky,KY,Elliott County,34.5,38.4
+2022-01-20,21065,Kentucky,KY,Estill County,50,55.9
+2022-01-20,21067,Kentucky,KY,Fayette County,64.2,75.9
+2022-01-20,21069,Kentucky,KY,Fleming County,49.8,55.2
+2022-01-20,21071,Kentucky,KY,Floyd County,55.6,62
+2022-01-20,21073,Kentucky,KY,Franklin County,59.5,67.3
+2022-01-20,21075,Kentucky,KY,Fulton County,56.7,67.7
+2022-01-20,21077,Kentucky,KY,Gallatin County,39.7,43.8
+2022-01-20,21079,Kentucky,KY,Garrard County,46.7,52.6
+2022-01-20,21081,Kentucky,KY,Grant County,47.2,51.9
+2022-01-20,21083,Kentucky,KY,Graves County,43.8,49.8
+2022-01-20,21085,Kentucky,KY,Grayson County,49.6,55.7
+2022-01-20,21087,Kentucky,KY,Green County,42.3,46.5
+2022-01-20,21089,Kentucky,KY,Greenup County,50.6,59.5
+2022-01-20,21091,Kentucky,KY,Hancock County,57.2,65.4
+2022-01-20,21093,Kentucky,KY,Hardin County,60.1,72.5
+2022-01-20,21095,Kentucky,KY,Harlan County,44.9,50.8
+2022-01-20,21097,Kentucky,KY,Harrison County,48.7,54.3
+2022-01-20,21099,Kentucky,KY,Hart County,34.5,38.9
+2022-01-20,21101,Kentucky,KY,Henderson County,49.3,57.2
+2022-01-20,21103,Kentucky,KY,Henry County,52.2,59.3
+2022-01-20,21105,Kentucky,KY,Hickman County,36,40.1
+2022-01-20,21107,Kentucky,KY,Hopkins County,50.1,55.6
+2022-01-20,21109,Kentucky,KY,Jackson County,35.1,39.4
+2022-01-20,21111,Kentucky,KY,Jefferson County,61.8,72.7
+2022-01-20,21113,Kentucky,KY,Jessamine County,52,60.5
+2022-01-20,21115,Kentucky,KY,Johnson County,48.8,55.4
+2022-01-20,21117,Kentucky,KY,Kenton County,58.4,67.3
+2022-01-20,21119,Kentucky,KY,Knott County,46.5,51.8
+2022-01-20,21121,Kentucky,KY,Knox County,35.4,39.4
+2022-01-20,21123,Kentucky,KY,Larue County,42.2,46.7
+2022-01-20,21125,Kentucky,KY,Laurel County,39.2,44.1
+2022-01-20,21127,Kentucky,KY,Lawrence County,46.7,53.4
+2022-01-20,21129,Kentucky,KY,Lee County,48.2,53
+2022-01-20,21131,Kentucky,KY,Leslie County,50.3,57.7
+2022-01-20,21133,Kentucky,KY,Letcher County,51.6,56.6
+2022-01-20,21135,Kentucky,KY,Lewis County,37.3,42.6
+2022-01-20,21137,Kentucky,KY,Lincoln County,39.6,44.4
+2022-01-20,21139,Kentucky,KY,Livingston County,47.7,53.8
+2022-01-20,21141,Kentucky,KY,Logan County,49.2,56.2
+2022-01-20,21143,Kentucky,KY,Lyon County,57.3,64.4
+2022-01-20,21151,Kentucky,KY,Madison County,45.6,51.8
+2022-01-20,21153,Kentucky,KY,Magoffin County,49.8,56.1
+2022-01-20,21155,Kentucky,KY,Marion County,48.6,54.7
+2022-01-20,21157,Kentucky,KY,Marshall County,52.1,59.4
+2022-01-20,21159,Kentucky,KY,Martin County,52.8,59.3
+2022-01-20,21161,Kentucky,KY,Mason County,49.4,55.5
+2022-01-20,21145,Kentucky,KY,McCracken County,53.8,62.1
+2022-01-20,21147,Kentucky,KY,McCreary County,37.9,42.7
+2022-01-20,21149,Kentucky,KY,McLean County,49.6,54.3
+2022-01-20,21163,Kentucky,KY,Meade County,37.8,44
+2022-01-20,21165,Kentucky,KY,Menifee County,43,48.4
+2022-01-20,21167,Kentucky,KY,Mercer County,52.7,59.6
+2022-01-20,21169,Kentucky,KY,Metcalfe County,39.1,43.2
+2022-01-20,21171,Kentucky,KY,Monroe County,44.6,50
+2022-01-20,21173,Kentucky,KY,Montgomery County,44.7,50.6
+2022-01-20,21175,Kentucky,KY,Morgan County,47,52
+2022-01-20,21177,Kentucky,KY,Muhlenberg County,49.5,55.2
+2022-01-20,21179,Kentucky,KY,Nelson County,50.3,58
+2022-01-20,21181,Kentucky,KY,Nicholas County,51.7,56.3
+2022-01-20,21183,Kentucky,KY,Ohio County,38.4,43.7
+2022-01-20,21185,Kentucky,KY,Oldham County,56,63.4
+2022-01-20,21187,Kentucky,KY,Owen County,36.5,40.6
+2022-01-20,21189,Kentucky,KY,Owsley County,45.9,50.4
+2022-01-20,21191,Kentucky,KY,Pendleton County,42.5,46.8
+2022-01-20,21193,Kentucky,KY,Perry County,59.9,68.8
+2022-01-20,21195,Kentucky,KY,Pike County,51.6,57.8
+2022-01-20,21197,Kentucky,KY,Powell County,50.7,57.3
+2022-01-20,21199,Kentucky,KY,Pulaski County,44.6,50.9
+2022-01-20,21201,Kentucky,KY,Robertson County,37.5,39.9
+2022-01-20,21203,Kentucky,KY,Rockcastle County,38.7,43.5
+2022-01-20,21205,Kentucky,KY,Rowan County,49.9,55.9
+2022-01-20,21207,Kentucky,KY,Russell County,44.4,49.7
+2022-01-20,21209,Kentucky,KY,Scott County,53.9,62
+2022-01-20,21211,Kentucky,KY,Shelby County,45.3,52
+2022-01-20,21213,Kentucky,KY,Simpson County,48.7,55.8
+2022-01-20,21215,Kentucky,KY,Spencer County,28.6,33.2
+2022-01-20,21217,Kentucky,KY,Taylor County,46.6,53.2
+2022-01-20,21219,Kentucky,KY,Todd County,40.6,46.8
+2022-01-20,21221,Kentucky,KY,Trigg County,45.4,51.7
+2022-01-20,21223,Kentucky,KY,Trimble County,41.9,49.4
+2022-01-20,21225,Kentucky,KY,Union County,40.4,46.2
+2022-01-20,21227,Kentucky,KY,Warren County,37.1,42.8
+2022-01-20,21229,Kentucky,KY,Washington County,49.3,55.8
+2022-01-20,21231,Kentucky,KY,Wayne County,40.2,46.5
+2022-01-20,21233,Kentucky,KY,Webster County,44.7,50.9
+2022-01-20,21235,Kentucky,KY,Whitley County,42.9,48.2
+2022-01-20,21237,Kentucky,KY,Wolfe County,51.9,57.9
+2022-01-20,21239,Kentucky,KY,Woodford County,64.3,74.7
+2022-01-20,22001,Louisiana,LA,Acadia Parish,51.2,57.6
+2022-01-20,22003,Louisiana,LA,Allen Parish,34.8,39.1
+2022-01-20,22005,Louisiana,LA,Ascension Parish,49.1,55
+2022-01-20,22007,Louisiana,LA,Assumption Parish,42,48.1
+2022-01-20,22009,Louisiana,LA,Avoyelles Parish,44.8,52.6
+2022-01-20,22011,Louisiana,LA,Beauregard Parish,34.5,40.9
+2022-01-20,22013,Louisiana,LA,Bienville Parish,47.2,54
+2022-01-20,22015,Louisiana,LA,Bossier Parish,48.6,57.1
+2022-01-20,22017,Louisiana,LA,Caddo Parish,46.6,54.7
+2022-01-20,22019,Louisiana,LA,Calcasieu Parish,40.8,47.7
+2022-01-20,22021,Louisiana,LA,Caldwell Parish,37.3,41.7
+2022-01-20,22023,Louisiana,LA,Cameron Parish,17.4,19.8
+2022-01-20,22025,Louisiana,LA,Catahoula Parish,39.3,45.9
+2022-01-20,22027,Louisiana,LA,Claiborne Parish,39.6,43.9
+2022-01-20,22029,Louisiana,LA,Concordia Parish,40.6,49.6
+2022-01-20,22031,Louisiana,LA,De Soto Parish,41.3,47.2
+2022-01-20,22033,Louisiana,LA,East Baton Rouge Parish,54,61.5
+2022-01-20,22035,Louisiana,LA,East Carroll Parish,43.7,50.7
+2022-01-20,22037,Louisiana,LA,East Feliciana Parish,38.8,43.3
+2022-01-20,22039,Louisiana,LA,Evangeline Parish,37.2,42.4
+2022-01-20,22041,Louisiana,LA,Franklin Parish,35.6,40.9
+2022-01-20,22043,Louisiana,LA,Grant Parish,41.2,45.8
+2022-01-20,22045,Louisiana,LA,Iberia Parish,45.1,52.1
+2022-01-20,22047,Louisiana,LA,Iberville Parish,53.9,61.3
+2022-01-20,22049,Louisiana,LA,Jackson Parish,41.3,46.3
+2022-01-20,22053,Louisiana,LA,Jefferson Davis Parish,35.7,40
+2022-01-20,22051,Louisiana,LA,Jefferson Parish,62.9,72.5
+2022-01-20,22055,Louisiana,LA,Lafayette Parish,48.4,54.9
+2022-01-20,22057,Louisiana,LA,Lafourche Parish,43.4,49.4
+2022-01-20,22059,Louisiana,LA,LaSalle Parish,42.6,47.1
+2022-01-20,22061,Louisiana,LA,Lincoln Parish,41.6,47.7
+2022-01-20,22063,Louisiana,LA,Livingston Parish,38.4,43.9
+2022-01-20,22065,Louisiana,LA,Madison Parish,42.7,52.6
+2022-01-20,22067,Louisiana,LA,Morehouse Parish,44,52.3
+2022-01-20,22069,Louisiana,LA,Natchitoches Parish,41.7,47.1
+2022-01-20,22071,Louisiana,LA,Orleans Parish,66.6,78.2
+2022-01-20,22073,Louisiana,LA,Ouachita Parish,43.4,50
+2022-01-20,22075,Louisiana,LA,Plaquemines Parish,66.3,76.8
+2022-01-20,22077,Louisiana,LA,Pointe Coupee Parish,53.8,59.5
+2022-01-20,22079,Louisiana,LA,Rapides Parish,47.9,55.8
+2022-01-20,22081,Louisiana,LA,Red River Parish,35.2,40.1
+2022-01-20,22083,Louisiana,LA,Richland Parish,41.3,46.5
+2022-01-20,22085,Louisiana,LA,Sabine Parish,36.8,43.4
+2022-01-20,22087,Louisiana,LA,St. Bernard Parish,46.8,53.9
+2022-01-20,22089,Louisiana,LA,St. Charles Parish,54.6,62.2
+2022-01-20,22091,Louisiana,LA,St. Helena Parish,29.9,34.5
+2022-01-20,22093,Louisiana,LA,St. James Parish,49.9,60.1
+2022-01-20,22095,Louisiana,LA,St. John the Baptist Parish,57.2,67
+2022-01-20,22097,Louisiana,LA,St. Landry Parish,39.8,45.6
+2022-01-20,22099,Louisiana,LA,St. Martin Parish,39,43.7
+2022-01-20,22101,Louisiana,LA,St. Mary Parish,43.5,50.2
+2022-01-20,22103,Louisiana,LA,St. Tammany Parish,55.2,62
+2022-01-20,22105,Louisiana,LA,Tangipahoa Parish,44.6,51.3
+2022-01-20,22107,Louisiana,LA,Tensas Parish,60.4,71.7
+2022-01-20,22109,Louisiana,LA,Terrebonne Parish,43.5,51.2
+2022-01-20,22111,Louisiana,LA,Union Parish,43.9,49.3
+2022-01-20,22113,Louisiana,LA,Vermilion Parish,36.8,42.1
+2022-01-20,22115,Louisiana,LA,Vernon Parish,53.6,65
+2022-01-20,22117,Louisiana,LA,Washington Parish,40.3,46.1
+2022-01-20,22119,Louisiana,LA,Webster Parish,41.5,47.3
+2022-01-20,22121,Louisiana,LA,West Baton Rouge Parish,52.1,58.1
+2022-01-20,22123,Louisiana,LA,West Carroll Parish,39.6,44.4
+2022-01-20,22125,Louisiana,LA,West Feliciana Parish,86.1,94.8
+2022-01-20,22127,Louisiana,LA,Winn Parish,45.2,50.3
+2022-01-20,23001,Maine,ME,Androscoggin County,67.8,76
+2022-01-20,23003,Maine,ME,Aroostook County,67.3,73.3
+2022-01-20,23005,Maine,ME,Cumberland County,85.6,95
+2022-01-20,23007,Maine,ME,Franklin County,62.1,69.9
+2022-01-20,23009,Maine,ME,Hancock County,74.6,84.2
+2022-01-20,23011,Maine,ME,Kennebec County,69.6,78.9
+2022-01-20,23013,Maine,ME,Knox County,81.6,90.9
+2022-01-20,23015,Maine,ME,Lincoln County,79,87.6
+2022-01-20,23017,Maine,ME,Oxford County,66.1,76.8
+2022-01-20,23019,Maine,ME,Penobscot County,69,77.1
+2022-01-20,23021,Maine,ME,Piscataquis County,60.3,65.9
+2022-01-20,23023,Maine,ME,Sagadahoc County,77.7,84.8
+2022-01-20,23025,Maine,ME,Somerset County,59.8,66.1
+2022-01-20,23027,Maine,ME,Waldo County,69,77.9
+2022-01-20,23029,Maine,ME,Washington County,70,79.3
+2022-01-20,23031,Maine,ME,York County,77.1,90.4
+2022-01-20,24001,Maryland,MD,Allegany County,54.1,60.8
+2022-01-20,24003,Maryland,MD,Anne Arundel County,73.8,83.7
+2022-01-20,24510,Maryland,MD,Baltimore City,61.4,70.3
+2022-01-20,24005,Maryland,MD,Baltimore County,68.5,76.2
+2022-01-20,24009,Maryland,MD,Calvert County,68.6,77.1
+2022-01-20,24011,Maryland,MD,Caroline County,54.8,60.3
+2022-01-20,24013,Maryland,MD,Carroll County,71.6,79
+2022-01-20,24015,Maryland,MD,Cecil County,55.7,66.9
+2022-01-20,24017,Maryland,MD,Charles County,66.5,76.4
+2022-01-20,24019,Maryland,MD,Dorchester County,55.9,62.8
+2022-01-20,24021,Maryland,MD,Frederick County,73.9,83.2
+2022-01-20,24023,Maryland,MD,Garrett County,48.3,55.3
+2022-01-20,24025,Maryland,MD,Harford County,66.8,74.9
+2022-01-20,24027,Maryland,MD,Howard County,82.7,92.5
+2022-01-20,24029,Maryland,MD,Kent County,65.2,74.9
+2022-01-20,24031,Maryland,MD,Montgomery County,83.3,95
+2022-01-20,24033,Maryland,MD,Prince George's County,69.8,82.7
+2022-01-20,24035,Maryland,MD,Queen Anne's County,64,71.7
+2022-01-20,24039,Maryland,MD,Somerset County,48.2,55.5
+2022-01-20,24037,Maryland,MD,St. Mary's County,64,71.8
+2022-01-20,24041,Maryland,MD,Talbot County,70.8,80.2
+2022-01-20,24043,Maryland,MD,Washington County,57.1,64.1
+2022-01-20,24045,Maryland,MD,Wicomico County,53.1,60.2
+2022-01-20,24047,Maryland,MD,Worcester County,69.1,79.8
+2022-01-20,25003,Massachusetts,MA,Berkshire County,56.5,70.2
+2022-01-20,25005,Massachusetts,MA,Bristol County,62.7,77
+2022-01-20,25009,Massachusetts,MA,Essex County,71.2,86
+2022-01-20,25011,Massachusetts,MA,Franklin County,66.1,81.7
+2022-01-20,25013,Massachusetts,MA,Hampden County,62.6,76.8
+2022-01-20,25015,Massachusetts,MA,Hampshire County,64.9,78.8
+2022-01-20,25017,Massachusetts,MA,Middlesex County,77,93
+2022-01-20,25021,Massachusetts,MA,Norfolk County,76.5,90.7
+2022-01-20,25023,Massachusetts,MA,Plymouth County,67.3,80.8
+2022-01-20,25025,Massachusetts,MA,Suffolk County,70.1,85.7
+2022-01-20,25027,Massachusetts,MA,Worcester County,67.1,82.6
+2022-01-20,26001,Michigan,MI,Alcona County,57.2,59
+2022-01-20,26003,Michigan,MI,Alger County,61.4,66.1
+2022-01-20,26005,Michigan,MI,Allegan County,50.5,52.1
+2022-01-20,26007,Michigan,MI,Alpena County,54.3,55.7
+2022-01-20,26009,Michigan,MI,Antrim County,56.8,60.6
+2022-01-20,26011,Michigan,MI,Arenac County,50.3,52.8
+2022-01-20,26013,Michigan,MI,Baraga County,58.4,65.6
+2022-01-20,26015,Michigan,MI,Barry County,47.7,49.5
+2022-01-20,26017,Michigan,MI,Bay County,55.7,58.5
+2022-01-20,26019,Michigan,MI,Benzie County,61.5,65.7
+2022-01-20,26021,Michigan,MI,Berrien County,54.1,59.8
+2022-01-20,26023,Michigan,MI,Branch County,43.7,46.6
+2022-01-20,26025,Michigan,MI,Calhoun County,50.3,52.3
+2022-01-20,26027,Michigan,MI,Cass County,42,48.3
+2022-01-20,26029,Michigan,MI,Charlevoix County,62.8,65.9
+2022-01-20,26031,Michigan,MI,Cheboygan County,54.6,57.8
+2022-01-20,26033,Michigan,MI,Chippewa County,67.8,73.6
+2022-01-20,26035,Michigan,MI,Clare County,45.2,47
+2022-01-20,26037,Michigan,MI,Clinton County,56,58
+2022-01-20,26039,Michigan,MI,Crawford County,49.9,52
+2022-01-20,26041,Michigan,MI,Delta County,60.6,64.2
+2022-01-20,26043,Michigan,MI,Dickinson County,65.9,72.6
+2022-01-20,26045,Michigan,MI,Eaton County,55.3,57.7
+2022-01-20,26047,Michigan,MI,Emmet County,70.8,74.5
+2022-01-20,26049,Michigan,MI,Genesee County,48.8,51.8
+2022-01-20,26051,Michigan,MI,Gladwin County,46.6,49.1
+2022-01-20,26053,Michigan,MI,Gogebic County,64.6,69.5
+2022-01-20,26055,Michigan,MI,Grand Traverse County,65.7,69.3
+2022-01-20,26057,Michigan,MI,Gratiot County,44.8,46.1
+2022-01-20,26059,Michigan,MI,Hillsdale County,37.3,39.6
+2022-01-20,26061,Michigan,MI,Houghton County,50.8,53.2
+2022-01-20,26063,Michigan,MI,Huron County,52.8,54.8
+2022-01-20,26065,Michigan,MI,Ingham County,55.4,58.5
+2022-01-20,26067,Michigan,MI,Ionia County,45.7,46.8
+2022-01-20,26069,Michigan,MI,Iosco County,55.2,58.3
+2022-01-20,26071,Michigan,MI,Iron County,55.2,58.9
+2022-01-20,26073,Michigan,MI,Isabella County,43.3,45.5
+2022-01-20,26075,Michigan,MI,Jackson County,50.9,52.2
+2022-01-20,26077,Michigan,MI,Kalamazoo County,59.5,61.4
+2022-01-20,26079,Michigan,MI,Kalkaska County,45.7,47.9
+2022-01-20,26081,Michigan,MI,Kent County,59.2,60.4
+2022-01-20,26083,Michigan,MI,Keweenaw County,57.3,61.6
+2022-01-20,26085,Michigan,MI,Lake County,59.8,62.8
+2022-01-20,26087,Michigan,MI,Lapeer County,46,48.4
+2022-01-20,26089,Michigan,MI,Leelanau County,80.6,87
+2022-01-20,26091,Michigan,MI,Lenawee County,51.1,54.4
+2022-01-20,26093,Michigan,MI,Livingston County,58.6,60.5
+2022-01-20,26095,Michigan,MI,Luce County,43.5,46.7
+2022-01-20,26097,Michigan,MI,Mackinac County,73.6,82.2
+2022-01-20,26099,Michigan,MI,Macomb County,54.9,57.2
+2022-01-20,26101,Michigan,MI,Manistee County,58.7,60.6
+2022-01-20,26103,Michigan,MI,Marquette County,62.4,66
+2022-01-20,26105,Michigan,MI,Mason County,59.1,60.6
+2022-01-20,26107,Michigan,MI,Mecosta County,40.6,41.6
+2022-01-20,26109,Michigan,MI,Menominee County,69.7,78.2
+2022-01-20,26111,Michigan,MI,Midland County,57.3,60.1
+2022-01-20,26113,Michigan,MI,Missaukee County,47.3,48.6
+2022-01-20,26115,Michigan,MI,Monroe County,54.7,60.3
+2022-01-20,26117,Michigan,MI,Montcalm County,41.1,41.8
+2022-01-20,26119,Michigan,MI,Montmorency County,53.4,55.5
+2022-01-20,26121,Michigan,MI,Muskegon County,53.2,54.2
+2022-01-20,26123,Michigan,MI,Newaygo County,43.5,44
+2022-01-20,26125,Michigan,MI,Oakland County,64.2,68.1
+2022-01-20,26127,Michigan,MI,Oceana County,52.7,53.6
+2022-01-20,26129,Michigan,MI,Ogemaw County,44,46
+2022-01-20,26131,Michigan,MI,Ontonagon County,68.2,73.6
+2022-01-20,26133,Michigan,MI,Osceola County,40.9,42.2
+2022-01-20,26135,Michigan,MI,Oscoda County,41,44.6
+2022-01-20,26137,Michigan,MI,Otsego County,54.1,56.9
+2022-01-20,26139,Michigan,MI,Ottawa County,55.8,57.7
+2022-01-20,26141,Michigan,MI,Presque Isle County,58.7,61
+2022-01-20,26143,Michigan,MI,Roscommon County,55,57.8
+2022-01-20,26145,Michigan,MI,Saginaw County,51.3,53.3
+2022-01-20,26151,Michigan,MI,Sanilac County,41.6,43.5
+2022-01-20,26153,Michigan,MI,Schoolcraft County,54.6,55.8
+2022-01-20,26155,Michigan,MI,Shiawassee County,50,52.2
+2022-01-20,26147,Michigan,MI,St. Clair County,48.4,50.7
+2022-01-20,26149,Michigan,MI,St. Joseph County,43.9,46.5
+2022-01-20,26157,Michigan,MI,Tuscola County,44.8,46.8
+2022-01-20,26159,Michigan,MI,Van Buren County,55.3,56.2
+2022-01-20,26161,Michigan,MI,Washtenaw County,69.1,73.3
+2022-01-20,26163,Michigan,MI,Wayne County,51.6,56
+2022-01-20,26165,Michigan,MI,Wexford County,50,51.4
+2022-01-20,27001,Minnesota,MN,Aitkin County,57.7,62.2
+2022-01-20,27003,Minnesota,MN,Anoka County,56.8,61
+2022-01-20,27005,Minnesota,MN,Becker County,52.7,58
+2022-01-20,27007,Minnesota,MN,Beltrami County,63.8,72.2
+2022-01-20,27009,Minnesota,MN,Benton County,41.4,45.3
+2022-01-20,27011,Minnesota,MN,Big Stone County,61.2,65.7
+2022-01-20,27013,Minnesota,MN,Blue Earth County,58.9,63
+2022-01-20,27015,Minnesota,MN,Brown County,64.3,67.4
+2022-01-20,27017,Minnesota,MN,Carlton County,62.6,67.4
+2022-01-20,27019,Minnesota,MN,Carver County,65.2,70.1
+2022-01-20,27021,Minnesota,MN,Cass County,55.1,61.9
+2022-01-20,27023,Minnesota,MN,Chippewa County,51.3,55.6
+2022-01-20,27025,Minnesota,MN,Chisago County,55.4,60.3
+2022-01-20,27027,Minnesota,MN,Clay County,57.3,72.7
+2022-01-20,27029,Minnesota,MN,Clearwater County,40.8,43.8
+2022-01-20,27031,Minnesota,MN,Cook County,78.8,84.4
+2022-01-20,27033,Minnesota,MN,Cottonwood County,54.5,58
+2022-01-20,27035,Minnesota,MN,Crow Wing County,55,59.2
+2022-01-20,27037,Minnesota,MN,Dakota County,67.1,72.7
+2022-01-20,27039,Minnesota,MN,Dodge County,58.8,61.6
+2022-01-20,27041,Minnesota,MN,Douglas County,55.9,60
+2022-01-20,27043,Minnesota,MN,Faribault County,55.7,59
+2022-01-20,27045,Minnesota,MN,Fillmore County,66.8,71.9
+2022-01-20,27047,Minnesota,MN,Freeborn County,55.7,59.4
+2022-01-20,27049,Minnesota,MN,Goodhue County,64.8,69.1
+2022-01-20,27051,Minnesota,MN,Grant County,53.3,56.9
+2022-01-20,27053,Minnesota,MN,Hennepin County,71.5,78.2
+2022-01-20,27055,Minnesota,MN,Houston County,57.9,68.1
+2022-01-20,27057,Minnesota,MN,Hubbard County,46,50.1
+2022-01-20,27059,Minnesota,MN,Isanti County,41.3,45.1
+2022-01-20,27061,Minnesota,MN,Itasca County,55,59.1
+2022-01-20,27063,Minnesota,MN,Jackson County,49.5,54.1
+2022-01-20,27065,Minnesota,MN,Kanabec County,41.4,44.8
+2022-01-20,27067,Minnesota,MN,Kandiyohi County,52,56.5
+2022-01-20,27069,Minnesota,MN,Kittson County,57.5,64.6
+2022-01-20,27071,Minnesota,MN,Koochiching County,57.3,60.4
+2022-01-20,27073,Minnesota,MN,Lac qui Parle County,57.4,60.1
+2022-01-20,27075,Minnesota,MN,Lake County,65.5,68
+2022-01-20,27077,Minnesota,MN,Lake of the Woods County,54,57.5
+2022-01-20,27079,Minnesota,MN,Le Sueur County,47.2,50.6
+2022-01-20,27081,Minnesota,MN,Lincoln County,51.9,54.6
+2022-01-20,27083,Minnesota,MN,Lyon County,55,58.7
+2022-01-20,27087,Minnesota,MN,Mahnomen County,57.2,65.6
+2022-01-20,27089,Minnesota,MN,Marshall County,49,53.7
+2022-01-20,27091,Minnesota,MN,Martin County,54,57.5
+2022-01-20,27085,Minnesota,MN,McLeod County,55.9,60.5
+2022-01-20,27093,Minnesota,MN,Meeker County,46.4,49.6
+2022-01-20,27095,Minnesota,MN,Mille Lacs County,55.8,60.8
+2022-01-20,27097,Minnesota,MN,Morrison County,47.2,52.6
+2022-01-20,27099,Minnesota,MN,Mower County,59.9,64.2
+2022-01-20,27101,Minnesota,MN,Murray County,53.3,56.9
+2022-01-20,27103,Minnesota,MN,Nicollet County,60.9,64.7
+2022-01-20,27105,Minnesota,MN,Nobles County,59.2,64.1
+2022-01-20,27107,Minnesota,MN,Norman County,58.7,64.9
+2022-01-20,27109,Minnesota,MN,Olmsted County,74.9,79.7
+2022-01-20,27111,Minnesota,MN,Otter Tail County,49,53.9
+2022-01-20,27113,Minnesota,MN,Pennington County,52,52.9
+2022-01-20,27115,Minnesota,MN,Pine County,47.3,51.6
+2022-01-20,27117,Minnesota,MN,Pipestone County,53,56.7
+2022-01-20,27119,Minnesota,MN,Polk County,56.4,64.3
+2022-01-20,27121,Minnesota,MN,Pope County,55.3,59.9
+2022-01-20,27123,Minnesota,MN,Ramsey County,68.6,75
+2022-01-20,27125,Minnesota,MN,Red Lake County,55.1,59.9
+2022-01-20,27127,Minnesota,MN,Redwood County,52.3,55.3
+2022-01-20,27129,Minnesota,MN,Renville County,53.1,56.7
+2022-01-20,27131,Minnesota,MN,Rice County,61.1,65.2
+2022-01-20,27133,Minnesota,MN,Rock County,52.4,60
+2022-01-20,27135,Minnesota,MN,Roseau County,50,54.2
+2022-01-20,27139,Minnesota,MN,Scott County,67.1,72.3
+2022-01-20,27141,Minnesota,MN,Sherburne County,44.1,48
+2022-01-20,27143,Minnesota,MN,Sibley County,47.3,50.7
+2022-01-20,27137,Minnesota,MN,St. Louis County,65,71.1
+2022-01-20,27145,Minnesota,MN,Stearns County,56.6,61
+2022-01-20,27147,Minnesota,MN,Steele County,59,62.9
+2022-01-20,27149,Minnesota,MN,Stevens County,56.1,59.6
+2022-01-20,27151,Minnesota,MN,Swift County,56,59.9
+2022-01-20,27153,Minnesota,MN,Todd County,41.2,44
+2022-01-20,27155,Minnesota,MN,Traverse County,61.2,66.7
+2022-01-20,27157,Minnesota,MN,Wabasha County,71.3,78.4
+2022-01-20,27159,Minnesota,MN,Wadena County,48.3,52.3
+2022-01-20,27161,Minnesota,MN,Waseca County,55.5,58.9
+2022-01-20,27163,Minnesota,MN,Washington County,67.9,73.8
+2022-01-20,27165,Minnesota,MN,Watonwan County,56.2,59.4
+2022-01-20,27167,Minnesota,MN,Wilkin County,53,63.4
+2022-01-20,27169,Minnesota,MN,Winona County,63.1,69.2
+2022-01-20,27171,Minnesota,MN,Wright County,52.7,56.2
+2022-01-20,27173,Minnesota,MN,Yellow Medicine County,55.2,58.8
+2022-01-20,28001,Mississippi,MS,Adams County,52.1,62.2
+2022-01-20,28003,Mississippi,MS,Alcorn County,37.5,43.6
+2022-01-20,28005,Mississippi,MS,Amite County,38.5,44.4
+2022-01-20,28007,Mississippi,MS,Attala County,52.1,59.8
+2022-01-20,28009,Mississippi,MS,Benton County,49.7,58
+2022-01-20,28011,Mississippi,MS,Bolivar County,56.4,65.4
+2022-01-20,28013,Mississippi,MS,Calhoun County,42.4,49.4
+2022-01-20,28015,Mississippi,MS,Carroll County,39.9,45.2
+2022-01-20,28017,Mississippi,MS,Chickasaw County,46.6,53.3
+2022-01-20,28019,Mississippi,MS,Choctaw County,35,40.8
+2022-01-20,28021,Mississippi,MS,Claiborne County,52.4,61.6
+2022-01-20,28023,Mississippi,MS,Clarke County,54.8,63.4
+2022-01-20,28025,Mississippi,MS,Clay County,44.9,52.2
+2022-01-20,28027,Mississippi,MS,Coahoma County,49,57.2
+2022-01-20,28029,Mississippi,MS,Copiah County,51.9,60
+2022-01-20,28031,Mississippi,MS,Covington County,49.3,58.5
+2022-01-20,28033,Mississippi,MS,DeSoto County,51.8,62.3
+2022-01-20,28035,Mississippi,MS,Forrest County,41.3,48.8
+2022-01-20,28037,Mississippi,MS,Franklin County,46.2,53.2
+2022-01-20,28039,Mississippi,MS,George County,39.3,45.6
+2022-01-20,28041,Mississippi,MS,Greene County,36,40.7
+2022-01-20,28043,Mississippi,MS,Grenada County,50.7,57.5
+2022-01-20,28045,Mississippi,MS,Hancock County,42.6,51
+2022-01-20,28047,Mississippi,MS,Harrison County,52.9,61.9
+2022-01-20,28049,Mississippi,MS,Hinds County,55.6,64.1
+2022-01-20,28051,Mississippi,MS,Holmes County,55.8,64
+2022-01-20,28053,Mississippi,MS,Humphreys County,55.7,66.7
+2022-01-20,28055,Mississippi,MS,Issaquena County,38.8,46.7
+2022-01-20,28057,Mississippi,MS,Itawamba County,33.7,38.5
+2022-01-20,28059,Mississippi,MS,Jackson County,45.9,53.9
+2022-01-20,28061,Mississippi,MS,Jasper County,48.5,57
+2022-01-20,28063,Mississippi,MS,Jefferson County,67.4,78.8
+2022-01-20,28065,Mississippi,MS,Jefferson Davis County,43.2,49.3
+2022-01-20,28067,Mississippi,MS,Jones County,41.6,48.5
+2022-01-20,28069,Mississippi,MS,Kemper County,44.3,51.4
+2022-01-20,28071,Mississippi,MS,Lafayette County,53.5,59.6
+2022-01-20,28073,Mississippi,MS,Lamar County,57.4,64.9
+2022-01-20,28075,Mississippi,MS,Lauderdale County,49.4,57.7
+2022-01-20,28077,Mississippi,MS,Lawrence County,53.1,61.6
+2022-01-20,28079,Mississippi,MS,Leake County,46.2,54.2
+2022-01-20,28081,Mississippi,MS,Lee County,42.1,48.1
+2022-01-20,28083,Mississippi,MS,Leflore County,59.3,68.6
+2022-01-20,28085,Mississippi,MS,Lincoln County,37.3,43.7
+2022-01-20,28087,Mississippi,MS,Lowndes County,49.3,56.4
+2022-01-20,28089,Mississippi,MS,Madison County,61.6,69.6
+2022-01-20,28091,Mississippi,MS,Marion County,44.5,50.8
+2022-01-20,28093,Mississippi,MS,Marshall County,51.8,62.2
+2022-01-20,28095,Mississippi,MS,Monroe County,49,55.3
+2022-01-20,28097,Mississippi,MS,Montgomery County,53.8,60.3
+2022-01-20,28099,Mississippi,MS,Neshoba County,39.4,47.2
+2022-01-20,28101,Mississippi,MS,Newton County,51.2,59.7
+2022-01-20,28103,Mississippi,MS,Noxubee County,53.5,59.6
+2022-01-20,28105,Mississippi,MS,Oktibbeha County,50,56.4
+2022-01-20,28107,Mississippi,MS,Panola County,45.7,52.7
+2022-01-20,28109,Mississippi,MS,Pearl River County,46.1,55.3
+2022-01-20,28111,Mississippi,MS,Perry County,36.3,41.9
+2022-01-20,28113,Mississippi,MS,Pike County,48.2,56.3
+2022-01-20,28115,Mississippi,MS,Pontotoc County,40.3,45.7
+2022-01-20,28117,Mississippi,MS,Prentiss County,41.3,46.8
+2022-01-20,28119,Mississippi,MS,Quitman County,51.4,59.6
+2022-01-20,28121,Mississippi,MS,Rankin County,49.8,56.1
+2022-01-20,28123,Mississippi,MS,Scott County,48.1,55.8
+2022-01-20,28125,Mississippi,MS,Sharkey County,53,61
+2022-01-20,28127,Mississippi,MS,Simpson County,43.3,50.4
+2022-01-20,28129,Mississippi,MS,Smith County,33,38.2
+2022-01-20,28131,Mississippi,MS,Stone County,44.2,51.8
+2022-01-20,28133,Mississippi,MS,Sunflower County,51,58.4
+2022-01-20,28135,Mississippi,MS,Tallahatchie County,40.1,46.1
+2022-01-20,28137,Mississippi,MS,Tate County,43.2,49.7
+2022-01-20,28139,Mississippi,MS,Tippah County,40.4,47.1
+2022-01-20,28141,Mississippi,MS,Tishomingo County,37.5,43.8
+2022-01-20,28143,Mississippi,MS,Tunica County,48.8,57.6
+2022-01-20,28145,Mississippi,MS,Union County,38.1,42.9
+2022-01-20,28147,Mississippi,MS,Walthall County,39.6,45.7
+2022-01-20,28149,Mississippi,MS,Warren County,55.6,64
+2022-01-20,28151,Mississippi,MS,Washington County,48.2,56.8
+2022-01-20,28153,Mississippi,MS,Wayne County,37.5,43.8
+2022-01-20,28155,Mississippi,MS,Webster County,46.7,52.4
+2022-01-20,28157,Mississippi,MS,Wilkinson County,63.3,72.8
+2022-01-20,28159,Mississippi,MS,Winston County,46.4,52.8
+2022-01-20,28161,Mississippi,MS,Yalobusha County,63.5,71.8
+2022-01-20,28163,Mississippi,MS,Yazoo County,46.8,53.4
+2022-01-20,29001,Missouri,MO,Adair County,43.7,50.7
+2022-01-20,29003,Missouri,MO,Andrew County,36.8,42.3
+2022-01-20,29005,Missouri,MO,Atchison County,54.2,62.7
+2022-01-20,29007,Missouri,MO,Audrain County,36.4,41.8
+2022-01-20,29009,Missouri,MO,Barry County,43.2,51.5
+2022-01-20,29011,Missouri,MO,Barton County,32.5,37.4
+2022-01-20,29013,Missouri,MO,Bates County,37.6,43
+2022-01-20,29015,Missouri,MO,Benton County,46.5,53.3
+2022-01-20,29017,Missouri,MO,Bollinger County,32.1,36.4
+2022-01-20,29019,Missouri,MO,Boone County,59.6,70.3
+2022-01-20,29021,Missouri,MO,Buchanan County,37.2,43.1
+2022-01-20,29023,Missouri,MO,Butler County,33.3,39.5
+2022-01-20,29025,Missouri,MO,Caldwell County,38.2,43.5
+2022-01-20,29027,Missouri,MO,Callaway County,45.8,52.8
+2022-01-20,29029,Missouri,MO,Camden County,44.4,51.1
+2022-01-20,29031,Missouri,MO,Cape Girardeau County,47.2,54.3
+2022-01-20,29033,Missouri,MO,Carroll County,48,53.3
+2022-01-20,29035,Missouri,MO,Carter County,31.7,38.4
+2022-01-20,29037,Missouri,MO,Cass County,50.1,59.6
+2022-01-20,29039,Missouri,MO,Cedar County,31.3,35.2
+2022-01-20,29041,Missouri,MO,Chariton County,36.7,41.7
+2022-01-20,29043,Missouri,MO,Christian County,44.6,51.1
+2022-01-20,29045,Missouri,MO,Clark County,29.8,35.7
+2022-01-20,29047,Missouri,MO,Clay County,52.1,60.7
+2022-01-20,29049,Missouri,MO,Clinton County,45.9,54.2
+2022-01-20,29051,Missouri,MO,Cole County,51.2,58.9
+2022-01-20,29053,Missouri,MO,Cooper County,43.1,49.3
+2022-01-20,29055,Missouri,MO,Crawford County,32.4,37.3
+2022-01-20,29057,Missouri,MO,Dade County,42.4,47.9
+2022-01-20,29059,Missouri,MO,Dallas County,34.1,39.5
+2022-01-20,29061,Missouri,MO,Daviess County,31.9,36.3
+2022-01-20,29063,Missouri,MO,DeKalb County,27.3,30.8
+2022-01-20,29065,Missouri,MO,Dent County,32.7,39.2
+2022-01-20,29067,Missouri,MO,Douglas County,23.6,26.5
+2022-01-20,29069,Missouri,MO,Dunklin County,35.7,42.3
+2022-01-20,29071,Missouri,MO,Franklin County,52.9,59.5
+2022-01-20,29073,Missouri,MO,Gasconade County,49.9,55
+2022-01-20,29075,Missouri,MO,Gentry County,42.3,47.9
+2022-01-20,29077,Missouri,MO,Greene County,47.9,55.2
+2022-01-20,29079,Missouri,MO,Grundy County,34.1,39.4
+2022-01-20,29081,Missouri,MO,Harrison County,32.9,39.4
+2022-01-20,29083,Missouri,MO,Henry County,44.6,51.4
+2022-01-20,29085,Missouri,MO,Hickory County,37.3,42.9
+2022-01-20,29087,Missouri,MO,Holt County,40.6,46.5
+2022-01-20,29089,Missouri,MO,Howard County,42.1,48.4
+2022-01-20,29091,Missouri,MO,Howell County,32.2,37.7
+2022-01-20,29093,Missouri,MO,Iron County,37.6,42.6
+2022-01-20,29095,Missouri,MO,Jackson County,54.7,67.7
+2022-01-20,29097,Missouri,MO,Jasper County,45.9,53.6
+2022-01-20,29099,Missouri,MO,Jefferson County,43.1,50.2
+2022-01-20,29101,Missouri,MO,Johnson County,40.5,50.5
+2022-01-20,29103,Missouri,MO,Knox County,38.5,42.7
+2022-01-20,29105,Missouri,MO,Laclede County,36.6,42.4
+2022-01-20,29107,Missouri,MO,Lafayette County,44.4,51.1
+2022-01-20,29109,Missouri,MO,Lawrence County,36.8,42.4
+2022-01-20,29111,Missouri,MO,Lewis County,33.1,41.2
+2022-01-20,29113,Missouri,MO,Lincoln County,37.8,43.3
+2022-01-20,29115,Missouri,MO,Linn County,44.5,52.2
+2022-01-20,29117,Missouri,MO,Livingston County,42.1,47.3
+2022-01-20,29121,Missouri,MO,Macon County,39,43.4
+2022-01-20,29123,Missouri,MO,Madison County,38.2,44.4
+2022-01-20,29125,Missouri,MO,Maries County,42.6,48.2
+2022-01-20,29127,Missouri,MO,Marion County,40.6,45.7
+2022-01-20,29119,Missouri,MO,McDonald County,31.2,40.3
+2022-01-20,29129,Missouri,MO,Mercer County,33.9,40.1
+2022-01-20,29131,Missouri,MO,Miller County,32.6,37.2
+2022-01-20,29133,Missouri,MO,Mississippi County,42.2,47.8
+2022-01-20,29135,Missouri,MO,Moniteau County,34.9,39.2
+2022-01-20,29137,Missouri,MO,Monroe County,42.8,49.4
+2022-01-20,29139,Missouri,MO,Montgomery County,47.3,53.8
+2022-01-20,29141,Missouri,MO,Morgan County,36,41.4
+2022-01-20,29143,Missouri,MO,New Madrid County,32.3,37.5
+2022-01-20,29145,Missouri,MO,Newton County,24.9,29.2
+2022-01-20,29147,Missouri,MO,Nodaway County,47.5,53
+2022-01-20,29149,Missouri,MO,Oregon County,30.3,35.8
+2022-01-20,29151,Missouri,MO,Osage County,38.7,42.9
+2022-01-20,29153,Missouri,MO,Ozark County,30.5,37.7
+2022-01-20,29155,Missouri,MO,Pemiscot County,29.9,38.4
+2022-01-20,29157,Missouri,MO,Perry County,38.6,43
+2022-01-20,29159,Missouri,MO,Pettis County,41.2,47.9
+2022-01-20,29161,Missouri,MO,Phelps County,42.4,49
+2022-01-20,29163,Missouri,MO,Pike County,36.5,41.4
+2022-01-20,29165,Missouri,MO,Platte County,55,65.4
+2022-01-20,29167,Missouri,MO,Polk County,38,43.6
+2022-01-20,29169,Missouri,MO,Pulaski County,48.7,59.4
+2022-01-20,29171,Missouri,MO,Putnam County,32.3,38.1
+2022-01-20,29173,Missouri,MO,Ralls County,27.6,30.7
+2022-01-20,29175,Missouri,MO,Randolph County,36.6,43.3
+2022-01-20,29177,Missouri,MO,Ray County,38.7,43.9
+2022-01-20,29179,Missouri,MO,Reynolds County,25.8,30.4
+2022-01-20,29181,Missouri,MO,Ripley County,28.3,33.8
+2022-01-20,29195,Missouri,MO,Saline County,45.1,51.2
+2022-01-20,29197,Missouri,MO,Schuyler County,25.2,28.9
+2022-01-20,29199,Missouri,MO,Scotland County,25.6,29.8
+2022-01-20,29201,Missouri,MO,Scott County,42.3,48.3
+2022-01-20,29203,Missouri,MO,Shannon County,29.6,32.5
+2022-01-20,29205,Missouri,MO,Shelby County,45.6,50.3
+2022-01-20,29183,Missouri,MO,St. Charles County,59.5,68.2
+2022-01-20,29185,Missouri,MO,St. Clair County,33.5,38.4
+2022-01-20,29187,Missouri,MO,St. Francois County,42.2,48.4
+2022-01-20,29510,Missouri,MO,St. Louis City,55.9,69.3
+2022-01-20,29189,Missouri,MO,St. Louis County,61.6,73.1
+2022-01-20,29186,Missouri,MO,Ste. Genevieve County,43.8,48.5
+2022-01-20,29207,Missouri,MO,Stoddard County,38.5,44.3
+2022-01-20,29209,Missouri,MO,Stone County,36.7,42.2
+2022-01-20,29211,Missouri,MO,Sullivan County,41.3,47.8
+2022-01-20,29213,Missouri,MO,Taney County,39.4,46.6
+2022-01-20,29215,Missouri,MO,Texas County,32,36.5
+2022-01-20,29217,Missouri,MO,Vernon County,34,39
+2022-01-20,29219,Missouri,MO,Warren County,40.5,45.6
+2022-01-20,29221,Missouri,MO,Washington County,30.5,36.4
+2022-01-20,29223,Missouri,MO,Wayne County,35.1,40.9
+2022-01-20,29225,Missouri,MO,Webster County,41.3,47.2
+2022-01-20,29227,Missouri,MO,Worth County,39.8,46.2
+2022-01-20,29229,Missouri,MO,Wright County,34.9,40.8
+2022-01-20,30001,Montana,MT,Beaverhead County,53,57.5
+2022-01-20,30003,Montana,MT,Big Horn County,84.9,95
+2022-01-20,30005,Montana,MT,Blaine County,80.5,95
+2022-01-20,30007,Montana,MT,Broadwater County,32.4,40
+2022-01-20,30009,Montana,MT,Carbon County,46.2,51
+2022-01-20,30011,Montana,MT,Carter County,30.4,32.9
+2022-01-20,30013,Montana,MT,Cascade County,52.8,59.8
+2022-01-20,30015,Montana,MT,Chouteau County,32,35
+2022-01-20,30017,Montana,MT,Custer County,42.8,47.8
+2022-01-20,30019,Montana,MT,Daniels County,41.1,44.6
+2022-01-20,30021,Montana,MT,Dawson County,36.7,40.3
+2022-01-20,30023,Montana,MT,Deer Lodge County,56.7,61.2
+2022-01-20,30025,Montana,MT,Fallon County,33,35.9
+2022-01-20,30027,Montana,MT,Fergus County,45.8,50.4
+2022-01-20,30029,Montana,MT,Flathead County,41.1,47.9
+2022-01-20,30031,Montana,MT,Gallatin County,57.5,68
+2022-01-20,30033,Montana,MT,Garfield County,18.8,21.9
+2022-01-20,30035,Montana,MT,Glacier County,81.8,95
+2022-01-20,30037,Montana,MT,Golden Valley County,45.2,50.3
+2022-01-20,30039,Montana,MT,Granite County,35.9,40.8
+2022-01-20,30041,Montana,MT,Hill County,67.2,75.8
+2022-01-20,30043,Montana,MT,Jefferson County,49.3,56
+2022-01-20,30045,Montana,MT,Judith Basin County,39,42.2
+2022-01-20,30047,Montana,MT,Lake County,54.9,62.4
+2022-01-20,30049,Montana,MT,Lewis and Clark County,57.9,66.3
+2022-01-20,30051,Montana,MT,Liberty County,33.2,33.6
+2022-01-20,30053,Montana,MT,Lincoln County,34.3,39
+2022-01-20,30057,Montana,MT,Madison County,43.5,49.6
+2022-01-20,30055,Montana,MT,McCone County,17.4,17.9
+2022-01-20,30059,Montana,MT,Meagher County,49.2,52.4
+2022-01-20,30061,Montana,MT,Mineral County,52.8,60.9
+2022-01-20,30063,Montana,MT,Missoula County,63.1,69.2
+2022-01-20,30065,Montana,MT,Musselshell County,33.6,37.2
+2022-01-20,30067,Montana,MT,Park County,57.3,69.2
+2022-01-20,30069,Montana,MT,Petroleum County,30.2,32
+2022-01-20,30071,Montana,MT,Phillips County,43,49
+2022-01-20,30073,Montana,MT,Pondera County,52.8,61.8
+2022-01-20,30075,Montana,MT,Powder River County,21.6,24.6
+2022-01-20,30077,Montana,MT,Powell County,44.1,47.8
+2022-01-20,30079,Montana,MT,Prairie County,37.2,40.5
+2022-01-20,30081,Montana,MT,Ravalli County,47.5,53.5
+2022-01-20,30083,Montana,MT,Richland County,38.4,41.4
+2022-01-20,30085,Montana,MT,Roosevelt County,65.8,79.1
+2022-01-20,30087,Montana,MT,Rosebud County,82.3,95
+2022-01-20,30089,Montana,MT,Sanders County,37.3,40.6
+2022-01-20,30091,Montana,MT,Sheridan County,47.5,50.1
+2022-01-20,30093,Montana,MT,Silver Bow County,60.2,65.4
+2022-01-20,30095,Montana,MT,Stillwater County,41.2,45.5
+2022-01-20,30097,Montana,MT,Sweet Grass County,39.7,43.4
+2022-01-20,30099,Montana,MT,Teton County,40.7,46.8
+2022-01-20,30101,Montana,MT,Toole County,44.6,48.1
+2022-01-20,30103,Montana,MT,Treasure County,47.6,52.6
+2022-01-20,30105,Montana,MT,Valley County,45.1,49.1
+2022-01-20,30107,Montana,MT,Wheatland County,35.2,38.7
+2022-01-20,30109,Montana,MT,Wibaux County,27.3,30.3
+2022-01-20,30111,Montana,MT,Yellowstone County,50.2,56.6
+2022-01-20,31001,Nebraska,NE,Adams County,40.8,NA
+2022-01-20,31003,Nebraska,NE,Antelope County,36.2,NA
+2022-01-20,31005,Nebraska,NE,Arthur County,19,NA
+2022-01-20,31007,Nebraska,NE,Banner County,31.4,NA
+2022-01-20,31009,Nebraska,NE,Blaine County,24.7,NA
+2022-01-20,31011,Nebraska,NE,Boone County,47.7,NA
+2022-01-20,31013,Nebraska,NE,Box Butte County,32.6,NA
+2022-01-20,31015,Nebraska,NE,Boyd County,34,34.1
+2022-01-20,31017,Nebraska,NE,Brown County,35.2,37.6
+2022-01-20,31019,Nebraska,NE,Buffalo County,40.2,NA
+2022-01-20,31021,Nebraska,NE,Burt County,57.1,NA
+2022-01-20,31023,Nebraska,NE,Butler County,49.7,50.4
+2022-01-20,31025,Nebraska,NE,Cass County,59.4,65.2
+2022-01-20,31027,Nebraska,NE,Cedar County,39.7,NA
+2022-01-20,31029,Nebraska,NE,Chase County,32.1,NA
+2022-01-20,31031,Nebraska,NE,Cherry County,33.3,36.7
+2022-01-20,31033,Nebraska,NE,Cheyenne County,41.7,44.3
+2022-01-20,31035,Nebraska,NE,Clay County,40.4,NA
+2022-01-20,31037,Nebraska,NE,Colfax County,44.9,48.6
+2022-01-20,31039,Nebraska,NE,Cuming County,51.3,NA
+2022-01-20,31041,Nebraska,NE,Custer County,37.2,37.6
+2022-01-20,31043,Nebraska,NE,Dakota County,61.1,68.7
+2022-01-20,31045,Nebraska,NE,Dawes County,37.3,NA
+2022-01-20,31047,Nebraska,NE,Dawson County,46.3,46.9
+2022-01-20,31049,Nebraska,NE,Deuel County,33.9,NA
+2022-01-20,31051,Nebraska,NE,Dixon County,42.2,NA
+2022-01-20,31053,Nebraska,NE,Dodge County,52.2,NA
+2022-01-20,31055,Nebraska,NE,Douglas County,63.8,70
+2022-01-20,31057,Nebraska,NE,Dundy County,35.9,39.9
+2022-01-20,31059,Nebraska,NE,Fillmore County,51.2,NA
+2022-01-20,31061,Nebraska,NE,Franklin County,37.7,NA
+2022-01-20,31063,Nebraska,NE,Frontier County,26.6,NA
+2022-01-20,31065,Nebraska,NE,Furnas County,43.1,NA
+2022-01-20,31067,Nebraska,NE,Gage County,43,NA
+2022-01-20,31069,Nebraska,NE,Garden County,44.6,NA
+2022-01-20,31071,Nebraska,NE,Garfield County,29.2,NA
+2022-01-20,31073,Nebraska,NE,Gosper County,38.5,NA
+2022-01-20,31075,Nebraska,NE,Grant County,19.6,NA
+2022-01-20,31077,Nebraska,NE,Greeley County,39.1,NA
+2022-01-20,31079,Nebraska,NE,Hall County,46.6,47.7
+2022-01-20,31081,Nebraska,NE,Hamilton County,44.6,NA
+2022-01-20,31083,Nebraska,NE,Harlan County,39.2,39.6
+2022-01-20,31085,Nebraska,NE,Hayes County,23.6,23.8
+2022-01-20,31087,Nebraska,NE,Hitchcock County,32.5,NA
+2022-01-20,31089,Nebraska,NE,Holt County,41.1,NA
+2022-01-20,31091,Nebraska,NE,Hooker County,41.3,41.6
+2022-01-20,31093,Nebraska,NE,Howard County,41.2,NA
+2022-01-20,31095,Nebraska,NE,Jefferson County,53.4,55.2
+2022-01-20,31097,Nebraska,NE,Johnson County,52.8,52.9
+2022-01-20,31099,Nebraska,NE,Kearney County,45.7,46.3
+2022-01-20,31101,Nebraska,NE,Keith County,36.4,NA
+2022-01-20,31103,Nebraska,NE,Keya Paha County,27.4,30.1
+2022-01-20,31105,Nebraska,NE,Kimball County,34.1,NA
+2022-01-20,31107,Nebraska,NE,Knox County,47.7,48
+2022-01-20,31109,Nebraska,NE,Lancaster County,64.6,69.8
+2022-01-20,31111,Nebraska,NE,Lincoln County,31.9,NA
+2022-01-20,31113,Nebraska,NE,Logan County,21.4,NA
+2022-01-20,31115,Nebraska,NE,Loup County,29.4,NA
+2022-01-20,31119,Nebraska,NE,Madison County,44.2,NA
+2022-01-20,31117,Nebraska,NE,McPherson County,14,NA
+2022-01-20,31121,Nebraska,NE,Merrick County,42.1,43.9
+2022-01-20,31123,Nebraska,NE,Morrill County,34.3,36
+2022-01-20,31125,Nebraska,NE,Nance County,28,NA
+2022-01-20,31127,Nebraska,NE,Nemaha County,48.8,49.4
+2022-01-20,31129,Nebraska,NE,Nuckolls County,48.3,48.8
+2022-01-20,31131,Nebraska,NE,Otoe County,54.4,55.8
+2022-01-20,31133,Nebraska,NE,Pawnee County,42.6,43.1
+2022-01-20,31135,Nebraska,NE,Perkins County,39.7,40.5
+2022-01-20,31137,Nebraska,NE,Phelps County,38.1,NA
+2022-01-20,31139,Nebraska,NE,Pierce County,36.4,36.6
+2022-01-20,31141,Nebraska,NE,Platte County,45.1,NA
+2022-01-20,31143,Nebraska,NE,Polk County,40.4,NA
+2022-01-20,31145,Nebraska,NE,Red Willow County,36,NA
+2022-01-20,31147,Nebraska,NE,Richardson County,50.1,54.7
+2022-01-20,31149,Nebraska,NE,Rock County,35.8,NA
+2022-01-20,31151,Nebraska,NE,Saline County,50.3,NA
+2022-01-20,31153,Nebraska,NE,Sarpy County,63.3,69.4
+2022-01-20,31155,Nebraska,NE,Saunders County,50.7,52.1
+2022-01-20,31157,Nebraska,NE,Scotts Bluff County,39.9,NA
+2022-01-20,31159,Nebraska,NE,Seward County,48.7,49.2
+2022-01-20,31161,Nebraska,NE,Sheridan County,30.7,NA
+2022-01-20,31163,Nebraska,NE,Sherman County,38.7,NA
+2022-01-20,31165,Nebraska,NE,Sioux County,23.9,NA
+2022-01-20,31167,Nebraska,NE,Stanton County,27.6,NA
+2022-01-20,31169,Nebraska,NE,Thayer County,46.6,NA
+2022-01-20,31171,Nebraska,NE,Thomas County,24.4,NA
+2022-01-20,31173,Nebraska,NE,Thurston County,67.2,79.3
+2022-01-20,31175,Nebraska,NE,Valley County,32.1,NA
+2022-01-20,31177,Nebraska,NE,Washington County,54.6,57.7
+2022-01-20,31179,Nebraska,NE,Wayne County,40.2,NA
+2022-01-20,31181,Nebraska,NE,Webster County,37.1,NA
+2022-01-20,31183,Nebraska,NE,Wheeler County,30.3,NA
+2022-01-20,31185,Nebraska,NE,York County,50.8,50.9
+2022-01-20,32510,Nevada,NV,Carson City,62,72.5
+2022-01-20,32001,Nevada,NV,Churchill County,51.4,60.7
+2022-01-20,32003,Nevada,NV,Clark County,54.8,68.7
+2022-01-20,32005,Nevada,NV,Douglas County,49.9,58.9
+2022-01-20,32007,Nevada,NV,Elko County,40.4,48.2
+2022-01-20,32009,Nevada,NV,Esmeralda County,40.3,49.6
+2022-01-20,32011,Nevada,NV,Eureka County,26.3,31
+2022-01-20,32013,Nevada,NV,Humboldt County,39.8,46.2
+2022-01-20,32015,Nevada,NV,Lander County,38.9,43.5
+2022-01-20,32017,Nevada,NV,Lincoln County,37.1,41.1
+2022-01-20,32019,Nevada,NV,Lyon County,40.3,47.2
+2022-01-20,32021,Nevada,NV,Mineral County,55.3,64.1
+2022-01-20,32023,Nevada,NV,Nye County,45,52.5
+2022-01-20,32027,Nevada,NV,Pershing County,34.9,40.5
+2022-01-20,32029,Nevada,NV,Storey County,21.3,27
+2022-01-20,32031,Nevada,NV,Washoe County,62.1,72.9
+2022-01-20,32033,Nevada,NV,White Pine County,50.7,56.9
+2022-01-20,33001,New Hampshire,NH,Belknap County,60.5,95
+2022-01-20,33003,New Hampshire,NH,Carroll County,71,95
+2022-01-20,33005,New Hampshire,NH,Cheshire County,60.8,91.3
+2022-01-20,33007,New Hampshire,NH,Coos County,65.5,90.6
+2022-01-20,33009,New Hampshire,NH,Grafton County,73.5,95
+2022-01-20,33011,New Hampshire,NH,Hillsborough County,61.9,94.7
+2022-01-20,33013,New Hampshire,NH,Merrimack County,66.9,95
+2022-01-20,33015,New Hampshire,NH,Rockingham County,65.7,95
+2022-01-20,33017,New Hampshire,NH,Strafford County,62.1,95
+2022-01-20,33019,New Hampshire,NH,Sullivan County,61.8,87.9
+2022-01-20,34001,New Jersey,NJ,Atlantic County,63.3,77
+2022-01-20,34003,New Jersey,NJ,Bergen County,74.2,90.1
+2022-01-20,34005,New Jersey,NJ,Burlington County,71.3,83.7
+2022-01-20,34007,New Jersey,NJ,Camden County,65.5,79
+2022-01-20,34009,New Jersey,NJ,Cape May County,70.8,84.3
+2022-01-20,34011,New Jersey,NJ,Cumberland County,48.8,63.1
+2022-01-20,34013,New Jersey,NJ,Essex County,68.1,84.9
+2022-01-20,34015,New Jersey,NJ,Gloucester County,59.7,73
+2022-01-20,34017,New Jersey,NJ,Hudson County,73.4,92.2
+2022-01-20,34019,New Jersey,NJ,Hunterdon County,68.3,85
+2022-01-20,34021,New Jersey,NJ,Mercer County,67.4,85.3
+2022-01-20,34023,New Jersey,NJ,Middlesex County,70,85.4
+2022-01-20,34025,New Jersey,NJ,Monmouth County,65.4,79.1
+2022-01-20,34027,New Jersey,NJ,Morris County,74.9,88.4
+2022-01-20,34029,New Jersey,NJ,Ocean County,52.2,62.7
+2022-01-20,34031,New Jersey,NJ,Passaic County,66.1,80.2
+2022-01-20,34033,New Jersey,NJ,Salem County,52.6,66.1
+2022-01-20,34035,New Jersey,NJ,Somerset County,73.1,89.2
+2022-01-20,34037,New Jersey,NJ,Sussex County,60.6,72.4
+2022-01-20,34039,New Jersey,NJ,Union County,67.5,83.4
+2022-01-20,34041,New Jersey,NJ,Warren County,65.4,81
+2022-01-20,35001,New Mexico,NM,Bernalillo County,67.4,81.2
+2022-01-20,35003,New Mexico,NM,Catron County,44.9,53
+2022-01-20,35005,New Mexico,NM,Chaves County,43,51.3
+2022-01-20,35006,New Mexico,NM,Cibola County,67.3,87
+2022-01-20,35007,New Mexico,NM,Colfax County,60.3,68.9
+2022-01-20,35009,New Mexico,NM,Curry County,50.8,62.4
+2022-01-20,35011,New Mexico,NM,De Baca County,48.9,55.9
+2022-01-20,35013,New Mexico,NM,Doña Ana County,71.2,88
+2022-01-20,35015,New Mexico,NM,Eddy County,44.9,53.3
+2022-01-20,35017,New Mexico,NM,Grant County,67.1,77.5
+2022-01-20,35019,New Mexico,NM,Guadalupe County,67.8,75.6
+2022-01-20,35021,New Mexico,NM,Harding County,58.2,65.1
+2022-01-20,35023,New Mexico,NM,Hidalgo County,57.1,66.6
+2022-01-20,35025,New Mexico,NM,Lea County,42.1,52.6
+2022-01-20,35027,New Mexico,NM,Lincoln County,57.1,69.5
+2022-01-20,35028,New Mexico,NM,Los Alamos County,82.4,93.9
+2022-01-20,35029,New Mexico,NM,Luna County,70.1,84.3
+2022-01-20,35031,New Mexico,NM,McKinley County,81.9,95
+2022-01-20,35033,New Mexico,NM,Mora County,62.7,73.7
+2022-01-20,35035,New Mexico,NM,Otero County,58.3,69.8
+2022-01-20,35037,New Mexico,NM,Quay County,47.9,58.1
+2022-01-20,35039,New Mexico,NM,Rio Arriba County,75.6,91.8
+2022-01-20,35041,New Mexico,NM,Roosevelt County,36.5,45.5
+2022-01-20,35045,New Mexico,NM,San Juan County,70.9,87.7
+2022-01-20,35047,New Mexico,NM,San Miguel County,65,75
+2022-01-20,35043,New Mexico,NM,Sandoval County,69.1,84.2
+2022-01-20,35049,New Mexico,NM,Santa Fe County,78.1,95
+2022-01-20,35051,New Mexico,NM,Sierra County,64.3,74.5
+2022-01-20,35053,New Mexico,NM,Socorro County,65.8,77.4
+2022-01-20,35055,New Mexico,NM,Taos County,80,95
+2022-01-20,35057,New Mexico,NM,Torrance County,46.6,54
+2022-01-20,35059,New Mexico,NM,Union County,43.4,49.8
+2022-01-20,35061,New Mexico,NM,Valencia County,56.8,67
+2022-01-20,36001,New York,NY,Albany County,72.4,80.5
+2022-01-20,36003,New York,NY,Allegany County,42.6,46.5
+2022-01-20,36005,New York,NY,Bronx County,69.6,82.8
+2022-01-20,36007,New York,NY,Broome County,61.8,67.2
+2022-01-20,36009,New York,NY,Cattaraugus County,54.4,61.1
+2022-01-20,36011,New York,NY,Cayuga County,57.5,61.6
+2022-01-20,36013,New York,NY,Chautauqua County,57.2,64.3
+2022-01-20,36015,New York,NY,Chemung County,58.1,66.9
+2022-01-20,36017,New York,NY,Chenango County,59.3,64
+2022-01-20,36019,New York,NY,Clinton County,70.2,76.1
+2022-01-20,36021,New York,NY,Columbia County,72.2,82.4
+2022-01-20,36023,New York,NY,Cortland County,57.6,61.7
+2022-01-20,36025,New York,NY,Delaware County,55.6,61.1
+2022-01-20,36027,New York,NY,Dutchess County,67.4,76.5
+2022-01-20,36029,New York,NY,Erie County,67.6,73.5
+2022-01-20,36031,New York,NY,Essex County,69.9,75.4
+2022-01-20,36033,New York,NY,Franklin County,63.6,68.3
+2022-01-20,36035,New York,NY,Fulton County,52.5,57.5
+2022-01-20,36037,New York,NY,Genesee County,58.2,62.5
+2022-01-20,36039,New York,NY,Greene County,60.7,68.1
+2022-01-20,36041,New York,NY,Hamilton County,82.2,90.9
+2022-01-20,36043,New York,NY,Herkimer County,57.4,63.1
+2022-01-20,36045,New York,NY,Jefferson County,70.7,84.6
+2022-01-20,36047,New York,NY,Kings County,68.1,82.4
+2022-01-20,36049,New York,NY,Lewis County,50.6,53.9
+2022-01-20,36051,New York,NY,Livingston County,58,62.3
+2022-01-20,36053,New York,NY,Madison County,59.6,63.9
+2022-01-20,36055,New York,NY,Monroe County,70.2,75.7
+2022-01-20,36057,New York,NY,Montgomery County,64.4,70.8
+2022-01-20,36059,New York,NY,Nassau County,78.1,94.6
+2022-01-20,36061,New York,NY,New York County,82.1,95
+2022-01-20,36063,New York,NY,Niagara County,64.4,69.5
+2022-01-20,36065,New York,NY,Oneida County,60.8,66.6
+2022-01-20,36067,New York,NY,Onondaga County,71.4,77
+2022-01-20,36069,New York,NY,Ontario County,66.6,71.5
+2022-01-20,36071,New York,NY,Orange County,61.8,70.4
+2022-01-20,36073,New York,NY,Orleans County,53.5,57.5
+2022-01-20,36075,New York,NY,Oswego County,57.6,61.6
+2022-01-20,36077,New York,NY,Otsego County,60,65.3
+2022-01-20,36079,New York,NY,Putnam County,70.8,81.1
+2022-01-20,36081,New York,NY,Queens County,82.2,95
+2022-01-20,36083,New York,NY,Rensselaer County,68.4,76.3
+2022-01-20,36085,New York,NY,Richmond County,70.5,80.2
+2022-01-20,36087,New York,NY,Rockland County,61.3,71.2
+2022-01-20,36091,New York,NY,Saratoga County,77.4,86.1
+2022-01-20,36093,New York,NY,Schenectady County,70.4,78.2
+2022-01-20,36095,New York,NY,Schoharie County,55.3,60
+2022-01-20,36097,New York,NY,Schuyler County,60.7,67
+2022-01-20,36099,New York,NY,Seneca County,52.2,56.1
+2022-01-20,36089,New York,NY,St. Lawrence County,59.1,63.1
+2022-01-20,36101,New York,NY,Steuben County,58,65.9
+2022-01-20,36103,New York,NY,Suffolk County,72.6,82.5
+2022-01-20,36105,New York,NY,Sullivan County,58.4,66
+2022-01-20,36107,New York,NY,Tioga County,58.5,67.8
+2022-01-20,36109,New York,NY,Tompkins County,77.5,87.1
+2022-01-20,36111,New York,NY,Ulster County,70.3,79.3
+2022-01-20,36113,New York,NY,Warren County,75.5,83.6
+2022-01-20,36115,New York,NY,Washington County,64.6,73.3
+2022-01-20,36117,New York,NY,Wayne County,60.6,65.1
+2022-01-20,36119,New York,NY,Westchester County,77.3,94.3
+2022-01-20,36121,New York,NY,Wyoming County,50,53.5
+2022-01-20,36123,New York,NY,Yates County,51.5,56.2
+2022-01-20,37001,North Carolina,NC,Alamance County,56.3,77
+2022-01-20,37003,North Carolina,NC,Alexander County,44.1,55.6
+2022-01-20,37005,North Carolina,NC,Alleghany County,57.2,78.5
+2022-01-20,37007,North Carolina,NC,Anson County,44.7,55.4
+2022-01-20,37009,North Carolina,NC,Ashe County,51.7,73.6
+2022-01-20,37011,North Carolina,NC,Avery County,52.3,68.7
+2022-01-20,37013,North Carolina,NC,Beaufort County,53.4,67.7
+2022-01-20,37015,North Carolina,NC,Bertie County,49.6,65.2
+2022-01-20,37017,North Carolina,NC,Bladen County,60.8,76.8
+2022-01-20,37019,North Carolina,NC,Brunswick County,60,88.4
+2022-01-20,37021,North Carolina,NC,Buncombe County,64.5,90.3
+2022-01-20,37023,North Carolina,NC,Burke County,45.2,58.8
+2022-01-20,37025,North Carolina,NC,Cabarrus County,54.5,75.7
+2022-01-20,37027,North Carolina,NC,Caldwell County,45.6,57.7
+2022-01-20,37029,North Carolina,NC,Camden County,59.1,78.9
+2022-01-20,37031,North Carolina,NC,Carteret County,61.6,86.6
+2022-01-20,37033,North Carolina,NC,Caswell County,48.5,58.5
+2022-01-20,37035,North Carolina,NC,Catawba County,53.1,73.3
+2022-01-20,37037,North Carolina,NC,Chatham County,59.6,86.8
+2022-01-20,37039,North Carolina,NC,Cherokee County,54.6,66.4
+2022-01-20,37041,North Carolina,NC,Chowan County,54.4,72.1
+2022-01-20,37043,North Carolina,NC,Clay County,52,65.4
+2022-01-20,37045,North Carolina,NC,Cleveland County,48,64.4
+2022-01-20,37047,North Carolina,NC,Columbus County,42.9,55.4
+2022-01-20,37049,North Carolina,NC,Craven County,59.6,77.1
+2022-01-20,37051,North Carolina,NC,Cumberland County,57.7,77.5
+2022-01-20,37053,North Carolina,NC,Currituck County,56.5,76.3
+2022-01-20,37055,North Carolina,NC,Dare County,73,95
+2022-01-20,37057,North Carolina,NC,Davidson County,46,59.8
+2022-01-20,37059,North Carolina,NC,Davie County,54.9,74.1
+2022-01-20,37061,North Carolina,NC,Duplin County,42.9,56.8
+2022-01-20,37063,North Carolina,NC,Durham County,68.1,95
+2022-01-20,37065,North Carolina,NC,Edgecombe County,46.3,57.9
+2022-01-20,37067,North Carolina,NC,Forsyth County,59.5,83.7
+2022-01-20,37069,North Carolina,NC,Franklin County,49.7,70.8
+2022-01-20,37071,North Carolina,NC,Gaston County,48.6,66.2
+2022-01-20,37073,North Carolina,NC,Gates County,50.6,61.4
+2022-01-20,37075,North Carolina,NC,Graham County,47.9,61.2
+2022-01-20,37077,North Carolina,NC,Granville County,59.7,77.4
+2022-01-20,37079,North Carolina,NC,Greene County,59,73.7
+2022-01-20,37081,North Carolina,NC,Guilford County,58.9,84.9
+2022-01-20,37083,North Carolina,NC,Halifax County,51.3,64.1
+2022-01-20,37085,North Carolina,NC,Harnett County,40.3,53.5
+2022-01-20,37087,North Carolina,NC,Haywood County,55.6,73.6
+2022-01-20,37089,North Carolina,NC,Henderson County,56.4,74.2
+2022-01-20,37091,North Carolina,NC,Hertford County,46.5,60.4
+2022-01-20,37093,North Carolina,NC,Hoke County,38.4,51.9
+2022-01-20,37095,North Carolina,NC,Hyde County,63.3,71.8
+2022-01-20,37097,North Carolina,NC,Iredell County,50.7,70.9
+2022-01-20,37099,North Carolina,NC,Jackson County,52.9,71.3
+2022-01-20,37101,North Carolina,NC,Johnston County,50.6,67.9
+2022-01-20,37103,North Carolina,NC,Jones County,52,67.7
+2022-01-20,37105,North Carolina,NC,Lee County,54.2,75.3
+2022-01-20,37107,North Carolina,NC,Lenoir County,52.3,69.7
+2022-01-20,37109,North Carolina,NC,Lincoln County,46.9,63
+2022-01-20,37113,North Carolina,NC,Macon County,57.2,71.1
+2022-01-20,37115,North Carolina,NC,Madison County,55.5,66.3
+2022-01-20,37117,North Carolina,NC,Martin County,50.6,64.5
+2022-01-20,37111,North Carolina,NC,McDowell County,50.8,63.8
+2022-01-20,37119,North Carolina,NC,Mecklenburg County,60.3,86.1
+2022-01-20,37121,North Carolina,NC,Mitchell County,48.3,61.1
+2022-01-20,37123,North Carolina,NC,Montgomery County,41,53
+2022-01-20,37125,North Carolina,NC,Moore County,57.4,80.1
+2022-01-20,37127,North Carolina,NC,Nash County,56,73
+2022-01-20,37129,North Carolina,NC,New Hanover County,61.1,87.1
+2022-01-20,37131,North Carolina,NC,Northampton County,46.4,57.2
+2022-01-20,37133,North Carolina,NC,Onslow County,58.1,73.8
+2022-01-20,37135,North Carolina,NC,Orange County,75.4,95
+2022-01-20,37137,North Carolina,NC,Pamlico County,54.8,70
+2022-01-20,37139,North Carolina,NC,Pasquotank County,51.9,71.2
+2022-01-20,37141,North Carolina,NC,Pender County,50.3,68.5
+2022-01-20,37143,North Carolina,NC,Perquimans County,46.8,60.5
+2022-01-20,37145,North Carolina,NC,Person County,54.1,71.9
+2022-01-20,37147,North Carolina,NC,Pitt County,51.8,69.9
+2022-01-20,37149,North Carolina,NC,Polk County,42.9,55
+2022-01-20,37151,North Carolina,NC,Randolph County,42.4,55.4
+2022-01-20,37153,North Carolina,NC,Richmond County,46.1,58.1
+2022-01-20,37155,North Carolina,NC,Robeson County,40.5,52.9
+2022-01-20,37157,North Carolina,NC,Rockingham County,48.3,65
+2022-01-20,37159,North Carolina,NC,Rowan County,42.8,56
+2022-01-20,37161,North Carolina,NC,Rutherford County,40.5,51.9
+2022-01-20,37163,North Carolina,NC,Sampson County,49.1,64.8
+2022-01-20,37165,North Carolina,NC,Scotland County,45.2,59.1
+2022-01-20,37167,North Carolina,NC,Stanly County,41.4,57.3
+2022-01-20,37169,North Carolina,NC,Stokes County,45.3,59.1
+2022-01-20,37171,North Carolina,NC,Surry County,50.1,63.6
+2022-01-20,37173,North Carolina,NC,Swain County,54.2,71.3
+2022-01-20,37175,North Carolina,NC,Transylvania County,53.5,74.7
+2022-01-20,37177,North Carolina,NC,Tyrrell County,47.6,55.2
+2022-01-20,37179,North Carolina,NC,Union County,53.4,74.3
+2022-01-20,37181,North Carolina,NC,Vance County,54.3,72.9
+2022-01-20,37183,North Carolina,NC,Wake County,70.2,95
+2022-01-20,37185,North Carolina,NC,Warren County,53.6,68.6
+2022-01-20,37187,North Carolina,NC,Washington County,48,61
+2022-01-20,37189,North Carolina,NC,Watauga County,53.7,70
+2022-01-20,37191,North Carolina,NC,Wayne County,46.5,63
+2022-01-20,37193,North Carolina,NC,Wilkes County,45.3,60.9
+2022-01-20,37195,North Carolina,NC,Wilson County,51.4,64.8
+2022-01-20,37197,North Carolina,NC,Yadkin County,47.8,62.3
+2022-01-20,37199,North Carolina,NC,Yancey County,50,59.8
+2022-01-20,38001,North Dakota,ND,Adams County,47.9,55.3
+2022-01-20,38003,North Dakota,ND,Barnes County,56.4,64.8
+2022-01-20,38005,North Dakota,ND,Benson County,50.2,56.1
+2022-01-20,38007,North Dakota,ND,Billings County,20.8,25.6
+2022-01-20,38009,North Dakota,ND,Bottineau County,49.4,57.1
+2022-01-20,38011,North Dakota,ND,Bowman County,38,45.8
+2022-01-20,38013,North Dakota,ND,Burke County,38.7,43.3
+2022-01-20,38015,North Dakota,ND,Burleigh County,49.5,58.4
+2022-01-20,38017,North Dakota,ND,Cass County,59,68.4
+2022-01-20,38019,North Dakota,ND,Cavalier County,59.1,65.3
+2022-01-20,38021,North Dakota,ND,Dickey County,51.8,56.8
+2022-01-20,38023,North Dakota,ND,Divide County,40.1,45.2
+2022-01-20,38025,North Dakota,ND,Dunn County,23.6,29
+2022-01-20,38027,North Dakota,ND,Eddy County,50.9,54.2
+2022-01-20,38029,North Dakota,ND,Emmons County,33.6,40.6
+2022-01-20,38031,North Dakota,ND,Foster County,53.6,59.2
+2022-01-20,38033,North Dakota,ND,Golden Valley County,29.8,36.8
+2022-01-20,38035,North Dakota,ND,Grand Forks County,57.2,67.9
+2022-01-20,38037,North Dakota,ND,Grant County,22.5,26.7
+2022-01-20,38039,North Dakota,ND,Griggs County,45.6,50.5
+2022-01-20,38041,North Dakota,ND,Hettinger County,38.5,44.2
+2022-01-20,38043,North Dakota,ND,Kidder County,32.3,40.2
+2022-01-20,38045,North Dakota,ND,LaMoure County,47.4,54.1
+2022-01-20,38047,North Dakota,ND,Logan County,36.8,42.9
+2022-01-20,38049,North Dakota,ND,McHenry County,40.9,45.9
+2022-01-20,38051,North Dakota,ND,McIntosh County,42.6,49.7
+2022-01-20,38053,North Dakota,ND,McKenzie County,21.2,27.6
+2022-01-20,38055,North Dakota,ND,McLean County,45.4,54.5
+2022-01-20,38057,North Dakota,ND,Mercer County,38,42.8
+2022-01-20,38059,North Dakota,ND,Morton County,44.2,51.7
+2022-01-20,38061,North Dakota,ND,Mountrail County,39.8,57.8
+2022-01-20,38063,North Dakota,ND,Nelson County,69.6,75.1
+2022-01-20,38065,North Dakota,ND,Oliver County,25.1,28.2
+2022-01-20,38067,North Dakota,ND,Pembina County,54.5,63.6
+2022-01-20,38069,North Dakota,ND,Pierce County,44.6,49.5
+2022-01-20,38071,North Dakota,ND,Ramsey County,55.5,62.5
+2022-01-20,38073,North Dakota,ND,Ransom County,58.2,66.2
+2022-01-20,38075,North Dakota,ND,Renville County,38,43.4
+2022-01-20,38077,North Dakota,ND,Richland County,50.1,58.1
+2022-01-20,38079,North Dakota,ND,Rolette County,65.5,83.5
+2022-01-20,38081,North Dakota,ND,Sargent County,57.6,64.5
+2022-01-20,38083,North Dakota,ND,Sheridan County,36.2,39.9
+2022-01-20,38085,North Dakota,ND,Sioux County,48.8,62.9
+2022-01-20,38087,North Dakota,ND,Slope County,10.8,14.1
+2022-01-20,38089,North Dakota,ND,Stark County,35.6,42.7
+2022-01-20,38091,North Dakota,ND,Steele County,45.4,53.6
+2022-01-20,38093,North Dakota,ND,Stutsman County,52.1,61
+2022-01-20,38095,North Dakota,ND,Towner County,46.6,50.8
+2022-01-20,38097,North Dakota,ND,Traill County,53.1,60.9
+2022-01-20,38099,North Dakota,ND,Walsh County,56.9,65.7
+2022-01-20,38101,North Dakota,ND,Ward County,48,56.7
+2022-01-20,38103,North Dakota,ND,Wells County,42.9,48
+2022-01-20,38105,North Dakota,ND,Williams County,29.3,35.7
+2022-01-20,39001,Ohio,OH,Adams County,33.9,38.1
+2022-01-20,39003,Ohio,OH,Allen County,42,45.5
+2022-01-20,39005,Ohio,OH,Ashland County,41.9,45.2
+2022-01-20,39007,Ohio,OH,Ashtabula County,50.7,55
+2022-01-20,39009,Ohio,OH,Athens County,50.3,54.1
+2022-01-20,39011,Ohio,OH,Auglaize County,38.5,40.4
+2022-01-20,39013,Ohio,OH,Belmont County,46.8,52.9
+2022-01-20,39015,Ohio,OH,Brown County,39.5,43
+2022-01-20,39017,Ohio,OH,Butler County,54.8,59.4
+2022-01-20,39019,Ohio,OH,Carroll County,42.5,45.3
+2022-01-20,39021,Ohio,OH,Champaign County,44.4,47.9
+2022-01-20,39023,Ohio,OH,Clark County,51.3,55.2
+2022-01-20,39025,Ohio,OH,Clermont County,55,59.2
+2022-01-20,39027,Ohio,OH,Clinton County,47.5,51.7
+2022-01-20,39029,Ohio,OH,Columbiana County,47.6,51.6
+2022-01-20,39031,Ohio,OH,Coshocton County,37.7,40.2
+2022-01-20,39033,Ohio,OH,Crawford County,43.9,46.2
+2022-01-20,39035,Ohio,OH,Cuyahoga County,62.3,67.7
+2022-01-20,39037,Ohio,OH,Darke County,38.3,41.1
+2022-01-20,39039,Ohio,OH,Defiance County,47.7,50.6
+2022-01-20,39041,Ohio,OH,Delaware County,73.1,77
+2022-01-20,39043,Ohio,OH,Erie County,57.6,61.5
+2022-01-20,39045,Ohio,OH,Fairfield County,55.5,59.5
+2022-01-20,39047,Ohio,OH,Fayette County,42,45.6
+2022-01-20,39049,Ohio,OH,Franklin County,62,66.6
+2022-01-20,39051,Ohio,OH,Fulton County,50.8,54.4
+2022-01-20,39053,Ohio,OH,Gallia County,45.2,50.1
+2022-01-20,39055,Ohio,OH,Geauga County,59.8,63.4
+2022-01-20,39057,Ohio,OH,Greene County,61.3,67.1
+2022-01-20,39059,Ohio,OH,Guernsey County,43.2,46.5
+2022-01-20,39061,Ohio,OH,Hamilton County,60.6,66.5
+2022-01-20,39063,Ohio,OH,Hancock County,49.3,53.2
+2022-01-20,39065,Ohio,OH,Hardin County,37.3,40.1
+2022-01-20,39067,Ohio,OH,Harrison County,42,45.3
+2022-01-20,39069,Ohio,OH,Henry County,52.5,54.8
+2022-01-20,39071,Ohio,OH,Highland County,36.7,40.2
+2022-01-20,39073,Ohio,OH,Hocking County,46.8,49.5
+2022-01-20,39075,Ohio,OH,Holmes County,17.7,18.6
+2022-01-20,39077,Ohio,OH,Huron County,46.2,49.2
+2022-01-20,39079,Ohio,OH,Jackson County,45.8,49.6
+2022-01-20,39081,Ohio,OH,Jefferson County,48.9,54.4
+2022-01-20,39083,Ohio,OH,Knox County,41.9,44.8
+2022-01-20,39085,Ohio,OH,Lake County,63.4,67.5
+2022-01-20,39087,Ohio,OH,Lawrence County,47.6,57.5
+2022-01-20,39089,Ohio,OH,Licking County,53.1,56.2
+2022-01-20,39091,Ohio,OH,Logan County,41.4,43.9
+2022-01-20,39093,Ohio,OH,Lorain County,61.3,65.5
+2022-01-20,39095,Ohio,OH,Lucas County,56,60.8
+2022-01-20,39097,Ohio,OH,Madison County,49.4,52.4
+2022-01-20,39099,Ohio,OH,Mahoning County,55.2,60
+2022-01-20,39101,Ohio,OH,Marion County,46.6,50
+2022-01-20,39103,Ohio,OH,Medina County,62.1,65.9
+2022-01-20,39105,Ohio,OH,Meigs County,45.2,51.9
+2022-01-20,39107,Ohio,OH,Mercer County,37.2,39.7
+2022-01-20,39109,Ohio,OH,Miami County,46.4,49.6
+2022-01-20,39111,Ohio,OH,Monroe County,45.2,51.3
+2022-01-20,39113,Ohio,OH,Montgomery County,54.7,59.7
+2022-01-20,39115,Ohio,OH,Morgan County,41.2,44
+2022-01-20,39117,Ohio,OH,Morrow County,40.4,42.6
+2022-01-20,39119,Ohio,OH,Muskingum County,47,49.6
+2022-01-20,39121,Ohio,OH,Noble County,41.9,44.4
+2022-01-20,39123,Ohio,OH,Ottawa County,60.1,64.7
+2022-01-20,39125,Ohio,OH,Paulding County,41.1,44.2
+2022-01-20,39127,Ohio,OH,Perry County,39.5,41.6
+2022-01-20,39129,Ohio,OH,Pickaway County,48.9,52.7
+2022-01-20,39131,Ohio,OH,Pike County,42.8,47
+2022-01-20,39133,Ohio,OH,Portage County,55.5,59.3
+2022-01-20,39135,Ohio,OH,Preble County,41.7,45.8
+2022-01-20,39137,Ohio,OH,Putnam County,47.3,49.4
+2022-01-20,39139,Ohio,OH,Richland County,42.5,45.3
+2022-01-20,39141,Ohio,OH,Ross County,49,53.3
+2022-01-20,39143,Ohio,OH,Sandusky County,51.2,54.1
+2022-01-20,39145,Ohio,OH,Scioto County,47.8,53.8
+2022-01-20,39147,Ohio,OH,Seneca County,47.3,49.9
+2022-01-20,39149,Ohio,OH,Shelby County,34.9,37.2
+2022-01-20,39151,Ohio,OH,Stark County,52.9,56.7
+2022-01-20,39153,Ohio,OH,Summit County,61.2,65.8
+2022-01-20,39155,Ohio,OH,Trumbull County,53,58
+2022-01-20,39157,Ohio,OH,Tuscarawas County,42.9,45.9
+2022-01-20,39159,Ohio,OH,Union County,60.2,63.4
+2022-01-20,39161,Ohio,OH,Van Wert County,41.8,46
+2022-01-20,39163,Ohio,OH,Vinton County,38.3,40.8
+2022-01-20,39165,Ohio,OH,Warren County,62.1,66.4
+2022-01-20,39167,Ohio,OH,Washington County,54,59.6
+2022-01-20,39169,Ohio,OH,Wayne County,44.1,46.8
+2022-01-20,39171,Ohio,OH,Williams County,43.4,47.3
+2022-01-20,39173,Ohio,OH,Wood County,60.3,63.9
+2022-01-20,39175,Ohio,OH,Wyandot County,46.1,48.2
+2022-01-20,40001,Oklahoma,OK,Adair County,34,50.9
+2022-01-20,40003,Oklahoma,OK,Alfalfa County,44.3,49.9
+2022-01-20,40005,Oklahoma,OK,Atoka County,34.4,39.5
+2022-01-20,40007,Oklahoma,OK,Beaver County,30,36.4
+2022-01-20,40009,Oklahoma,OK,Beckham County,39.9,46
+2022-01-20,40011,Oklahoma,OK,Blaine County,45.2,52.4
+2022-01-20,40013,Oklahoma,OK,Bryan County,40.6,49.4
+2022-01-20,40015,Oklahoma,OK,Caddo County,63.2,73.6
+2022-01-20,40017,Oklahoma,OK,Canadian County,55.9,70.1
+2022-01-20,40019,Oklahoma,OK,Carter County,42.4,52.7
+2022-01-20,40021,Oklahoma,OK,Cherokee County,45.8,63.7
+2022-01-20,40023,Oklahoma,OK,Choctaw County,34,40.4
+2022-01-20,40025,Oklahoma,OK,Cimarron County,31,38.3
+2022-01-20,40027,Oklahoma,OK,Cleveland County,53.4,68.4
+2022-01-20,40029,Oklahoma,OK,Coal County,38.8,44.7
+2022-01-20,40031,Oklahoma,OK,Comanche County,57.3,71.3
+2022-01-20,40033,Oklahoma,OK,Cotton County,48.3,57.3
+2022-01-20,40035,Oklahoma,OK,Craig County,51.5,65.3
+2022-01-20,40037,Oklahoma,OK,Creek County,42.3,49.9
+2022-01-20,40039,Oklahoma,OK,Custer County,46.9,55.4
+2022-01-20,40041,Oklahoma,OK,Delaware County,37.2,50.5
+2022-01-20,40043,Oklahoma,OK,Dewey County,24.8,27.6
+2022-01-20,40045,Oklahoma,OK,Ellis County,34,39.4
+2022-01-20,40047,Oklahoma,OK,Garfield County,48.4,57.2
+2022-01-20,40049,Oklahoma,OK,Garvin County,45.1,53.1
+2022-01-20,40051,Oklahoma,OK,Grady County,36.6,45.3
+2022-01-20,40053,Oklahoma,OK,Grant County,41.5,48.4
+2022-01-20,40055,Oklahoma,OK,Greer County,35.9,41.3
+2022-01-20,40057,Oklahoma,OK,Harmon County,47.5,55.7
+2022-01-20,40059,Oklahoma,OK,Harper County,43.6,49.2
+2022-01-20,40061,Oklahoma,OK,Haskell County,39.9,46.7
+2022-01-20,40063,Oklahoma,OK,Hughes County,44.3,52.1
+2022-01-20,40065,Oklahoma,OK,Jackson County,51.9,60.8
+2022-01-20,40067,Oklahoma,OK,Jefferson County,40.3,48.3
+2022-01-20,40069,Oklahoma,OK,Johnston County,41.1,49.3
+2022-01-20,40071,Oklahoma,OK,Kay County,41,48.9
+2022-01-20,40073,Oklahoma,OK,Kingfisher County,46.1,53.5
+2022-01-20,40075,Oklahoma,OK,Kiowa County,49.9,57.9
+2022-01-20,40077,Oklahoma,OK,Latimer County,33.1,37.6
+2022-01-20,40079,Oklahoma,OK,Le Flore County,37.6,44.4
+2022-01-20,40081,Oklahoma,OK,Lincoln County,38.9,47
+2022-01-20,40083,Oklahoma,OK,Logan County,33.9,40.9
+2022-01-20,40085,Oklahoma,OK,Love County,40.8,50.2
+2022-01-20,40093,Oklahoma,OK,Major County,48.2,54.2
+2022-01-20,40095,Oklahoma,OK,Marshall County,43.2,54
+2022-01-20,40097,Oklahoma,OK,Mayes County,41.8,52.3
+2022-01-20,40087,Oklahoma,OK,McClain County,46.4,56.3
+2022-01-20,40089,Oklahoma,OK,McCurtain County,34.4,41.7
+2022-01-20,40091,Oklahoma,OK,McIntosh County,53,60.9
+2022-01-20,40099,Oklahoma,OK,Murray County,43.6,50.9
+2022-01-20,40101,Oklahoma,OK,Muskogee County,49.5,63.8
+2022-01-20,40103,Oklahoma,OK,Noble County,60.7,71.5
+2022-01-20,40105,Oklahoma,OK,Nowata County,41.8,55.9
+2022-01-20,40107,Oklahoma,OK,Okfuskee County,45.3,51.4
+2022-01-20,40109,Oklahoma,OK,Oklahoma County,62,79.4
+2022-01-20,40111,Oklahoma,OK,Okmulgee County,41.4,47.9
+2022-01-20,40113,Oklahoma,OK,Osage County,33.6,41
+2022-01-20,40115,Oklahoma,OK,Ottawa County,37.5,46.1
+2022-01-20,40117,Oklahoma,OK,Pawnee County,47.9,56.9
+2022-01-20,40119,Oklahoma,OK,Payne County,47.3,58
+2022-01-20,40121,Oklahoma,OK,Pittsburg County,43.6,52.6
+2022-01-20,40123,Oklahoma,OK,Pontotoc County,49.5,59.9
+2022-01-20,40125,Oklahoma,OK,Pottawatomie County,46.5,58.6
+2022-01-20,40127,Oklahoma,OK,Pushmataha County,34.6,39.7
+2022-01-20,40129,Oklahoma,OK,Roger Mills County,35.2,40.3
+2022-01-20,40131,Oklahoma,OK,Rogers County,45,53.8
+2022-01-20,40133,Oklahoma,OK,Seminole County,50.3,60.3
+2022-01-20,40135,Oklahoma,OK,Sequoyah County,38.5,51.1
+2022-01-20,40137,Oklahoma,OK,Stephens County,45.9,55.6
+2022-01-20,40139,Oklahoma,OK,Texas County,42.4,52
+2022-01-20,40141,Oklahoma,OK,Tillman County,47.8,57.3
+2022-01-20,40143,Oklahoma,OK,Tulsa County,59.2,73.9
+2022-01-20,40145,Oklahoma,OK,Wagoner County,45.4,55.3
+2022-01-20,40147,Oklahoma,OK,Washington County,42.1,54.8
+2022-01-20,40149,Oklahoma,OK,Washita County,38,44.8
+2022-01-20,40151,Oklahoma,OK,Woods County,40.3,47
+2022-01-20,40153,Oklahoma,OK,Woodward County,36.9,42.4
+2022-01-20,41001,Oregon,OR,Baker County,69.2,85.9
+2022-01-20,41003,Oregon,OR,Benton County,73.1,79.4
+2022-01-20,41005,Oregon,OR,Clackamas County,66.8,72.8
+2022-01-20,41007,Oregon,OR,Clatsop County,64.3,73.7
+2022-01-20,41009,Oregon,OR,Columbia County,59,67.2
+2022-01-20,41011,Oregon,OR,Coos County,55.8,62
+2022-01-20,41013,Oregon,OR,Crook County,49.5,54.8
+2022-01-20,41015,Oregon,OR,Curry County,54.1,63.2
+2022-01-20,41017,Oregon,OR,Deschutes County,67.2,74.4
+2022-01-20,41019,Oregon,OR,Douglas County,51.4,58.3
+2022-01-20,41021,Oregon,OR,Gilliam County,43.9,49.4
+2022-01-20,41023,Oregon,OR,Grant County,44.6,48.5
+2022-01-20,41025,Oregon,OR,Harney County,45,50.4
+2022-01-20,41027,Oregon,OR,Hood River County,82.1,91.3
+2022-01-20,41029,Oregon,OR,Jackson County,56.6,62.9
+2022-01-20,41031,Oregon,OR,Jefferson County,60.5,67.8
+2022-01-20,41033,Oregon,OR,Josephine County,49,54.4
+2022-01-20,41035,Oregon,OR,Klamath County,49.2,55
+2022-01-20,41037,Oregon,OR,Lake County,38.7,41.5
+2022-01-20,41039,Oregon,OR,Lane County,65.8,72.7
+2022-01-20,41041,Oregon,OR,Lincoln County,69.1,76.7
+2022-01-20,41043,Oregon,OR,Linn County,53.9,59
+2022-01-20,41045,Oregon,OR,Malheur County,45.9,52.7
+2022-01-20,41047,Oregon,OR,Marion County,60.6,67.2
+2022-01-20,41049,Oregon,OR,Morrow County,53.4,60.5
+2022-01-20,41051,Oregon,OR,Multnomah County,76.9,87.7
+2022-01-20,41053,Oregon,OR,Polk County,61.5,66.4
+2022-01-20,41055,Oregon,OR,Sherman County,56.5,63
+2022-01-20,41057,Oregon,OR,Tillamook County,63,69.6
+2022-01-20,41059,Oregon,OR,Umatilla County,53.6,61.2
+2022-01-20,41061,Oregon,OR,Union County,47.8,53.1
+2022-01-20,41063,Oregon,OR,Wallowa County,57.8,64.5
+2022-01-20,41065,Oregon,OR,Wasco County,63.5,70.4
+2022-01-20,41067,Oregon,OR,Washington County,73.8,81
+2022-01-20,41069,Oregon,OR,Wheeler County,53.8,57.2
+2022-01-20,41071,Oregon,OR,Yamhill County,61.2,67.4
+2022-01-20,42001,Pennsylvania,PA,Adams County,53.2,60.9
+2022-01-20,42003,Pennsylvania,PA,Allegheny County,67.3,78.2
+2022-01-20,42005,Pennsylvania,PA,Armstrong County,57.9,63.8
+2022-01-20,42007,Pennsylvania,PA,Beaver County,49.4,55.8
+2022-01-20,42009,Pennsylvania,PA,Bedford County,37.8,42.1
+2022-01-20,42011,Pennsylvania,PA,Berks County,57.4,67.9
+2022-01-20,42013,Pennsylvania,PA,Blair County,50.6,58.7
+2022-01-20,42015,Pennsylvania,PA,Bradford County,41.2,51.3
+2022-01-20,42017,Pennsylvania,PA,Bucks County,69.4,90
+2022-01-20,42019,Pennsylvania,PA,Butler County,62.4,70.6
+2022-01-20,42021,Pennsylvania,PA,Cambria County,54.2,61.7
+2022-01-20,42023,Pennsylvania,PA,Cameron County,53.6,59.9
+2022-01-20,42025,Pennsylvania,PA,Carbon County,58.2,67.2
+2022-01-20,42027,Pennsylvania,PA,Centre County,57.9,67.9
+2022-01-20,42029,Pennsylvania,PA,Chester County,74.5,95
+2022-01-20,42031,Pennsylvania,PA,Clarion County,42.6,48.6
+2022-01-20,42033,Pennsylvania,PA,Clearfield County,48.3,54.6
+2022-01-20,42035,Pennsylvania,PA,Clinton County,42.9,47.4
+2022-01-20,42037,Pennsylvania,PA,Columbia County,59.4,68.7
+2022-01-20,42039,Pennsylvania,PA,Crawford County,47.4,55
+2022-01-20,42041,Pennsylvania,PA,Cumberland County,65.8,82.6
+2022-01-20,42043,Pennsylvania,PA,Dauphin County,59.9,71.9
+2022-01-20,42045,Pennsylvania,PA,Delaware County,70.7,92.6
+2022-01-20,42047,Pennsylvania,PA,Elk County,54.5,60.6
+2022-01-20,42049,Pennsylvania,PA,Erie County,57.3,65.2
+2022-01-20,42051,Pennsylvania,PA,Fayette County,55,64.6
+2022-01-20,42053,Pennsylvania,PA,Forest County,70.3,76.7
+2022-01-20,42055,Pennsylvania,PA,Franklin County,47.1,54.1
+2022-01-20,42057,Pennsylvania,PA,Fulton County,34.5,39.3
+2022-01-20,42059,Pennsylvania,PA,Greene County,48.6,56.7
+2022-01-20,42061,Pennsylvania,PA,Huntingdon County,49.4,56.3
+2022-01-20,42063,Pennsylvania,PA,Indiana County,44.3,51
+2022-01-20,42065,Pennsylvania,PA,Jefferson County,47,52.5
+2022-01-20,42067,Pennsylvania,PA,Juniata County,39,43.1
+2022-01-20,42069,Pennsylvania,PA,Lackawanna County,67.6,78.1
+2022-01-20,42071,Pennsylvania,PA,Lancaster County,56.8,66.1
+2022-01-20,42073,Pennsylvania,PA,Lawrence County,52.2,60.4
+2022-01-20,42075,Pennsylvania,PA,Lebanon County,53.3,62.3
+2022-01-20,42077,Pennsylvania,PA,Lehigh County,69.9,81.3
+2022-01-20,42079,Pennsylvania,PA,Luzerne County,61.6,71.1
+2022-01-20,42081,Pennsylvania,PA,Lycoming County,50.3,55.4
+2022-01-20,42083,Pennsylvania,PA,McKean County,47.4,57.7
+2022-01-20,42085,Pennsylvania,PA,Mercer County,51.5,59.6
+2022-01-20,42087,Pennsylvania,PA,Mifflin County,48,52.9
+2022-01-20,42089,Pennsylvania,PA,Monroe County,57,67.3
+2022-01-20,42091,Pennsylvania,PA,Montgomery County,73.1,95
+2022-01-20,42093,Pennsylvania,PA,Montour County,75.8,87.1
+2022-01-20,42095,Pennsylvania,PA,Northampton County,65.6,76.8
+2022-01-20,42097,Pennsylvania,PA,Northumberland County,55.7,62.2
+2022-01-20,42099,Pennsylvania,PA,Perry County,46.7,54.1
+2022-01-20,42101,Pennsylvania,PA,Philadelphia County,64.4,89.3
+2022-01-20,42103,Pennsylvania,PA,Pike County,55.5,69.6
+2022-01-20,42105,Pennsylvania,PA,Potter County,36,37.5
+2022-01-20,42107,Pennsylvania,PA,Schuylkill County,58.1,65.8
+2022-01-20,42109,Pennsylvania,PA,Snyder County,41.8,48
+2022-01-20,42111,Pennsylvania,PA,Somerset County,46.6,53.2
+2022-01-20,42113,Pennsylvania,PA,Sullivan County,51.9,62.6
+2022-01-20,42115,Pennsylvania,PA,Susquehanna County,44.9,53.5
+2022-01-20,42117,Pennsylvania,PA,Tioga County,44.5,49.3
+2022-01-20,42119,Pennsylvania,PA,Union County,55.6,62.8
+2022-01-20,42121,Pennsylvania,PA,Venango County,44.1,48.1
+2022-01-20,42123,Pennsylvania,PA,Warren County,47.7,57.2
+2022-01-20,42125,Pennsylvania,PA,Washington County,61.7,72
+2022-01-20,42127,Pennsylvania,PA,Wayne County,58.8,70.4
+2022-01-20,42129,Pennsylvania,PA,Westmoreland County,55.9,64
+2022-01-20,42131,Pennsylvania,PA,Wyoming County,57.9,68.4
+2022-01-20,42133,Pennsylvania,PA,York County,56.4,64.8
+2022-01-20,72001,Puerto Rico,PR,Adjuntas Muni,71.6,80.2
+2022-01-20,72003,Puerto Rico,PR,Aguada Muni,71.5,83
+2022-01-20,72005,Puerto Rico,PR,Aguadilla Muni,76.5,86.9
+2022-01-20,72007,Puerto Rico,PR,Aguas Buenas Muni,70.8,80.6
+2022-01-20,72009,Puerto Rico,PR,Aibonito Muni,87.4,95
+2022-01-20,72011,Puerto Rico,PR,Añasco Muni,72.7,80.8
+2022-01-20,72013,Puerto Rico,PR,Arecibo Muni,95,95
+2022-01-20,72015,Puerto Rico,PR,Arroyo Muni,70.5,80.3
+2022-01-20,72017,Puerto Rico,PR,Barceloneta Muni,69.5,79.9
+2022-01-20,72019,Puerto Rico,PR,Barranquitas Muni,73.3,85.7
+2022-01-20,72021,Puerto Rico,PR,Bayamón Muni,85.3,95
+2022-01-20,72023,Puerto Rico,PR,Cabo Rojo Muni,69.8,78.5
+2022-01-20,72025,Puerto Rico,PR,Caguas Muni,77.5,89.8
+2022-01-20,72027,Puerto Rico,PR,Camuy Muni,74.8,84.3
+2022-01-20,72029,Puerto Rico,PR,Canóvanas Muni,71.6,82.9
+2022-01-20,72031,Puerto Rico,PR,Carolina Muni,76.2,90.4
+2022-01-20,72033,Puerto Rico,PR,Cataño Muni,68.8,81.5
+2022-01-20,72035,Puerto Rico,PR,Cayey Muni,79,90.9
+2022-01-20,72037,Puerto Rico,PR,Ceiba Muni,71.9,82.9
+2022-01-20,72039,Puerto Rico,PR,Ciales Muni,80.3,92.2
+2022-01-20,72041,Puerto Rico,PR,Cidra Muni,74.1,84.9
+2022-01-20,72043,Puerto Rico,PR,Coamo Muni,69.3,80.5
+2022-01-20,72045,Puerto Rico,PR,Comerío Muni,67.1,78.7
+2022-01-20,72047,Puerto Rico,PR,Corozal Muni,75.3,87.5
+2022-01-20,72049,Puerto Rico,PR,Culebra Muni,95,95
+2022-01-20,72051,Puerto Rico,PR,Dorado Muni,73.4,89
+2022-01-20,72053,Puerto Rico,PR,Fajardo Muni,73.8,88.1
+2022-01-20,72054,Puerto Rico,PR,Florida Muni,81.4,93.3
+2022-01-20,72055,Puerto Rico,PR,Guánica Muni,69.1,78.8
+2022-01-20,72057,Puerto Rico,PR,Guayama Muni,68.5,79.4
+2022-01-20,72059,Puerto Rico,PR,Guayanilla Muni,78.1,89.2
+2022-01-20,72061,Puerto Rico,PR,Guaynabo Muni,86.8,95
+2022-01-20,72063,Puerto Rico,PR,Gurabo Muni,63.4,72.4
+2022-01-20,72065,Puerto Rico,PR,Hatillo Muni,66.7,73.4
+2022-01-20,72067,Puerto Rico,PR,Hormigueros Muni,77.1,85.3
+2022-01-20,72069,Puerto Rico,PR,Humacao Muni,77.3,88.4
+2022-01-20,72071,Puerto Rico,PR,Isabela Muni,70.5,80.5
+2022-01-20,72073,Puerto Rico,PR,Jayuya Muni,75.8,83.6
+2022-01-20,72075,Puerto Rico,PR,Juana Díaz Muni,71.8,82.8
+2022-01-20,72077,Puerto Rico,PR,Juncos Muni,70.5,79.5
+2022-01-20,72079,Puerto Rico,PR,Lajas Muni,75,83.8
+2022-01-20,72081,Puerto Rico,PR,Lares Muni,89.7,95
+2022-01-20,72083,Puerto Rico,PR,Las Marías Muni,84.9,93.4
+2022-01-20,72085,Puerto Rico,PR,Las Piedras Muni,69.2,79.2
+2022-01-20,72087,Puerto Rico,PR,Loíza Muni,53.8,66.1
+2022-01-20,72089,Puerto Rico,PR,Luquillo Muni,66.5,79.6
+2022-01-20,72091,Puerto Rico,PR,Manatí Muni,75.7,86.7
+2022-01-20,72093,Puerto Rico,PR,Maricao Muni,67.1,75.9
+2022-01-20,72095,Puerto Rico,PR,Maunabo Muni,70.9,81.1
+2022-01-20,72097,Puerto Rico,PR,Mayagüez Muni,76.3,86.6
+2022-01-20,72099,Puerto Rico,PR,Moca Muni,74.9,83.5
+2022-01-20,72101,Puerto Rico,PR,Morovis Muni,67.8,79
+2022-01-20,72103,Puerto Rico,PR,Naguabo Muni,60.6,69.9
+2022-01-20,72105,Puerto Rico,PR,Naranjito Muni,77.9,90
+2022-01-20,72107,Puerto Rico,PR,Orocovis Muni,79.8,91.2
+2022-01-20,72109,Puerto Rico,PR,Patillas Muni,74.9,85.8
+2022-01-20,72111,Puerto Rico,PR,Peñuelas Muni,76.1,88.7
+2022-01-20,72113,Puerto Rico,PR,Ponce Muni,81.8,95
+2022-01-20,72115,Puerto Rico,PR,Quebradillas Muni,79.5,89.5
+2022-01-20,72117,Puerto Rico,PR,Rincón Muni,72.9,81.2
+2022-01-20,72119,Puerto Rico,PR,Río Grande Muni,67.8,80.5
+2022-01-20,72121,Puerto Rico,PR,Sabana Grande Muni,80,89.1
+2022-01-20,72123,Puerto Rico,PR,Salinas Muni,71.5,80.8
+2022-01-20,72125,Puerto Rico,PR,San Germán Muni,74.2,83.1
+2022-01-20,72127,Puerto Rico,PR,San Juan Muni,70.7,88
+2022-01-20,72129,Puerto Rico,PR,San Lorenzo Muni,73.4,84.1
+2022-01-20,72131,Puerto Rico,PR,San Sebastián Muni,84,91.7
+2022-01-20,72133,Puerto Rico,PR,Santa Isabel Muni,68.6,79.7
+2022-01-20,72135,Puerto Rico,PR,Toa Alta Muni,65.8,75.7
+2022-01-20,72137,Puerto Rico,PR,Toa Baja Muni,73.4,85.7
+2022-01-20,72139,Puerto Rico,PR,Trujillo Alto Muni,47.7,60.8
+2022-01-20,72141,Puerto Rico,PR,Utuado Muni,70.2,79.8
+2022-01-20,72143,Puerto Rico,PR,Vega Alta Muni,63.8,74.5
+2022-01-20,72145,Puerto Rico,PR,Vega Baja Muni,78.3,92.4
+2022-01-20,72147,Puerto Rico,PR,Vieques Muni,76.4,84.6
+2022-01-20,72149,Puerto Rico,PR,Villalba Muni,87.5,95
+2022-01-20,72151,Puerto Rico,PR,Yabucoa Muni,72.2,83.8
+2022-01-20,72153,Puerto Rico,PR,Yauco Muni,80.8,93
+2022-01-20,44001,Rhode Island,RI,Bristol County,76.6,86.8
+2022-01-20,44003,Rhode Island,RI,Kent County,76.1,84.2
+2022-01-20,44005,Rhode Island,RI,Newport County,72.2,86.4
+2022-01-20,44007,Rhode Island,RI,Providence County,67.7,76.9
+2022-01-20,44009,Rhode Island,RI,Washington County,76.2,86.7
+2022-01-20,45001,South Carolina,SC,Abbeville County,38.9,43.7
+2022-01-20,45003,South Carolina,SC,Aiken County,44.1,54
+2022-01-20,45005,South Carolina,SC,Allendale County,55.9,66.9
+2022-01-20,45007,South Carolina,SC,Anderson County,39.2,44.7
+2022-01-20,45009,South Carolina,SC,Bamberg County,49.3,56.4
+2022-01-20,45011,South Carolina,SC,Barnwell County,53.7,62.8
+2022-01-20,45013,South Carolina,SC,Beaufort County,63.3,78
+2022-01-20,45015,South Carolina,SC,Berkeley County,50.1,60.5
+2022-01-20,45017,South Carolina,SC,Calhoun County,39.3,46.7
+2022-01-20,45019,South Carolina,SC,Charleston County,63.2,74.5
+2022-01-20,45021,South Carolina,SC,Cherokee County,33.3,39
+2022-01-20,45023,South Carolina,SC,Chester County,44.4,51.9
+2022-01-20,45025,South Carolina,SC,Chesterfield County,35.4,43.2
+2022-01-20,45027,South Carolina,SC,Clarendon County,46.4,55.1
+2022-01-20,45029,South Carolina,SC,Colleton County,46.7,55.6
+2022-01-20,45031,South Carolina,SC,Darlington County,47,54.9
+2022-01-20,45033,South Carolina,SC,Dillon County,43.5,51.6
+2022-01-20,45035,South Carolina,SC,Dorchester County,51.4,61
+2022-01-20,45037,South Carolina,SC,Edgefield County,57.8,70.4
+2022-01-20,45039,South Carolina,SC,Fairfield County,61.6,73.8
+2022-01-20,45041,South Carolina,SC,Florence County,52.7,61.3
+2022-01-20,45043,South Carolina,SC,Georgetown County,53,63.3
+2022-01-20,45045,South Carolina,SC,Greenville County,53,62.3
+2022-01-20,45047,South Carolina,SC,Greenwood County,46.7,52.3
+2022-01-20,45049,South Carolina,SC,Hampton County,62,72.2
+2022-01-20,45051,South Carolina,SC,Horry County,54.9,64.9
+2022-01-20,45053,South Carolina,SC,Jasper County,36.2,46
+2022-01-20,45055,South Carolina,SC,Kershaw County,56.3,66.5
+2022-01-20,45057,South Carolina,SC,Lancaster County,44,58.8
+2022-01-20,45059,South Carolina,SC,Laurens County,37.3,42.4
+2022-01-20,45061,South Carolina,SC,Lee County,45.1,53.4
+2022-01-20,45063,South Carolina,SC,Lexington County,53.3,62.2
+2022-01-20,45067,South Carolina,SC,Marion County,46.9,54.6
+2022-01-20,45069,South Carolina,SC,Marlboro County,41.8,50.3
+2022-01-20,45065,South Carolina,SC,McCormick County,57.4,65.2
+2022-01-20,45071,South Carolina,SC,Newberry County,51,58.7
+2022-01-20,45073,South Carolina,SC,Oconee County,43.7,50.5
+2022-01-20,45075,South Carolina,SC,Orangeburg County,53.4,61.9
+2022-01-20,45077,South Carolina,SC,Pickens County,45.1,51.7
+2022-01-20,45079,South Carolina,SC,Richland County,56,67.3
+2022-01-20,45081,South Carolina,SC,Saluda County,29.3,36
+2022-01-20,45083,South Carolina,SC,Spartanburg County,42.4,49
+2022-01-20,45085,South Carolina,SC,Sumter County,49.5,61.6
+2022-01-20,45087,South Carolina,SC,Union County,40.1,47.2
+2022-01-20,45089,South Carolina,SC,Williamsburg County,55,62.9
+2022-01-20,45091,South Carolina,SC,York County,47.4,60.5
+2022-01-20,46003,South Dakota,SD,Aurora County,52.2,61.3
+2022-01-20,46005,South Dakota,SD,Beadle County,47.3,61.5
+2022-01-20,46007,South Dakota,SD,Bennett County,54.7,65.4
+2022-01-20,46009,South Dakota,SD,Bon Homme County,55.8,65.3
+2022-01-20,46011,South Dakota,SD,Brookings County,50.1,59.6
+2022-01-20,46013,South Dakota,SD,Brown County,54.6,65.1
+2022-01-20,46015,South Dakota,SD,Brule County,53,75.5
+2022-01-20,46017,South Dakota,SD,Buffalo County,57.2,64.5
+2022-01-20,46019,South Dakota,SD,Butte County,38.8,46.3
+2022-01-20,46021,South Dakota,SD,Campbell County,46.1,54.2
+2022-01-20,46023,South Dakota,SD,Charles Mix County,52,68.6
+2022-01-20,46025,South Dakota,SD,Clark County,48.8,57.2
+2022-01-20,46027,South Dakota,SD,Clay County,66,80.1
+2022-01-20,46029,South Dakota,SD,Codington County,52.8,64.2
+2022-01-20,46031,South Dakota,SD,Corson County,38.3,52.1
+2022-01-20,46033,South Dakota,SD,Custer County,49.5,59.5
+2022-01-20,46035,South Dakota,SD,Davison County,58.8,76.7
+2022-01-20,46037,South Dakota,SD,Day County,62.7,75
+2022-01-20,46039,South Dakota,SD,Deuel County,44.8,51.5
+2022-01-20,46041,South Dakota,SD,Dewey County,68,82.3
+2022-01-20,46043,South Dakota,SD,Douglas County,50.6,61.3
+2022-01-20,46045,South Dakota,SD,Edmunds County,44.4,53.2
+2022-01-20,46047,South Dakota,SD,Fall River County,60.4,69.8
+2022-01-20,46049,South Dakota,SD,Faulk County,53.1,60.6
+2022-01-20,46051,South Dakota,SD,Grant County,47.2,62.1
+2022-01-20,46053,South Dakota,SD,Gregory County,48.9,57.5
+2022-01-20,46055,South Dakota,SD,Haakon County,40.4,47.1
+2022-01-20,46057,South Dakota,SD,Hamlin County,44.6,54.9
+2022-01-20,46059,South Dakota,SD,Hand County,47.3,53.6
+2022-01-20,46061,South Dakota,SD,Hanson County,41.4,53.7
+2022-01-20,46063,South Dakota,SD,Harding County,18.3,20.9
+2022-01-20,46065,South Dakota,SD,Hughes County,69.3,84.7
+2022-01-20,46067,South Dakota,SD,Hutchinson County,52.4,59.5
+2022-01-20,46069,South Dakota,SD,Hyde County,52.3,62.6
+2022-01-20,46071,South Dakota,SD,Jackson County,46.6,55.9
+2022-01-20,46073,South Dakota,SD,Jerauld County,49.8,57.7
+2022-01-20,46075,South Dakota,SD,Jones County,69.7,91.6
+2022-01-20,46077,South Dakota,SD,Kingsbury County,65.3,82.4
+2022-01-20,46079,South Dakota,SD,Lake County,48.8,58.3
+2022-01-20,46081,South Dakota,SD,Lawrence County,55.7,69.8
+2022-01-20,46083,South Dakota,SD,Lincoln County,56.5,73.3
+2022-01-20,46085,South Dakota,SD,Lyman County,61.3,82.3
+2022-01-20,46091,South Dakota,SD,Marshall County,50.8,58.4
+2022-01-20,46087,South Dakota,SD,McCook County,55.1,68.1
+2022-01-20,46089,South Dakota,SD,McPherson County,39.3,42.5
+2022-01-20,46093,South Dakota,SD,Meade County,52.3,63.5
+2022-01-20,46095,South Dakota,SD,Mellette County,33.3,40.3
+2022-01-20,46097,South Dakota,SD,Miner County,52.7,62.3
+2022-01-20,46099,South Dakota,SD,Minnehaha County,63.9,81.8
+2022-01-20,46101,South Dakota,SD,Moody County,46.9,61.5
+2022-01-20,46102,South Dakota,SD,Oglala Lakota County,72.5,85.3
+2022-01-20,46103,South Dakota,SD,Pennington County,55.6,71
+2022-01-20,46105,South Dakota,SD,Perkins County,31.4,35.6
+2022-01-20,46107,South Dakota,SD,Potter County,59,67.6
+2022-01-20,46109,South Dakota,SD,Roberts County,68.4,84.7
+2022-01-20,46111,South Dakota,SD,Sanborn County,53.3,64.4
+2022-01-20,46115,South Dakota,SD,Spink County,50.7,57.1
+2022-01-20,46117,South Dakota,SD,Stanley County,57.3,69.9
+2022-01-20,46119,South Dakota,SD,Sully County,43.2,53.6
+2022-01-20,46121,South Dakota,SD,Todd County,61.3,78.4
+2022-01-20,46123,South Dakota,SD,Tripp County,43.5,50
+2022-01-20,46125,South Dakota,SD,Turner County,51.6,61.3
+2022-01-20,46127,South Dakota,SD,Union County,49.8,65.1
+2022-01-20,46129,South Dakota,SD,Walworth County,45.6,53.9
+2022-01-20,46135,South Dakota,SD,Yankton County,61.9,75.9
+2022-01-20,46137,South Dakota,SD,Ziebach County,30.2,36.7
+2022-01-20,47001,Tennessee,TN,Anderson County,54.4,61.2
+2022-01-20,47003,Tennessee,TN,Bedford County,41,47.9
+2022-01-20,47005,Tennessee,TN,Benton County,43,48
+2022-01-20,47007,Tennessee,TN,Bledsoe County,35.3,41.4
+2022-01-20,47009,Tennessee,TN,Blount County,50.7,57
+2022-01-20,47011,Tennessee,TN,Bradley County,40.3,45.8
+2022-01-20,47013,Tennessee,TN,Campbell County,42.1,48.2
+2022-01-20,47015,Tennessee,TN,Cannon County,31.2,36
+2022-01-20,47017,Tennessee,TN,Carroll County,46.9,54.2
+2022-01-20,47019,Tennessee,TN,Carter County,39.2,44.9
+2022-01-20,47021,Tennessee,TN,Cheatham County,56.7,65.3
+2022-01-20,47023,Tennessee,TN,Chester County,34.7,38.9
+2022-01-20,47025,Tennessee,TN,Claiborne County,42.6,49.8
+2022-01-20,47027,Tennessee,TN,Clay County,28.3,31.8
+2022-01-20,47029,Tennessee,TN,Cocke County,48.4,54.3
+2022-01-20,47031,Tennessee,TN,Coffee County,44.6,51.3
+2022-01-20,47033,Tennessee,TN,Crockett County,46.8,53.3
+2022-01-20,47035,Tennessee,TN,Cumberland County,45.6,51.3
+2022-01-20,47037,Tennessee,TN,Davidson County,62.8,71.5
+2022-01-20,47039,Tennessee,TN,Decatur County,36.9,41.2
+2022-01-20,47041,Tennessee,TN,DeKalb County,40,45.9
+2022-01-20,47043,Tennessee,TN,Dickson County,47.2,53.8
+2022-01-20,47045,Tennessee,TN,Dyer County,38.4,44.2
+2022-01-20,47047,Tennessee,TN,Fayette County,55.1,64.4
+2022-01-20,47049,Tennessee,TN,Fentress County,32.9,36.9
+2022-01-20,47051,Tennessee,TN,Franklin County,39.9,45.7
+2022-01-20,47053,Tennessee,TN,Gibson County,43.8,49.3
+2022-01-20,47055,Tennessee,TN,Giles County,37.9,43.8
+2022-01-20,47057,Tennessee,TN,Grainger County,47.8,53.3
+2022-01-20,47059,Tennessee,TN,Greene County,45,50.3
+2022-01-20,47061,Tennessee,TN,Grundy County,29.5,34.1
+2022-01-20,47063,Tennessee,TN,Hamblen County,41.2,47
+2022-01-20,47065,Tennessee,TN,Hamilton County,54.7,62.3
+2022-01-20,47067,Tennessee,TN,Hancock County,31.8,35.3
+2022-01-20,47069,Tennessee,TN,Hardeman County,44.6,51.3
+2022-01-20,47071,Tennessee,TN,Hardin County,39.5,45.3
+2022-01-20,47073,Tennessee,TN,Hawkins County,43.1,48.5
+2022-01-20,47075,Tennessee,TN,Haywood County,50.4,58.8
+2022-01-20,47077,Tennessee,TN,Henderson County,40.2,45.6
+2022-01-20,47079,Tennessee,TN,Henry County,45.5,51.4
+2022-01-20,47081,Tennessee,TN,Hickman County,41.3,46.3
+2022-01-20,47083,Tennessee,TN,Houston County,42.1,46.3
+2022-01-20,47085,Tennessee,TN,Humphreys County,40.5,45.9
+2022-01-20,47087,Tennessee,TN,Jackson County,33.5,37.8
+2022-01-20,47089,Tennessee,TN,Jefferson County,48.6,54.4
+2022-01-20,47091,Tennessee,TN,Johnson County,35.9,42.8
+2022-01-20,47093,Tennessee,TN,Knox County,58.4,65.2
+2022-01-20,47095,Tennessee,TN,Lake County,33.7,38.6
+2022-01-20,47097,Tennessee,TN,Lauderdale County,36.2,41.6
+2022-01-20,47099,Tennessee,TN,Lawrence County,35.6,40.4
+2022-01-20,47101,Tennessee,TN,Lewis County,34.7,39
+2022-01-20,47103,Tennessee,TN,Lincoln County,40.3,45.3
+2022-01-20,47105,Tennessee,TN,Loudon County,62.1,69.4
+2022-01-20,47111,Tennessee,TN,Macon County,30.6,34.5
+2022-01-20,47113,Tennessee,TN,Madison County,52.7,58.7
+2022-01-20,47115,Tennessee,TN,Marion County,43.7,50.6
+2022-01-20,47117,Tennessee,TN,Marshall County,41.3,48.4
+2022-01-20,47119,Tennessee,TN,Maury County,62.2,69.8
+2022-01-20,47107,Tennessee,TN,McMinn County,38.8,43.5
+2022-01-20,47109,Tennessee,TN,McNairy County,46.1,53.5
+2022-01-20,47121,Tennessee,TN,Meigs County,66.6,74.4
+2022-01-20,47123,Tennessee,TN,Monroe County,42.1,46.7
+2022-01-20,47125,Tennessee,TN,Montgomery County,57.9,66.9
+2022-01-20,47127,Tennessee,TN,Moore County,21.3,24.4
+2022-01-20,47129,Tennessee,TN,Morgan County,50.2,56.6
+2022-01-20,47131,Tennessee,TN,Obion County,39.6,45.4
+2022-01-20,47133,Tennessee,TN,Overton County,34.4,38.6
+2022-01-20,47135,Tennessee,TN,Perry County,39.6,44.3
+2022-01-20,47137,Tennessee,TN,Pickett County,42.8,48.1
+2022-01-20,47139,Tennessee,TN,Polk County,40.2,44.4
+2022-01-20,47141,Tennessee,TN,Putnam County,49.5,54.9
+2022-01-20,47143,Tennessee,TN,Rhea County,41.8,47
+2022-01-20,47145,Tennessee,TN,Roane County,43.4,48
+2022-01-20,47147,Tennessee,TN,Robertson County,50.4,57
+2022-01-20,47149,Tennessee,TN,Rutherford County,51.9,58.9
+2022-01-20,47151,Tennessee,TN,Scott County,35.4,39.7
+2022-01-20,47153,Tennessee,TN,Sequatchie County,33.8,39.4
+2022-01-20,47155,Tennessee,TN,Sevier County,48.7,55.8
+2022-01-20,47157,Tennessee,TN,Shelby County,53.1,64.7
+2022-01-20,47159,Tennessee,TN,Smith County,32.1,36.8
+2022-01-20,47161,Tennessee,TN,Stewart County,42.4,48
+2022-01-20,47163,Tennessee,TN,Sullivan County,54.7,62.3
+2022-01-20,47165,Tennessee,TN,Sumner County,46.4,52.8
+2022-01-20,47167,Tennessee,TN,Tipton County,39.1,45.2
+2022-01-20,47169,Tennessee,TN,Trousdale County,35.5,39.7
+2022-01-20,47171,Tennessee,TN,Unicoi County,52.7,59.3
+2022-01-20,47173,Tennessee,TN,Union County,33.9,38.3
+2022-01-20,47175,Tennessee,TN,Van Buren County,56.7,63.8
+2022-01-20,47177,Tennessee,TN,Warren County,40,45.2
+2022-01-20,47179,Tennessee,TN,Washington County,57.8,65.4
+2022-01-20,47181,Tennessee,TN,Wayne County,40,44.7
+2022-01-20,47183,Tennessee,TN,Weakley County,36.8,41.9
+2022-01-20,47185,Tennessee,TN,White County,41.3,46
+2022-01-20,47187,Tennessee,TN,Williamson County,64.3,71.4
+2022-01-20,47189,Tennessee,TN,Wilson County,51.4,57.6
+2022-01-20,48001,Texas,TX,Anderson County,38.3,43.6
+2022-01-20,48003,Texas,TX,Andrews County,42.6,48.9
+2022-01-20,48005,Texas,TX,Angelina County,45.4,51.8
+2022-01-20,48007,Texas,TX,Aransas County,55.6,65.3
+2022-01-20,48009,Texas,TX,Archer County,55.9,64.1
+2022-01-20,48011,Texas,TX,Armstrong County,39.4,45.7
+2022-01-20,48013,Texas,TX,Atascosa County,50.1,58.9
+2022-01-20,48015,Texas,TX,Austin County,45.9,53.2
+2022-01-20,48017,Texas,TX,Bailey County,37.4,45.4
+2022-01-20,48019,Texas,TX,Bandera County,49.2,58.9
+2022-01-20,48021,Texas,TX,Bastrop County,55.3,66.7
+2022-01-20,48023,Texas,TX,Baylor County,39.7,44.3
+2022-01-20,48025,Texas,TX,Bee County,48.1,57.6
+2022-01-20,48027,Texas,TX,Bell County,57.2,69.3
+2022-01-20,48029,Texas,TX,Bexar County,66.4,80.1
+2022-01-20,48031,Texas,TX,Blanco County,55.4,65.3
+2022-01-20,48033,Texas,TX,Borden County,33.8,38.4
+2022-01-20,48035,Texas,TX,Bosque County,45,51.8
+2022-01-20,48037,Texas,TX,Bowie County,37.9,45.7
+2022-01-20,48039,Texas,TX,Brazoria County,56,63.6
+2022-01-20,48041,Texas,TX,Brazos County,49.7,57.9
+2022-01-20,48043,Texas,TX,Brewster County,57,67.1
+2022-01-20,48045,Texas,TX,Briscoe County,43.5,47.5
+2022-01-20,48047,Texas,TX,Brooks County,59.9,69.9
+2022-01-20,48049,Texas,TX,Brown County,40.2,45.8
+2022-01-20,48051,Texas,TX,Burleson County,47.7,53.8
+2022-01-20,48053,Texas,TX,Burnet County,51.8,59.7
+2022-01-20,48055,Texas,TX,Caldwell County,54.3,65.7
+2022-01-20,48057,Texas,TX,Calhoun County,55.7,63.9
+2022-01-20,48059,Texas,TX,Callahan County,39.8,47.1
+2022-01-20,48061,Texas,TX,Cameron County,73.9,91
+2022-01-20,48063,Texas,TX,Camp County,38.3,45.5
+2022-01-20,48065,Texas,TX,Carson County,35.6,41.3
+2022-01-20,48067,Texas,TX,Cass County,34.2,40
+2022-01-20,48069,Texas,TX,Castro County,41.8,51.8
+2022-01-20,48071,Texas,TX,Chambers County,45.8,52.9
+2022-01-20,48073,Texas,TX,Cherokee County,37.8,43.7
+2022-01-20,48075,Texas,TX,Childress County,44.5,49.2
+2022-01-20,48077,Texas,TX,Clay County,43.4,48.2
+2022-01-20,48079,Texas,TX,Cochran County,50.9,57.7
+2022-01-20,48081,Texas,TX,Coke County,45.1,52.5
+2022-01-20,48083,Texas,TX,Coleman County,35.8,40.1
+2022-01-20,48085,Texas,TX,Collin County,64.9,74.7
+2022-01-20,48087,Texas,TX,Collingsworth County,31.8,40.4
+2022-01-20,48089,Texas,TX,Colorado County,51.4,58.1
+2022-01-20,48091,Texas,TX,Comal County,59.9,69.6
+2022-01-20,48093,Texas,TX,Comanche County,44.8,50.6
+2022-01-20,48095,Texas,TX,Concho County,48.4,61
+2022-01-20,48097,Texas,TX,Cooke County,36.6,44.4
+2022-01-20,48099,Texas,TX,Coryell County,51.3,60
+2022-01-20,48101,Texas,TX,Cottle County,31.8,36.5
+2022-01-20,48103,Texas,TX,Crane County,35.5,47.2
+2022-01-20,48105,Texas,TX,Crockett County,45.9,53.8
+2022-01-20,48107,Texas,TX,Crosby County,43,48.4
+2022-01-20,48109,Texas,TX,Culberson County,50.7,58.9
+2022-01-20,48111,Texas,TX,Dallam County,42.3,57.3
+2022-01-20,48113,Texas,TX,Dallas County,57.8,68.6
+2022-01-20,48115,Texas,TX,Dawson County,32.3,37.3
+2022-01-20,48117,Texas,TX,Deaf Smith County,41.4,48.1
+2022-01-20,48119,Texas,TX,Delta County,34.6,40.9
+2022-01-20,48121,Texas,TX,Denton County,59.4,67.6
+2022-01-20,48123,Texas,TX,DeWitt County,43.6,48.6
+2022-01-20,48125,Texas,TX,Dickens County,32.6,36.9
+2022-01-20,48127,Texas,TX,Dimmit County,67,95
+2022-01-20,48129,Texas,TX,Donley County,33.6,39.1
+2022-01-20,48131,Texas,TX,Duval County,59.4,71.3
+2022-01-20,48133,Texas,TX,Eastland County,35.9,41.8
+2022-01-20,48135,Texas,TX,Ector County,40.9,48.8
+2022-01-20,48137,Texas,TX,Edwards County,80.1,95
+2022-01-20,48141,Texas,TX,El Paso County,75.9,95
+2022-01-20,48139,Texas,TX,Ellis County,51.7,59.8
+2022-01-20,48143,Texas,TX,Erath County,36.3,41.8
+2022-01-20,48145,Texas,TX,Falls County,45.2,53.9
+2022-01-20,48147,Texas,TX,Fannin County,42.9,48.7
+2022-01-20,48149,Texas,TX,Fayette County,48.7,56.7
+2022-01-20,48151,Texas,TX,Fisher County,35.4,41.8
+2022-01-20,48153,Texas,TX,Floyd County,43.9,49.8
+2022-01-20,48155,Texas,TX,Foard County,42.3,51
+2022-01-20,48157,Texas,TX,Fort Bend County,68.9,79
+2022-01-20,48159,Texas,TX,Franklin County,35.7,41.7
+2022-01-20,48161,Texas,TX,Freestone County,37.1,42.4
+2022-01-20,48163,Texas,TX,Frio County,58.3,66.6
+2022-01-20,48165,Texas,TX,Gaines County,21.1,24.7
+2022-01-20,48167,Texas,TX,Galveston County,58.1,65.4
+2022-01-20,48169,Texas,TX,Garza County,51.2,54.8
+2022-01-20,48171,Texas,TX,Gillespie County,52.6,60.4
+2022-01-20,48173,Texas,TX,Glasscock County,42.9,50
+2022-01-20,48175,Texas,TX,Goliad County,41.4,47.7
+2022-01-20,48177,Texas,TX,Gonzales County,47.8,53.8
+2022-01-20,48179,Texas,TX,Gray County,46.3,53.2
+2022-01-20,48181,Texas,TX,Grayson County,43.4,51
+2022-01-20,48183,Texas,TX,Gregg County,43.4,50.1
+2022-01-20,48185,Texas,TX,Grimes County,50.4,57.8
+2022-01-20,48187,Texas,TX,Guadalupe County,53.3,62.3
+2022-01-20,48189,Texas,TX,Hale County,41.9,47.9
+2022-01-20,48191,Texas,TX,Hall County,42.3,47.9
+2022-01-20,48193,Texas,TX,Hamilton County,50.8,55.9
+2022-01-20,48195,Texas,TX,Hansford County,41,46
+2022-01-20,48197,Texas,TX,Hardeman County,45,49.7
+2022-01-20,48199,Texas,TX,Hardin County,36.6,42.1
+2022-01-20,48201,Texas,TX,Harris County,61.1,72.2
+2022-01-20,48203,Texas,TX,Harrison County,38.8,45
+2022-01-20,48205,Texas,TX,Hartley County,47.3,58.3
+2022-01-20,48207,Texas,TX,Haskell County,36.9,44.3
+2022-01-20,48209,Texas,TX,Hays County,59.7,70.7
+2022-01-20,48211,Texas,TX,Hemphill County,41.1,46.9
+2022-01-20,48213,Texas,TX,Henderson County,37.8,43.8
+2022-01-20,48215,Texas,TX,Hidalgo County,67.4,86.2
+2022-01-20,48217,Texas,TX,Hill County,39.8,46.6
+2022-01-20,48219,Texas,TX,Hockley County,41,47.6
+2022-01-20,48221,Texas,TX,Hood County,46.6,53
+2022-01-20,48223,Texas,TX,Hopkins County,38.1,43.8
+2022-01-20,48225,Texas,TX,Houston County,40.3,46.4
+2022-01-20,48227,Texas,TX,Howard County,36.6,42.2
+2022-01-20,48229,Texas,TX,Hudspeth County,64,74.9
+2022-01-20,48231,Texas,TX,Hunt County,41.4,47.9
+2022-01-20,48233,Texas,TX,Hutchinson County,33.6,39.4
+2022-01-20,48235,Texas,TX,Irion County,95,95
+2022-01-20,48237,Texas,TX,Jack County,39.1,44.6
+2022-01-20,48239,Texas,TX,Jackson County,43.6,49.6
+2022-01-20,48241,Texas,TX,Jasper County,34.9,40.1
+2022-01-20,48243,Texas,TX,Jeff Davis County,51.9,58
+2022-01-20,48245,Texas,TX,Jefferson County,48.9,57
+2022-01-20,48247,Texas,TX,Jim Hogg County,54,69.3
+2022-01-20,48249,Texas,TX,Jim Wells County,52,62.5
+2022-01-20,48251,Texas,TX,Johnson County,44.1,51.2
+2022-01-20,48253,Texas,TX,Jones County,42.7,51.4
+2022-01-20,48255,Texas,TX,Karnes County,55.3,61.3
+2022-01-20,48257,Texas,TX,Kaufman County,49.9,58.4
+2022-01-20,48259,Texas,TX,Kendall County,59.9,69.7
+2022-01-20,48261,Texas,TX,Kenedy County,53.5,62.6
+2022-01-20,48263,Texas,TX,Kent County,37,43.3
+2022-01-20,48265,Texas,TX,Kerr County,49.2,58.4
+2022-01-20,48267,Texas,TX,Kimble County,42.2,48
+2022-01-20,48271,Texas,TX,Kinney County,49.1,58.2
+2022-01-20,48273,Texas,TX,Kleberg County,58.7,69.5
+2022-01-20,48275,Texas,TX,Knox County,38.1,42.5
+2022-01-20,48283,Texas,TX,La Salle County,61.4,70.8
+2022-01-20,48277,Texas,TX,Lamar County,38.6,44.5
+2022-01-20,48279,Texas,TX,Lamb County,41.5,48.4
+2022-01-20,48281,Texas,TX,Lampasas County,45.3,53.9
+2022-01-20,48285,Texas,TX,Lavaca County,40.4,45.1
+2022-01-20,48287,Texas,TX,Lee County,45.8,53.3
+2022-01-20,48289,Texas,TX,Leon County,34.7,40.3
+2022-01-20,48291,Texas,TX,Liberty County,40,47.2
+2022-01-20,48293,Texas,TX,Limestone County,36,42.2
+2022-01-20,48295,Texas,TX,Lipscomb County,33.3,39.3
+2022-01-20,48297,Texas,TX,Live Oak County,41.5,46.4
+2022-01-20,48299,Texas,TX,Llano County,49.9,56
+2022-01-20,48303,Texas,TX,Lubbock County,46.8,54.4
+2022-01-20,48305,Texas,TX,Lynn County,37.4,43.5
+2022-01-20,48313,Texas,TX,Madison County,39,45.7
+2022-01-20,48315,Texas,TX,Marion County,39.2,44.7
+2022-01-20,48317,Texas,TX,Martin County,30.7,37.7
+2022-01-20,48319,Texas,TX,Mason County,46.4,50.8
+2022-01-20,48321,Texas,TX,Matagorda County,45.3,53.4
+2022-01-20,48323,Texas,TX,Maverick County,84,95
+2022-01-20,48307,Texas,TX,McCulloch County,37.4,41.9
+2022-01-20,48309,Texas,TX,McLennan County,49.8,58.1
+2022-01-20,48311,Texas,TX,McMullen County,44.8,49.9
+2022-01-20,48325,Texas,TX,Medina County,53.9,62.1
+2022-01-20,48327,Texas,TX,Menard County,52.4,57.7
+2022-01-20,48329,Texas,TX,Midland County,41.6,48.7
+2022-01-20,48331,Texas,TX,Milam County,43.6,49.6
+2022-01-20,48333,Texas,TX,Mills County,43.2,49.8
+2022-01-20,48335,Texas,TX,Mitchell County,34.6,38.6
+2022-01-20,48337,Texas,TX,Montague County,33.9,39.8
+2022-01-20,48339,Texas,TX,Montgomery County,52.4,61.6
+2022-01-20,48341,Texas,TX,Moore County,43.3,56.5
+2022-01-20,48343,Texas,TX,Morris County,41.1,48
+2022-01-20,48345,Texas,TX,Motley County,28.2,39.3
+2022-01-20,48347,Texas,TX,Nacogdoches County,45.8,55.5
+2022-01-20,48349,Texas,TX,Navarro County,43.2,50.5
+2022-01-20,48351,Texas,TX,Newton County,24.5,28.4
+2022-01-20,48353,Texas,TX,Nolan County,40.5,45
+2022-01-20,48355,Texas,TX,Nueces County,55.4,65.3
+2022-01-20,48357,Texas,TX,Ochiltree County,37.3,42.5
+2022-01-20,48359,Texas,TX,Oldham County,34.5,40.2
+2022-01-20,48361,Texas,TX,Orange County,35.1,41.4
+2022-01-20,48363,Texas,TX,Palo Pinto County,36.1,41.3
+2022-01-20,48365,Texas,TX,Panola County,36.6,42.7
+2022-01-20,48367,Texas,TX,Parker County,44.4,50.9
+2022-01-20,48369,Texas,TX,Parmer County,39.1,45.1
+2022-01-20,48371,Texas,TX,Pecos County,55,63.3
+2022-01-20,48373,Texas,TX,Polk County,45.8,56.2
+2022-01-20,48375,Texas,TX,Potter County,43.3,52.3
+2022-01-20,48377,Texas,TX,Presidio County,95,95
+2022-01-20,48379,Texas,TX,Rains County,35.6,40.7
+2022-01-20,48381,Texas,TX,Randall County,44.6,51.8
+2022-01-20,48383,Texas,TX,Reagan County,38,43.5
+2022-01-20,48385,Texas,TX,Real County,48.4,55.9
+2022-01-20,48387,Texas,TX,Red River County,40.3,46.1
+2022-01-20,48389,Texas,TX,Reeves County,50.1,95
+2022-01-20,48391,Texas,TX,Refugio County,52.3,59.5
+2022-01-20,48393,Texas,TX,Roberts County,33.7,37.7
+2022-01-20,48395,Texas,TX,Robertson County,43,49.8
+2022-01-20,48397,Texas,TX,Rockwall County,56.4,66
+2022-01-20,48399,Texas,TX,Runnels County,43.3,48.4
+2022-01-20,48401,Texas,TX,Rusk County,37,42.6
+2022-01-20,48403,Texas,TX,Sabine County,36.1,41.8
+2022-01-20,48405,Texas,TX,San Augustine County,39.4,46
+2022-01-20,48407,Texas,TX,San Jacinto County,33.3,38.5
+2022-01-20,48409,Texas,TX,San Patricio County,54,64.3
+2022-01-20,48411,Texas,TX,San Saba County,35.7,42.3
+2022-01-20,48413,Texas,TX,Schleicher County,41.5,45.3
+2022-01-20,48415,Texas,TX,Scurry County,45.8,52.7
+2022-01-20,48417,Texas,TX,Shackelford County,36.2,41.4
+2022-01-20,48419,Texas,TX,Shelby County,34.6,41.6
+2022-01-20,48421,Texas,TX,Sherman County,33.3,42.7
+2022-01-20,48423,Texas,TX,Smith County,44.2,50.7
+2022-01-20,48425,Texas,TX,Somervell County,43.9,49.5
+2022-01-20,48427,Texas,TX,Starr County,76.6,95
+2022-01-20,48429,Texas,TX,Stephens County,35.5,39.8
+2022-01-20,48431,Texas,TX,Sterling County,39.3,48.7
+2022-01-20,48433,Texas,TX,Stonewall County,39.3,44.4
+2022-01-20,48435,Texas,TX,Sutton County,42.4,48.5
+2022-01-20,48437,Texas,TX,Swisher County,39.4,45.1
+2022-01-20,48439,Texas,TX,Tarrant County,54.1,62.4
+2022-01-20,48441,Texas,TX,Taylor County,48.2,56.7
+2022-01-20,48443,Texas,TX,Terrell County,51.4,62.1
+2022-01-20,48445,Texas,TX,Terry County,40.7,47.2
+2022-01-20,48447,Texas,TX,Throckmorton County,40.2,46.3
+2022-01-20,48449,Texas,TX,Titus County,37,44.9
+2022-01-20,48451,Texas,TX,Tom Green County,49.1,54.9
+2022-01-20,48453,Texas,TX,Travis County,67.5,79
+2022-01-20,48455,Texas,TX,Trinity County,38.3,44.7
+2022-01-20,48457,Texas,TX,Tyler County,35.1,39.8
+2022-01-20,48459,Texas,TX,Upshur County,33,38
+2022-01-20,48461,Texas,TX,Upton County,39.7,45.9
+2022-01-20,48463,Texas,TX,Uvalde County,52.2,62.3
+2022-01-20,48465,Texas,TX,Val Verde County,62.6,80.1
+2022-01-20,48467,Texas,TX,Van Zandt County,36.5,41.6
+2022-01-20,48469,Texas,TX,Victoria County,47.1,53.5
+2022-01-20,48471,Texas,TX,Walker County,46.4,53.7
+2022-01-20,48473,Texas,TX,Waller County,40.1,46.7
+2022-01-20,48475,Texas,TX,Ward County,35.1,42
+2022-01-20,48477,Texas,TX,Washington County,49.1,55.1
+2022-01-20,48479,Texas,TX,Webb County,82.5,95
+2022-01-20,48481,Texas,TX,Wharton County,48.2,57.1
+2022-01-20,48483,Texas,TX,Wheeler County,40.5,47.8
+2022-01-20,48485,Texas,TX,Wichita County,49.3,56.6
+2022-01-20,48487,Texas,TX,Wilbarger County,50.2,55.8
+2022-01-20,48489,Texas,TX,Willacy County,62.3,74.6
+2022-01-20,48491,Texas,TX,Williamson County,66,75.9
+2022-01-20,48493,Texas,TX,Wilson County,51.2,58.9
+2022-01-20,48495,Texas,TX,Winkler County,37.1,43.5
+2022-01-20,48497,Texas,TX,Wise County,37.5,42.7
+2022-01-20,48499,Texas,TX,Wood County,41.6,46.9
+2022-01-20,48501,Texas,TX,Yoakum County,38.6,46.2
+2022-01-20,48503,Texas,TX,Young County,40.4,45.6
+2022-01-20,48505,Texas,TX,Zapata County,58.6,69.1
+2022-01-20,48507,Texas,TX,Zavala County,50.4,59.5
+2022-01-20,49001,Utah,UT,Beaver County,45.4,54.1
+2022-01-20,49003,Utah,UT,Box Elder County,49.2,56.7
+2022-01-20,49005,Utah,UT,Cache County,54.8,64.2
+2022-01-20,49007,Utah,UT,Carbon County,46.7,54.2
+2022-01-20,49009,Utah,UT,Daggett County,64.2,84.1
+2022-01-20,49011,Utah,UT,Davis County,63.1,70.3
+2022-01-20,49013,Utah,UT,Duchesne County,42.1,51.2
+2022-01-20,49015,Utah,UT,Emery County,43.8,49
+2022-01-20,49017,Utah,UT,Garfield County,54.4,61.9
+2022-01-20,49019,Utah,UT,Grand County,65,76.6
+2022-01-20,49021,Utah,UT,Iron County,43.3,50.1
+2022-01-20,49023,Utah,UT,Juab County,35.9,41.9
+2022-01-20,49025,Utah,UT,Kane County,48.3,55.4
+2022-01-20,49027,Utah,UT,Millard County,42.9,50.2
+2022-01-20,49029,Utah,UT,Morgan County,50.8,59.6
+2022-01-20,49031,Utah,UT,Piute County,38.3,45.6
+2022-01-20,49033,Utah,UT,Rich County,49.4,63.1
+2022-01-20,49035,Utah,UT,Salt Lake County,65.8,75.1
+2022-01-20,49037,Utah,UT,San Juan County,60.2,70.9
+2022-01-20,49039,Utah,UT,Sanpete County,39,45.4
+2022-01-20,49041,Utah,UT,Sevier County,42.1,49.3
+2022-01-20,49043,Utah,UT,Summit County,84.5,95
+2022-01-20,49045,Utah,UT,Tooele County,54.9,63.2
+2022-01-20,49047,Utah,UT,Uintah County,40,49.6
+2022-01-20,49049,Utah,UT,Utah County,52.8,62.2
+2022-01-20,49051,Utah,UT,Wasatch County,57.4,64.8
+2022-01-20,49053,Utah,UT,Washington County,49.3,56.3
+2022-01-20,49055,Utah,UT,Wayne County,53.7,59.7
+2022-01-20,49057,Utah,UT,Weber County,57.4,65.3
+2022-01-20,50001,Vermont,VT,Addison County,69.4,78.2
+2022-01-20,50003,Vermont,VT,Bennington County,42.1,49.2
+2022-01-20,50005,Vermont,VT,Caledonia County,35.7,42.9
+2022-01-20,50007,Vermont,VT,Chittenden County,72.1,82.2
+2022-01-20,50009,Vermont,VT,Essex County,39.2,54.8
+2022-01-20,50011,Vermont,VT,Franklin County,36.1,40.8
+2022-01-20,50013,Vermont,VT,Grand Isle County,78.6,89.7
+2022-01-20,50015,Vermont,VT,Lamoille County,61.4,73.1
+2022-01-20,50017,Vermont,VT,Orange County,51.7,65.3
+2022-01-20,50019,Vermont,VT,Orleans County,56.9,64.6
+2022-01-20,50021,Vermont,VT,Rutland County,68,77.6
+2022-01-20,50023,Vermont,VT,Washington County,46,52.2
+2022-01-20,50025,Vermont,VT,Windham County,66.4,80.1
+2022-01-20,50027,Vermont,VT,Windsor County,49.3,64
+2022-01-20,51001,Virginia,VA,Accomack County,70,79.6
+2022-01-20,51003,Virginia,VA,Albemarle County,63.7,73.2
+2022-01-20,51510,Virginia,VA,Alexandria City,61.5,76
+2022-01-20,51005,Virginia,VA,Alleghany County,39.2,47.5
+2022-01-20,51007,Virginia,VA,Amelia County,34,39.4
+2022-01-20,51009,Virginia,VA,Amherst County,45.6,51.4
+2022-01-20,51011,Virginia,VA,Appomattox County,32.3,36.8
+2022-01-20,51013,Virginia,VA,Arlington County,69.8,86.1
+2022-01-20,51015,Virginia,VA,Augusta County,48.1,53.6
+2022-01-20,51017,Virginia,VA,Bath County,42.8,48.9
+2022-01-20,51019,Virginia,VA,Bedford County,43.7,50.5
+2022-01-20,51021,Virginia,VA,Bland County,38.2,44.8
+2022-01-20,51023,Virginia,VA,Botetourt County,48.6,56.3
+2022-01-20,51520,Virginia,VA,Bristol City,66.4,77.8
+2022-01-20,51025,Virginia,VA,Brunswick County,49.6,57.8
+2022-01-20,51027,Virginia,VA,Buchanan County,46.4,52.3
+2022-01-20,51029,Virginia,VA,Buckingham County,38.7,44.9
+2022-01-20,51031,Virginia,VA,Campbell County,39.4,44.3
+2022-01-20,51033,Virginia,VA,Caroline County,41.4,48.1
+2022-01-20,51035,Virginia,VA,Carroll County,32.5,37.7
+2022-01-20,51036,Virginia,VA,Charles City County,79.3,94.1
+2022-01-20,51037,Virginia,VA,Charlotte County,37.8,43.2
+2022-01-20,51540,Virginia,VA,Charlottesville City,49.9,57.9
+2022-01-20,51550,Virginia,VA,Chesapeake City,51,60
+2022-01-20,51041,Virginia,VA,Chesterfield County,55.2,63.7
+2022-01-20,51043,Virginia,VA,Clarke County,62.2,74.6
+2022-01-20,51570,Virginia,VA,Colonial Heights City,36.1,41.2
+2022-01-20,51045,Virginia,VA,Craig County,32.7,37.6
+2022-01-20,51047,Virginia,VA,Culpeper County,47.1,55.7
+2022-01-20,51049,Virginia,VA,Cumberland County,35.9,42.1
+2022-01-20,51590,Virginia,VA,Danville City,33.7,39.7
+2022-01-20,51051,Virginia,VA,Dickenson County,45.4,53.1
+2022-01-20,51053,Virginia,VA,Dinwiddie County,46.9,53.5
+2022-01-20,51057,Virginia,VA,Essex County,45.5,50.1
+2022-01-20,51600,Virginia,VA,Fairfax City,66.4,79.6
+2022-01-20,51059,Virginia,VA,Fairfax County,74.1,90.1
+2022-01-20,51610,Virginia,VA,Falls Church City,54.9,65.3
+2022-01-20,51061,Virginia,VA,Fauquier County,62.3,74.5
+2022-01-20,51063,Virginia,VA,Floyd County,37.4,42.4
+2022-01-20,51065,Virginia,VA,Fluvanna County,61,68.9
+2022-01-20,51067,Virginia,VA,Franklin County,42.5,48.5
+2022-01-20,51069,Virginia,VA,Frederick County,47,56.6
+2022-01-20,51630,Virginia,VA,Fredericksburg City,39.5,46.5
+2022-01-20,51071,Virginia,VA,Giles County,44.4,50.1
+2022-01-20,51073,Virginia,VA,Gloucester County,60.9,68.5
+2022-01-20,51075,Virginia,VA,Goochland County,64.6,71.4
+2022-01-20,51077,Virginia,VA,Grayson County,39.9,46.3
+2022-01-20,51079,Virginia,VA,Greene County,45.5,50.3
+2022-01-20,51081,Virginia,VA,Greensville County,35,41.7
+2022-01-20,51083,Virginia,VA,Halifax County,42.3,48.8
+2022-01-20,51650,Virginia,VA,Hampton City,59.4,69.1
+2022-01-20,51085,Virginia,VA,Hanover County,57.9,64.2
+2022-01-20,51660,Virginia,VA,Harrisonburg City,37.8,42.5
+2022-01-20,51087,Virginia,VA,Henrico County,54,60.9
+2022-01-20,51089,Virginia,VA,Henry County,38.5,44.3
+2022-01-20,51091,Virginia,VA,Highland County,59,65.5
+2022-01-20,51670,Virginia,VA,Hopewell City,31.2,37.8
+2022-01-20,51093,Virginia,VA,Isle of Wight County,50.8,59.6
+2022-01-20,51095,Virginia,VA,James City County,54.6,62.1
+2022-01-20,51097,Virginia,VA,King and Queen County,49.8,55.7
+2022-01-20,51099,Virginia,VA,King George County,41.1,48.3
+2022-01-20,51101,Virginia,VA,King William County,50.4,55.8
+2022-01-20,51103,Virginia,VA,Lancaster County,59.5,66
+2022-01-20,51105,Virginia,VA,Lee County,48.9,56.5
+2022-01-20,51678,Virginia,VA,Lexington City,39.2,43.6
+2022-01-20,51107,Virginia,VA,Loudoun County,70.6,84.5
+2022-01-20,51109,Virginia,VA,Louisa County,40.9,46.3
+2022-01-20,51111,Virginia,VA,Lunenburg County,47.9,53
+2022-01-20,51680,Virginia,VA,Lynchburg City,30.5,35.5
+2022-01-20,51113,Virginia,VA,Madison County,53.6,61
+2022-01-20,51683,Virginia,VA,Manassas City,47.7,57.7
+2022-01-20,51115,Virginia,VA,Mathews County,60,66.4
+2022-01-20,51117,Virginia,VA,Mecklenburg County,41.5,49.2
+2022-01-20,51119,Virginia,VA,Middlesex County,61.6,68.7
+2022-01-20,51121,Virginia,VA,Montgomery County,45.6,53.5
+2022-01-20,51125,Virginia,VA,Nelson County,55.3,62.2
+2022-01-20,51127,Virginia,VA,New Kent County,50.6,56.5
+2022-01-20,51700,Virginia,VA,Newport News City,50.3,58.4
+2022-01-20,51710,Virginia,VA,Norfolk City,68.3,78.7
+2022-01-20,51131,Virginia,VA,Northampton County,69,76.1
+2022-01-20,51133,Virginia,VA,Northumberland County,53.3,59.1
+2022-01-20,51135,Virginia,VA,Nottoway County,42.3,47.1
+2022-01-20,51137,Virginia,VA,Orange County,42.8,49.1
+2022-01-20,51139,Virginia,VA,Page County,37.1,40.6
+2022-01-20,51141,Virginia,VA,Patrick County,38.7,44.7
+2022-01-20,51730,Virginia,VA,Petersburg City,34.8,41.5
+2022-01-20,51143,Virginia,VA,Pittsylvania County,40.8,46.7
+2022-01-20,51740,Virginia,VA,Portsmouth City,48.1,55.9
+2022-01-20,51145,Virginia,VA,Powhatan County,38.6,44
+2022-01-20,51147,Virginia,VA,Prince Edward County,30.6,35.3
+2022-01-20,51149,Virginia,VA,Prince George County,48.9,59.1
+2022-01-20,51153,Virginia,VA,Prince William County,69.3,82.1
+2022-01-20,51155,Virginia,VA,Pulaski County,42.8,48.8
+2022-01-20,51750,Virginia,VA,Radford City,34.7,39.8
+2022-01-20,51157,Virginia,VA,Rappahannock County,51.1,62.4
+2022-01-20,51760,Virginia,VA,Richmond City,42.1,48
+2022-01-20,51159,Virginia,VA,Richmond County,40.6,44.8
+2022-01-20,51770,Virginia,VA,Roanoke City,40.5,47.8
+2022-01-20,51161,Virginia,VA,Roanoke County,48.7,56
+2022-01-20,51163,Virginia,VA,Rockbridge County,45.5,49.8
+2022-01-20,51165,Virginia,VA,Rockingham County,42.5,47.1
+2022-01-20,51167,Virginia,VA,Russell County,45.8,52.5
+2022-01-20,51169,Virginia,VA,Scott County,55,65
+2022-01-20,51171,Virginia,VA,Shenandoah County,48,55.3
+2022-01-20,51173,Virginia,VA,Smyth County,46.8,54.4
+2022-01-20,51175,Virginia,VA,Southampton County,36.4,44.5
+2022-01-20,51177,Virginia,VA,Spotsylvania County,43.6,51.9
+2022-01-20,51179,Virginia,VA,Stafford County,56.2,68.7
+2022-01-20,51790,Virginia,VA,Staunton City,46.5,51.4
+2022-01-20,51800,Virginia,VA,Suffolk City,51.6,59.9
+2022-01-20,51181,Virginia,VA,Surry County,53.8,60.2
+2022-01-20,51183,Virginia,VA,Sussex County,34.5,40.5
+2022-01-20,51185,Virginia,VA,Tazewell County,42.2,49.8
+2022-01-20,51810,Virginia,VA,Virginia Beach City,60.7,70.7
+2022-01-20,51187,Virginia,VA,Warren County,36.3,45
+2022-01-20,51191,Virginia,VA,Washington County,55.8,65
+2022-01-20,51820,Virginia,VA,Waynesboro City,42.8,48.5
+2022-01-20,51193,Virginia,VA,Westmoreland County,44.9,50.2
+2022-01-20,51830,Virginia,VA,Williamsburg City,39.3,44.9
+2022-01-20,51840,Virginia,VA,Winchester City,42.4,51.9
+2022-01-20,51195,Virginia,VA,Wise County,45.6,57.3
+2022-01-20,51197,Virginia,VA,Wythe County,38.1,45.6
+2022-01-20,51199,Virginia,VA,York County,64.9,75.5
+2022-01-20,53001,Washington,WA,Adams County,56.3,62.6
+2022-01-20,53003,Washington,WA,Asotin County,40.2,46.5
+2022-01-20,53005,Washington,WA,Benton County,54.7,60.6
+2022-01-20,53007,Washington,WA,Chelan County,68.4,75.4
+2022-01-20,53009,Washington,WA,Clallam County,66.7,72.8
+2022-01-20,53011,Washington,WA,Clark County,62.2,69.8
+2022-01-20,53013,Washington,WA,Columbia County,45.3,50.8
+2022-01-20,53015,Washington,WA,Cowlitz County,56.8,62.8
+2022-01-20,53017,Washington,WA,Douglas County,59.7,65.2
+2022-01-20,53019,Washington,WA,Ferry County,54.3,60
+2022-01-20,53021,Washington,WA,Franklin County,50,56.2
+2022-01-20,53023,Washington,WA,Garfield County,38.2,50.3
+2022-01-20,53025,Washington,WA,Grant County,54.6,59.8
+2022-01-20,53027,Washington,WA,Grays Harbor County,57,62.8
+2022-01-20,53029,Washington,WA,Island County,72.6,83.3
+2022-01-20,53031,Washington,WA,Jefferson County,75.2,81.4
+2022-01-20,53033,Washington,WA,King County,78.4,86.2
+2022-01-20,53035,Washington,WA,Kitsap County,66.7,75.7
+2022-01-20,53037,Washington,WA,Kittitas County,52.6,59.3
+2022-01-20,53039,Washington,WA,Klickitat County,46.3,50.9
+2022-01-20,53041,Washington,WA,Lewis County,49.5,55.1
+2022-01-20,53043,Washington,WA,Lincoln County,54.6,60
+2022-01-20,53045,Washington,WA,Mason County,58.7,65.9
+2022-01-20,53047,Washington,WA,Okanogan County,65.9,71.6
+2022-01-20,53049,Washington,WA,Pacific County,54.7,62.6
+2022-01-20,53051,Washington,WA,Pend Oreille County,39.2,45.5
+2022-01-20,53053,Washington,WA,Pierce County,61.9,69.9
+2022-01-20,53055,Washington,WA,San Juan County,79.5,87.8
+2022-01-20,53057,Washington,WA,Skagit County,64.9,71.7
+2022-01-20,53059,Washington,WA,Skamania County,37.5,41
+2022-01-20,53061,Washington,WA,Snohomish County,68.2,74.3
+2022-01-20,53063,Washington,WA,Spokane County,58.8,65.9
+2022-01-20,53065,Washington,WA,Stevens County,38.1,43
+2022-01-20,53067,Washington,WA,Thurston County,65.9,74.7
+2022-01-20,53069,Washington,WA,Wahkiakum County,48,51.8
+2022-01-20,53071,Washington,WA,Walla Walla County,61.7,68.9
+2022-01-20,53073,Washington,WA,Whatcom County,69.6,77.3
+2022-01-20,53075,Washington,WA,Whitman County,45.3,54.9
+2022-01-20,53077,Washington,WA,Yakima County,59.3,67.4
+2022-01-20,54001,West Virginia,WV,Barbour County,48.2,52.9
+2022-01-20,54003,West Virginia,WV,Berkeley County,52.6,62.9
+2022-01-20,54005,West Virginia,WV,Boone County,46.6,52.2
+2022-01-20,54007,West Virginia,WV,Braxton County,43.6,48.2
+2022-01-20,54009,West Virginia,WV,Brooke County,49,55.5
+2022-01-20,54011,West Virginia,WV,Cabell County,58.5,67.5
+2022-01-20,54013,West Virginia,WV,Calhoun County,33.5,39.1
+2022-01-20,54015,West Virginia,WV,Clay County,54.3,60.1
+2022-01-20,54017,West Virginia,WV,Doddridge County,58.1,64.2
+2022-01-20,54019,West Virginia,WV,Fayette County,54.4,61.5
+2022-01-20,54021,West Virginia,WV,Gilmer County,58.9,63.7
+2022-01-20,54023,West Virginia,WV,Grant County,43.4,47.5
+2022-01-20,54025,West Virginia,WV,Greenbrier County,53.8,60.5
+2022-01-20,54027,West Virginia,WV,Hampshire County,44.7,51.5
+2022-01-20,54029,West Virginia,WV,Hancock County,64.6,73.5
+2022-01-20,54031,West Virginia,WV,Hardy County,53.6,59.2
+2022-01-20,54033,West Virginia,WV,Harrison County,50.9,56.1
+2022-01-20,54035,West Virginia,WV,Jackson County,51,56.2
+2022-01-20,54037,West Virginia,WV,Jefferson County,60.9,73.1
+2022-01-20,54039,West Virginia,WV,Kanawha County,64,72
+2022-01-20,54041,West Virginia,WV,Lewis County,56.3,61.7
+2022-01-20,54043,West Virginia,WV,Lincoln County,49.4,55.1
+2022-01-20,54045,West Virginia,WV,Logan County,55.3,62.5
+2022-01-20,54049,West Virginia,WV,Marion County,55.4,61.5
+2022-01-20,54051,West Virginia,WV,Marshall County,43.9,47.9
+2022-01-20,54053,West Virginia,WV,Mason County,47.8,56
+2022-01-20,54047,West Virginia,WV,McDowell County,50,57.6
+2022-01-20,54055,West Virginia,WV,Mercer County,51.8,61.8
+2022-01-20,54057,West Virginia,WV,Mineral County,49.5,57.8
+2022-01-20,54059,West Virginia,WV,Mingo County,39.2,47.6
+2022-01-20,54061,West Virginia,WV,Monongalia County,57.4,63.6
+2022-01-20,54063,West Virginia,WV,Monroe County,47.5,53.7
+2022-01-20,54065,West Virginia,WV,Morgan County,39.5,44.2
+2022-01-20,54067,West Virginia,WV,Nicholas County,51.3,57.3
+2022-01-20,54069,West Virginia,WV,Ohio County,64.8,72.4
+2022-01-20,54071,West Virginia,WV,Pendleton County,57.2,62.6
+2022-01-20,54073,West Virginia,WV,Pleasants County,50.9,57.7
+2022-01-20,54075,West Virginia,WV,Pocahontas County,51.6,57.5
+2022-01-20,54077,West Virginia,WV,Preston County,54.2,60.5
+2022-01-20,54079,West Virginia,WV,Putnam County,56.7,63.9
+2022-01-20,54081,West Virginia,WV,Raleigh County,52.7,59.2
+2022-01-20,54083,West Virginia,WV,Randolph County,53.2,59
+2022-01-20,54085,West Virginia,WV,Ritchie County,48.2,53.9
+2022-01-20,54087,West Virginia,WV,Roane County,46.4,52.5
+2022-01-20,54089,West Virginia,WV,Summers County,61.7,66.6
+2022-01-20,54091,West Virginia,WV,Taylor County,46.4,50.1
+2022-01-20,54093,West Virginia,WV,Tucker County,59.2,64.3
+2022-01-20,54095,West Virginia,WV,Tyler County,41.3,45.8
+2022-01-20,54097,West Virginia,WV,Upshur County,49.2,54
+2022-01-20,54099,West Virginia,WV,Wayne County,52.2,61.1
+2022-01-20,54101,West Virginia,WV,Webster County,46.5,51.3
+2022-01-20,54103,West Virginia,WV,Wetzel County,56.1,61.3
+2022-01-20,54105,West Virginia,WV,Wirt County,46.4,52.1
+2022-01-20,54107,West Virginia,WV,Wood County,57.1,66.1
+2022-01-20,54109,West Virginia,WV,Wyoming County,51.6,57.5
+2022-01-20,55001,Wisconsin,WI,Adams County,54.9,59.8
+2022-01-20,55003,Wisconsin,WI,Ashland County,68.4,77.6
+2022-01-20,55005,Wisconsin,WI,Barron County,52,56.1
+2022-01-20,55007,Wisconsin,WI,Bayfield County,79.8,89
+2022-01-20,55009,Wisconsin,WI,Brown County,62.6,67.7
+2022-01-20,55011,Wisconsin,WI,Buffalo County,49,53.6
+2022-01-20,55013,Wisconsin,WI,Burnett County,55.4,63.2
+2022-01-20,55015,Wisconsin,WI,Calumet County,54.4,58.2
+2022-01-20,55017,Wisconsin,WI,Chippewa County,55.3,59.2
+2022-01-20,55019,Wisconsin,WI,Clark County,36.2,38.9
+2022-01-20,55021,Wisconsin,WI,Columbia County,65.1,70
+2022-01-20,55023,Wisconsin,WI,Crawford County,57.1,61.2
+2022-01-20,55025,Wisconsin,WI,Dane County,80.7,87.9
+2022-01-20,55027,Wisconsin,WI,Dodge County,50.3,54.5
+2022-01-20,55029,Wisconsin,WI,Door County,76.3,83.1
+2022-01-20,55031,Wisconsin,WI,Douglas County,42.4,54.8
+2022-01-20,55033,Wisconsin,WI,Dunn County,47.6,51
+2022-01-20,55035,Wisconsin,WI,Eau Claire County,60.1,63.6
+2022-01-20,55037,Wisconsin,WI,Florence County,54,57.9
+2022-01-20,55039,Wisconsin,WI,Fond du Lac County,53.6,59
+2022-01-20,55041,Wisconsin,WI,Forest County,58.1,65.8
+2022-01-20,55043,Wisconsin,WI,Grant County,53.4,58.6
+2022-01-20,55045,Wisconsin,WI,Green County,62.3,65.9
+2022-01-20,55047,Wisconsin,WI,Green Lake County,54.2,58.6
+2022-01-20,55049,Wisconsin,WI,Iowa County,67.3,72
+2022-01-20,55051,Wisconsin,WI,Iron County,64.7,72.4
+2022-01-20,55053,Wisconsin,WI,Jackson County,48.7,52.6
+2022-01-20,55055,Wisconsin,WI,Jefferson County,55.7,60.1
+2022-01-20,55057,Wisconsin,WI,Juneau County,51.9,56.6
+2022-01-20,55059,Wisconsin,WI,Kenosha County,57.2,64.9
+2022-01-20,55061,Wisconsin,WI,Kewaunee County,50.5,53.7
+2022-01-20,55063,Wisconsin,WI,La Crosse County,67.1,72.5
+2022-01-20,55065,Wisconsin,WI,Lafayette County,58.5,63.6
+2022-01-20,55067,Wisconsin,WI,Langlade County,52.5,55.7
+2022-01-20,55069,Wisconsin,WI,Lincoln County,53.8,57.5
+2022-01-20,55071,Wisconsin,WI,Manitowoc County,58.6,63.4
+2022-01-20,55073,Wisconsin,WI,Marathon County,58.1,63.7
+2022-01-20,55075,Wisconsin,WI,Marinette County,51.4,55.7
+2022-01-20,55077,Wisconsin,WI,Marquette County,52,55.2
+2022-01-20,55078,Wisconsin,WI,Menominee County,77.2,81.6
+2022-01-20,55079,Wisconsin,WI,Milwaukee County,61.2,69
+2022-01-20,55081,Wisconsin,WI,Monroe County,52.1,57.9
+2022-01-20,55083,Wisconsin,WI,Oconto County,51.6,55.2
+2022-01-20,55085,Wisconsin,WI,Oneida County,63.6,68.8
+2022-01-20,55087,Wisconsin,WI,Outagamie County,62.1,67.5
+2022-01-20,55089,Wisconsin,WI,Ozaukee County,69.8,76.5
+2022-01-20,55091,Wisconsin,WI,Pepin County,48,51.9
+2022-01-20,55093,Wisconsin,WI,Pierce County,42.7,48.3
+2022-01-20,55095,Wisconsin,WI,Polk County,49.4,55
+2022-01-20,55097,Wisconsin,WI,Portage County,60.2,67.2
+2022-01-20,55099,Wisconsin,WI,Price County,60.4,64.5
+2022-01-20,55101,Wisconsin,WI,Racine County,58.2,64.4
+2022-01-20,55103,Wisconsin,WI,Richland County,57.1,61.5
+2022-01-20,55105,Wisconsin,WI,Rock County,66.6,73.8
+2022-01-20,55107,Wisconsin,WI,Rusk County,40,43.3
+2022-01-20,55111,Wisconsin,WI,Sauk County,61.5,66.7
+2022-01-20,55113,Wisconsin,WI,Sawyer County,58.5,68.3
+2022-01-20,55115,Wisconsin,WI,Shawano County,51.9,55.8
+2022-01-20,55117,Wisconsin,WI,Sheboygan County,60,65.1
+2022-01-20,55109,Wisconsin,WI,St. Croix County,48.4,56.1
+2022-01-20,55119,Wisconsin,WI,Taylor County,34.4,36.5
+2022-01-20,55121,Wisconsin,WI,Trempealeau County,63.9,68.8
+2022-01-20,55123,Wisconsin,WI,Vernon County,53.8,57.1
+2022-01-20,55125,Wisconsin,WI,Vilas County,64.2,71.3
+2022-01-20,55127,Wisconsin,WI,Walworth County,51.9,58.1
+2022-01-20,55129,Wisconsin,WI,Washburn County,61.6,66.6
+2022-01-20,55131,Wisconsin,WI,Washington County,55.8,60.6
+2022-01-20,55133,Wisconsin,WI,Waukesha County,67.9,74.5
+2022-01-20,55135,Wisconsin,WI,Waupaca County,52.6,56
+2022-01-20,55137,Wisconsin,WI,Waushara County,43.4,46.7
+2022-01-20,55139,Wisconsin,WI,Winnebago County,59.2,64.7
+2022-01-20,55141,Wisconsin,WI,Wood County,59.6,65.8
+2022-01-20,56001,Wyoming,WY,Albany County,54.9,61
+2022-01-20,56003,Wyoming,WY,Big Horn County,38.3,42.5
+2022-01-20,56005,Wyoming,WY,Campbell County,29.8,34.8
+2022-01-20,56007,Wyoming,WY,Carbon County,44.4,54.9
+2022-01-20,56009,Wyoming,WY,Converse County,33,36.6
+2022-01-20,56011,Wyoming,WY,Crook County,29.6,34.7
+2022-01-20,56013,Wyoming,WY,Fremont County,57.9,70
+2022-01-20,56015,Wyoming,WY,Goshen County,38.9,43.3
+2022-01-20,56017,Wyoming,WY,Hot Springs County,48.6,51.3
+2022-01-20,56019,Wyoming,WY,Johnson County,42.2,46.7
+2022-01-20,56021,Wyoming,WY,Laramie County,54.4,62.6
+2022-01-20,56023,Wyoming,WY,Lincoln County,41.9,47.2
+2022-01-20,56025,Wyoming,WY,Natrona County,44.8,50.1
+2022-01-20,56027,Wyoming,WY,Niobrara County,30.5,33.4
+2022-01-20,56029,Wyoming,WY,Park County,44.9,50.3
+2022-01-20,56031,Wyoming,WY,Platte County,40.3,43.6
+2022-01-20,56033,Wyoming,WY,Sheridan County,51.2,57.9
+2022-01-20,56035,Wyoming,WY,Sublette County,36.1,41.3
+2022-01-20,56037,Wyoming,WY,Sweetwater County,47.8,56.6
+2022-01-20,56039,Wyoming,WY,Teton County,89.8,95
+2022-01-20,56041,Wyoming,WY,Uinta County,49,57.5
+2022-01-20,56043,Wyoming,WY,Washakie County,42.6,45.8
+2022-01-20,56045,Wyoming,WY,Weston County,36.6,40
+2022-01-20,66010,Guam,GU,Guam,57.6,60
