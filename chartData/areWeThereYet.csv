@@ -1,5 +1,5 @@
 State,% Population Fully Immunized,Doses administered in the last four weeks,Estimated to 70% Pop 2 Doses
-United States,65.9,"1,846,985",December 2022
+United States,65.9,"1,844,129",December 2022
 Colorado,70,         0,Reached 70% fully vaccinated
 Connecticut,78.9,         0,Reached 70% fully vaccinated
 District of Columbia,73.6,         0,Reached 70% fully vaccinated
@@ -9,31 +9,31 @@ Maine,79.2,         0,Reached 70% fully vaccinated
 New Mexico,70.8,         0,Reached 70% fully vaccinated
 Puerto Rico,82.8,         0,Reached 70% fully vaccinated
 Vermont,80.9,         0,Reached 70% fully vaccinated
-Massachusetts,78.6," 2,953,912",Reached 70% fully vaccinated
-Rhode Island,82.1,"   852,088",Reached 70% fully vaccinated
-New York,76.6,"13,055,027",Reached 70% fully vaccinated
-New Jersey,75.4," 5,748,666",Reached 70% fully vaccinated
-Virginia,72.9," 4,185,971",Reached 70% fully vaccinated
-California,71.8,"23,959,384",Reached 70% fully vaccinated
-Washington,72.4," 5,007,566",Reached 70% fully vaccinated
-Florida,66.7,"13,670,409",May 2022
-Illinois,68.5," 7,725,077",May 2022
-Oregon,69.4,"   695,523",May 2022
-Pennsylvania,68.1," 5,804,059",May 2022
-Delaware,68.8,"   160,209",May 2022
+Massachusetts,78.6," 2,953,881",Reached 70% fully vaccinated
+Rhode Island,82.2,"   852,246",Reached 70% fully vaccinated
+New York,76.6,"13,056,575",Reached 70% fully vaccinated
+New Jersey,75.4," 5,749,402",Reached 70% fully vaccinated
+Virginia,72.9," 4,187,577",Reached 70% fully vaccinated
+California,71.8,"23,962,750",Reached 70% fully vaccinated
+Washington,72.4," 5,007,587",Reached 70% fully vaccinated
+Florida,66.8,"13,674,279",May 2022
+Illinois,68.5," 7,726,185",May 2022
+Oregon,69.4,"   696,594",May 2022
+Pennsylvania,68.1," 5,805,794",May 2022
+Delaware,68.8,"   160,099",May 2022
 Nebraska,63.4,"   810,352",May 2022
-North Carolina,60.6," 5,757,284",May 2022
-Texas,61.2,"14,057,310",May 2022
-Arizona,61.3," 2,837,515",May 2022
-Michigan,60," 4,933,257",May 2022
-Iowa,61.8,"   849,136",May 2022
-South Carolina,56.6," 2,053,913",May 2022
-Tennessee,54.3," 3,175,098",May 2022
+North Carolina,60.6," 5,759,162",May 2022
+Texas,61.2,"14,059,976",May 2022
+Arizona,61.3," 2,838,327",May 2022
+Michigan,60," 4,934,127",May 2022
+Iowa,61.8,"   849,032",May 2022
+South Carolina,56.6," 2,053,796",May 2022
+Tennessee,54.3," 3,175,102",May 2022
 Alaska,62,"   156,191",May 2022
-Alaska,61.5,"   155,181",May 2022
-Alabama,51," 2,048,359",May 2022
-Kentucky,57.2,"   789,244",June 2022
-Nevada,60.6,"   394,611",June 2022
+Alaska,61.5,"   155,389",May 2022
+Alabama,51," 2,048,682",May 2022
+Kentucky,57.2,"   789,590",June 2022
+Nevada,60.6,"   394,923",June 2022
 Arkansas,54.2,         0,NA
 Georgia,54.5,         0,NA
 Idaho,53.9,         0,NA
@@ -46,7 +46,7 @@ Mississippi,51.7,         0,NA
 Montana,56.6,         0,NA
 North Dakota,54.7,         0,NA
 New Hampshire,69.2,         0,NA
-Ohio,58.2,         0,NA
+Ohio,58.3,         0,NA
 Oklahoma,57,         0,NA
 South Dakota,61,         0,NA
 Utah,64.1,         0,NA
