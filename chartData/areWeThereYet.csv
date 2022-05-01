@@ -1,8 +1,8 @@
 State,% Population Fully Immunized,Doses administered in the last four weeks,Estimated to 70% Pop 2 Doses
-United States,66.2,"1,901,756",December 2022
+United States,66.2,"1,895,427",December 2022
 Colorado,70.2,         0,Reached 70% fully vaccinated
 Connecticut,79.2,         0,Reached 70% fully vaccinated
-District of Columbia,74.2,         0,Reached 70% fully vaccinated
+District of Columbia,74.3,         0,Reached 70% fully vaccinated
 Hawaii,78.2,         0,Reached 70% fully vaccinated
 Maryland,75.6,         0,Reached 70% fully vaccinated
 Maine,79.5,         0,Reached 70% fully vaccinated
@@ -10,38 +10,38 @@ New Hampshire,70.2,         0,Reached 70% fully vaccinated
 New Mexico,71.1,         0,Reached 70% fully vaccinated
 Puerto Rico,83,         0,Reached 70% fully vaccinated
 Vermont,81.1,         0,Reached 70% fully vaccinated
-Massachusetts,79," 2,968,442",Reached 70% fully vaccinated
-Rhode Island,82.5,"   855,701",Reached 70% fully vaccinated
-New York,76.9,"13,101,590",Reached 70% fully vaccinated
-New Jersey,75.6," 5,772,100",Reached 70% fully vaccinated
-Virginia,73.2," 4,194,648",Reached 70% fully vaccinated
-California,72,"24,026,634",Reached 70% fully vaccinated
-Washington,72.6," 5,022,316",Reached 70% fully vaccinated
-Florida,67,"13,715,357",May 2022
-Illinois,68.7," 7,746,286",May 2022
-Oregon,69.6,"   694,569",May 2022
-Pennsylvania,68.4," 5,838,387",May 2022
-Delaware,69.1,"   158,123",May 2022
-Nebraska,63.6,"   813,300",June 2022
-North Carolina,61.1," 5,802,699",June 2022
-Texas,61.4,"14,118,004",June 2022
-Arizona,61.6," 2,851,373",June 2022
-Michigan,60.1," 4,945,340",June 2022
-Iowa,61.9,"   852,671",June 2022
-South Carolina,56.7," 2,051,918",June 2022
-Tennessee,54.5," 3,185,896",June 2022
-Alaska,62.3,"   157,179",June 2022
-Alaska,61.8,"   156,291",June 2022
-Alabama,51.1," 2,053,217",June 2022
-Kentucky,57.4,"   790,460",June 2022
-Nevada,60.8,"   396,393",June 2022
+Massachusetts,79," 2,967,785",Reached 70% fully vaccinated
+Rhode Island,82.5,"   855,870",Reached 70% fully vaccinated
+New York,76.9,"13,104,466",Reached 70% fully vaccinated
+New Jersey,75.6," 5,773,021",Reached 70% fully vaccinated
+Virginia,73.2," 4,196,514",Reached 70% fully vaccinated
+California,72.1,"24,032,465",Reached 70% fully vaccinated
+Washington,72.6," 5,022,330",Reached 70% fully vaccinated
+Florida,67,"13,720,973",May 2022
+Illinois,68.7," 7,752,562",May 2022
+Oregon,69.6,"   695,319",May 2022
+Pennsylvania,68.4," 5,840,846",May 2022
+Delaware,69.1,"   157,840",May 2022
+North Carolina,61.1," 5,805,761",June 2022
+Nebraska,63.6,"   813,291",June 2022
+Texas,61.4,"14,121,881",June 2022
+Arizona,61.6," 2,852,834",June 2022
+Michigan,60.1," 4,946,592",June 2022
+Iowa,61.9,"   852,676",June 2022
+South Carolina,56.7," 2,051,793",June 2022
+Tennessee,54.5," 3,185,814",June 2022
+Alaska,62.3,"   157,177",June 2022
+Alaska,61.8,"   156,281",June 2022
+Alabama,51.1," 2,053,987",June 2022
+Kentucky,57.4,"   790,205",June 2022
+Nevada,60.8,"   396,340",June 2022
 Arkansas,54.4,         0,NA
 Georgia,54.7,         0,NA
 Idaho,54.1,         0,NA
 Indiana,54.8,         0,NA
 Kansas,61.4,         0,NA
 Louisiana,53.5,         0,NA
-Minnesota,69.1,         0,NA
+Minnesota,69.2,         0,NA
 Missouri,56.1,         0,NA
 Mississippi,51.8,         0,NA
 Montana,56.7,         0,NA
@@ -50,7 +50,7 @@ Ohio,58.4,         0,NA
 Oklahoma,57.2,         0,NA
 South Dakota,61.4,         0,NA
 Utah,64.3,         0,NA
-Wisconsin,65.5,         0,NA
+Wisconsin,65.6,         0,NA
 West Virginia,57.6,         0,NA
 Wyoming,51.6,         0,NA
 NA,84.2,         0,Reached 70% fully vaccinated
