@@ -28,7 +28,9 @@ jobs:
         with:
           r-version: '4.1.2'
       # install renv package
-      - run: R -e 'install.packages("renv")'
+      - run: |-
+          R -e 'install.packages("renv")'
+          R -e 'renv::upgrade(project = ".", reload = T, prompt = F)'
       # set up cache
       - name: Cache packages
         uses: actions/cache@v2
@@ -39,9 +41,7 @@ jobs:
               ${{ runner.os }}-renv-
       # - run: sudo apt install -y --no-install-recommends libcurl4-openssl-dev
       # install c++ dependencies and install necessary packages
-      - run: |-
-          R -e 'install.packages("renv")'
-          R -e 'renv::upgrade(project = ".", reload = T, prompt = F)'
+      - run: R -e 'renv::restore()'
       # execute Rscript
       - run: Rscript vwVaccineDataTracker.R
         env: 
