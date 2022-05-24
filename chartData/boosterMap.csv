@@ -1,52 +1,52 @@
 LongName,Location,Additional_Doses_Vax_Pct
-New York,NY,45.9
-Massachusetts,MA,51.7
-Minnesota,MN,58
-Rhode Island,RI,54
-Illinois,IL,52.3
-New Hampshire,NH,46.3
-New Jersey,NJ,48
-Idaho,ID,42.9
-Tennessee,TN,44.4
-South Carolina,SC,40.3
-West Virginia,WV,46.1
-California,CA,52.9
-Utah,UT,44.9
-Hawaii,HI,51.7
-Connecticut,CT,52
-Maine,ME,56.4
-Michigan,MI,54.6
-Arizona,AZ,42.5
-Alaska,AK,43.9
-New Mexico,NM,50.1
-Georgia,GA,38.2
 Pennsylvania,PA,43
-Kentucky,KY,44.6
-North Carolina,NC,26.8
-Louisiana,LA,39.9
-Washington,WA,52.7
-Colorado,CO,52.3
-Arkansas,AR,40.1
-Vermont,VT,60.9
-Montana,MT,48.1
-Maryland,MD,51.3
-Nevada,NV,39
-Kansas,KS,43.1
-North Dakota,ND,43.2
-Mississippi,MS,37.6
-Nebraska,NE,50.8
-South Dakota,SD,42.1
-Missouri,MO,42.8
-Oklahoma,OK,37.7
-Indiana,IN,46.4
-Virginia,VA,47.7
-Oregon,OR,54
-Alabama,AL,36
-Florida,FL,40.7
-Wyoming,WY,43.4
-Ohio,OH,52.4
-Delaware,DE,46.2
+Arizona,AZ,42.5
 Texas,TX,38.6
-Iowa,IA,53.3
-District of Columbia,DC,40.6
+Arkansas,AR,40.1
+North Dakota,ND,43.2
+Wyoming,WY,43.5
+Oregon,OR,54
+Colorado,CO,52.5
+Connecticut,CT,52
+Nevada,NV,39
+California,CA,52.9
+Florida,FL,40.8
+Louisiana,LA,39.9
+South Dakota,SD,42.1
+Alabama,AL,36
+Illinois,IL,52.3
+West Virginia,WV,46.2
+Ohio,OH,52.4
+Rhode Island,RI,54.1
+Tennessee,TN,44.4
+Minnesota,MN,58.1
+Montana,MT,48.1
+Virginia,VA,47.7
+Nebraska,NE,51
+New Mexico,NM,50.1
+New York,NY,45.9
 Wisconsin,WI,56.6
+Mississippi,MS,37.7
+Massachusetts,MA,51.7
+Hawaii,HI,51.8
+Georgia,GA,38.3
+Vermont,VT,60.9
+Kansas,KS,43.1
+Oklahoma,OK,37.8
+New Hampshire,NH,46.4
+Utah,UT,44.9
+Michigan,MI,54.6
+Maryland,MD,51.4
+Washington,WA,52.7
+South Carolina,SC,40.4
+Indiana,IN,46.4
+Maine,ME,56.5
+Iowa,IA,53.4
+Alaska,AK,43.9
+North Carolina,NC,26.8
+Kentucky,KY,44.6
+New Jersey,NJ,48
+Delaware,DE,46.2
+District of Columbia,DC,40.8
+Idaho,ID,42.9
+Missouri,MO,42.8
