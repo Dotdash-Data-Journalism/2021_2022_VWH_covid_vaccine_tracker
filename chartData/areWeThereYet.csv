@@ -1,41 +1,41 @@
 State,% Population Fully Immunized,Doses administered in the last four weeks,Estimated to 70% Pop 2 Doses
-United States,69.2,"484,585",August 2023
+United States,69.2,"464,492",August 2023
 Colorado,73.4,         0,Reached 70% fully vaccinated
-Connecticut,82.9,         0,Reached 70% fully vaccinated
-District of Columbia,90.2,         0,Reached 70% fully vaccinated
+Connecticut,83,         0,Reached 70% fully vaccinated
+District of Columbia,90.3,         0,Reached 70% fully vaccinated
 Hawaii,81.4,         0,Reached 70% fully vaccinated
 Maryland,79.6,         0,Reached 70% fully vaccinated
 Maine,83.2,         0,Reached 70% fully vaccinated
-Minnesota,72,         0,Reached 70% fully vaccinated
-New Hampshire,71.8,         0,Reached 70% fully vaccinated
+Minnesota,72.1,         0,Reached 70% fully vaccinated
+New Hampshire,71.9,         0,Reached 70% fully vaccinated
 New Mexico,75.1,         0,Reached 70% fully vaccinated
-Puerto Rico,83.9,         0,Reached 70% fully vaccinated
-Vermont,85.5,         0,Reached 70% fully vaccinated
-Delaware,73.2,"   110,759",Reached 70% fully vaccinated
-Massachusetts,84.1," 3,246,162",Reached 70% fully vaccinated
-Rhode Island,87.6,"   909,322",Reached 70% fully vaccinated
-New Jersey,79," 6,047,029",Reached 70% fully vaccinated
-New York,80.7,"13,740,255",Reached 70% fully vaccinated
-Oregon,72.3,"   665,472",Reached 70% fully vaccinated
-Virginia,76.5," 4,398,689",Reached 70% fully vaccinated
-California,74.6,"24,678,284",Reached 70% fully vaccinated
-Pennsylvania,73.2," 6,330,580",Reached 70% fully vaccinated
-Washington,75.9," 5,250,488",Reached 70% fully vaccinated
-Florida,69.3,"14,181,307",February 2023
-Illinois,71.1," 8,005,590",Reached 70% fully vaccinated
-North Carolina,67," 6,399,158",February 2023
-Nebraska,66.2,"   834,987",February 2023
-Arizona,65.9," 3,087,702",February 2023
-Michigan,62.3," 5,102,339",February 2023
-Texas,63.2,"14,478,978",February 2023
-Alaska,65.1,"   169,250",March 2023
-Iowa,64.3,"   877,694",March 2023
-Alaska,64.9,"   168,824",March 2023
-South Carolina,59.8," 2,154,872",March 2023
-Tennessee,56.2," 3,256,454",March 2023
-Alabama,53.1," 2,128,628",March 2023
-Nevada,63.6,"   390,032",March 2023
-Kentucky,59.6,"   766,270",March 2023
+Puerto Rico,84,         0,Reached 70% fully vaccinated
+Vermont,85.6,         0,Reached 70% fully vaccinated
+Delaware,73.3,"   110,180",Reached 70% fully vaccinated
+Massachusetts,84.2," 3,248,388",Reached 70% fully vaccinated
+Rhode Island,87.6,"   909,782",Reached 70% fully vaccinated
+New Jersey,79.1," 6,049,962",Reached 70% fully vaccinated
+New York,80.7,"13,746,362",Reached 70% fully vaccinated
+Oregon,72.3,"   664,540",Reached 70% fully vaccinated
+Virginia,76.5," 4,400,892",Reached 70% fully vaccinated
+California,74.6,"24,687,449",Reached 70% fully vaccinated
+Pennsylvania,73.3," 6,336,100",Reached 70% fully vaccinated
+Washington,76," 5,252,861",Reached 70% fully vaccinated
+Illinois,71.2," 8,014,931",Reached 70% fully vaccinated
+Florida,69.3,"14,179,982",March 2023
+North Carolina,67.1," 6,402,404",March 2023
+Nebraska,66.2,"   835,278",March 2023
+Arizona,65.9," 3,088,448",March 2023
+Michigan,62.3," 5,103,365",March 2023
+Texas,63.2,"14,484,769",March 2023
+Alaska,65.1,"   169,363",March 2023
+Iowa,64.3,"   878,222",March 2023
+Alaska,65,"   168,870",March 2023
+South Carolina,59.9," 2,155,701",March 2023
+Tennessee,56.2," 3,256,830",March 2023
+Alabama,53.1," 2,129,421",March 2023
+Nevada,63.7,"   389,764",March 2023
+Kentucky,59.6,"   766,351",March 2023
 Arkansas,56.8,         0,NA
 Georgia,57.2,         0,NA
 Idaho,56.4,         0,NA
@@ -51,6 +51,6 @@ Oklahoma,60.4,         0,NA
 South Dakota,66.2,         0,NA
 Utah,66.6,         0,NA
 Wisconsin,68.1,         0,NA
-West Virginia,59.6,         0,NA
+West Virginia,59.7,         0,NA
 Wyoming,53,         0,NA
 NA,86,         0,Reached 70% fully vaccinated
